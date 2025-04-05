@@ -1,0 +1,1629 @@
+fieldQID,fieldName
+Q8162,linguistics
+Q8134,economics
+Q98021564,learning math
+Q411,astrobiology
+Q8008,earth science
+Q638,music
+Q249,wireless communication
+Q466,World Wide Web
+Q1069,geology
+Q2329,chemistry
+Q11190,medicine
+Q2539,machine learning
+Q12271,architecture
+Q7173,marine biology
+Q7175,mycology
+Q7206,paleoanthropology
+Q27841,economic anthropology
+Q7208,pathology
+Q131476,graph theory
+Q30642,natural language processing
+Q38112,forestry
+Q34178,theology
+Q39825,census
+Q189553,otolaryngology
+Q43015,finance
+Q52109,geomorphology
+Q43455,ethnology
+Q43504,criminalistics
+Q60195,semiotics
+Q21201,sociology
+Q189603,public health
+Q43518,oceanography
+Q80083,humanities
+Q190375,historical linguistics
+Q54837,Semantic Web
+Q118301,orthodontics
+Q52120,glaciology
+Q192386,military science
+Q205398,social work
+Q180634,distributed computing
+Q156318,etiology
+Q192694,paleobotany
+Q190553,sociobiology
+Q192625,linguistic typology
+Q253140,viticulture
+Q860374,accounting studies
+Q193870,tribology
+Q193544,music theory
+Q194292,operations research
+Q917680,Vedanga
+Q1368144,Esperantology
+Q3201372,xylology
+Q3543374,comparative economic systems
+Q4384741,Pushkin studies
+Q5749238,cariology
+Q1370331,Estonian studies
+Q1493973,garbology
+Q1682379,Poliorcetica
+Q2315537,ichnology
+Q2348608,environmental geology
+Q194294,bioethics
+Q192781,military history
+Q199655,library science
+Q333,astronomy
+Q11473,thermodynamics
+Q23399,memetics
+Q200253,traditional Chinese medicine
+Q23404,anthropology
+Q376657,strategic management
+Q336,science
+Q7748,law
+Q23498,archaeology
+Q338,cosmology
+Q7754,mathematical analysis
+Q7867,psychiatry
+Q394,metrology
+Q6368,web browser
+Q395,mathematics
+Q7922,pedagogy
+Q7150,ecology
+Q7991,natural science
+Q8096,lexicon
+Q8091,grammar
+Q121127032,organorhodium chemistry
+Q122933041,monsoon meteorology
+Q122934780,invertebrate pathology
+Q122935277,fish pathology
+Q122951657,avian pathology
+Q124468378,geoinformation science
+Q124650805,vermeology
+Q126181255,selenology
+Q126366484,oligochaetology
+Q126366522,lumbricology
+Q126368867,cecidiology
+Q1298380,sports science
+Q1341277,energy research
+Q1367176,Iranian studies
+Q1336265,neuroethology
+Q1371704,etruscology
+Q1389268,failure mode and effects analysis
+Q1409472,fire ecology
+Q1412144,ecotoxicology
+Q1540472,knowledge engineering
+Q1648514,geology of the Moon
+Q1664460,insular biogeography
+Q2249329,forest ecology
+Q2684571,insect anatomy
+Q2200417,cognition
+Q2555318,automated reasoning
+Q1800439,church history
+Q1976068,helminthology
+Q7155,ethology
+Q34749,social science
+Q7162,genetics
+Q35986,aesthetics
+Q413,physics
+Q58908,galactic astronomy
+Q59068,Czech studies
+Q80993,software engineering
+Q83353,mineralogy
+Q213891,geochronology
+Q214781,condensed matter physics
+Q272737,phenology
+Q295354,law and economics
+Q324254,ontology
+Q334823,structural geology
+Q396338,agroecology
+Q435608,ancient history
+Q455928,paleornithology
+Q577555,ophiology
+Q638608,software development
+Q648154,Byzantine studies
+Q700919,chemical ecology
+Q843909,Islamic studies
+Q772835,linguistic anthropology
+Q843601,health sciences
+Q853915,economic geology
+Q864928,life sciences
+Q861716,visual culture
+Q909789,earthquake engineering
+Q912065,hydrochemistry
+Q1022240,failure analysis
+Q1044484,evolutionary developmental biology
+Q1138244,phytosociology
+Q932068,environmental health
+Q963731,semantics of logic
+Q1122550,computer music
+Q735,art
+Q1140126,social media analytics
+Q1195766,space sciences
+Q11882338,forest type science
+Q29942894,Sephardic studies
+Q52683468,explosion physics
+Q58681669,Aegean glyptic
+Q113540506,philosophy of death
+Q160845,sociolinguistics
+Q156859,Assyriology
+Q156864,Slavic studies
+Q159385,geopolitics
+Q160039,econometrics
+Q160398,crystallography
+Q1071,geography
+Q164204,musicology
+Q165650,media studies
+Q165838,limnology
+Q166542,international relations
+Q166153,German studies
+Q1889,diplomacy
+Q170201,veterinary medicine
+Q168058,campanology
+Q169525,protein engineering
+Q3306816,freshwater biology
+Q3349060,oceanology
+Q3537694,geographic information science
+Q170912,sexology
+Q3809431,exoplanetology
+Q4090659,Bulgarian studies
+Q3614972,hazard analysis
+Q3634677,vertebrate paleontology
+Q3640158,reproductive biology
+Q170978,robotics
+Q4337149,orthopterology
+Q4423818,Slovak studies
+Q4530312,marine ecology
+Q171171,dermatology
+Q172145,fluid mechanics
+Q11680831,communication studies
+Q5333460,economic entomology
+Q5728861,aquatic biology
+Q7135008,parallel parking problem
+Q7229751,popular culture studies
+Q7242358,prevention science
+Q7433745,Scientific Assessment of Ozone Depletion
+Q7445044,security management studies
+Q7663820,systemic functional linguistics
+Q9393074,Sindhology
+Q10818163,vertebrate anatomy
+Q11492827,computer science and engineering
+Q11680018,astrochemistry
+Q7681446,Tamilology
+Q9293033,historiology
+Q9307400,reptiliology
+Q9335841,vespology
+Q9361552,trichopterology
+Q15148892,analysis of social structure
+Q16000119,igneous petrology
+Q16669122,human pathology
+Q16911243,orchidology
+Q17014367,transgender studies
+Q177635,nephrology
+Q4806809,Asian studies
+Q4869597,batrachology
+Q5001951,business studies
+Q5060376,Central Asian studies
+Q173113,agronomy
+Q9418,psychology
+Q174028,Thai studies
+Q12336277,social research
+Q12717855,radar meteorology
+Q12744095,invertebrate zoology
+Q175403,microelectronics
+Q177571,decision theory
+Q19924411,forestry science
+Q17149027,Taiwan studies
+Q18351432,Industrial and Production engineering
+Q178433,lexicology
+Q11709699,heteropterology
+Q11830794,pteridology
+Q12166572,counseling psychology
+Q179012,project management
+Q179509,hydrogeology
+Q179957,palaeography
+Q179235,phenomenology
+Q180388,waste management
+Q9465,ethics
+Q181505,astrometry
+Q83944,human evolution
+Q102904,volcanology
+Q182468,hydrography
+Q182557,computational linguistics
+Q183257,psychotherapy
+Q184199,automation
+Q104499,planetary science
+Q1273174,petroleum engineering
+Q1276130,"extract, transform, load"
+Q11016,technology
+Q1519812,health policy
+Q1661989,Industry 4.0
+Q1513879,natural language generation
+Q1662581,information model
+Q1335366,neuroendocrinology
+Q1453477,Freebase
+Q11023,engineering
+Q10379,cardiology
+Q2299570,somatology
+Q2383547,cryology
+Q2485457,science education
+Q2488768,non-monotonic logic
+Q2640207,bilingual dictionary
+Q10384,geriatrics
+Q2668072,collection
+Q1751819,RDF Schema
+Q1938208,legal institution
+Q1988917,data analysis
+Q11165,inorganic chemistry
+Q483639,cloud computing
+Q1034047,transportation planning
+Q1057314,Hebrew literature
+Q1756157,area of law
+Q28800541,hard and soft science
+Q25261,meteorology
+Q11351,organic chemistry
+Q26643,commerce
+Q27752,Native American studies
+Q27968,English studies
+Q11372,physical chemistry
+Q28161,labour economics
+Q28075,Latino studies
+Q28598,cultural anthropology
+Q28617,Latin American studies
+Q28793,film theory
+Q420,biology
+Q28797,applied science
+Q228502,access control
+Q330268,decision support system
+Q334384,supervised learning
+Q456632,information privacy
+Q461183,text corpus
+Q31151,population genetics
+Q483130,geographic information system
+Q31218,health economics
+Q593744,knowledge base
+Q33226,speech-language pathology
+Q632897,digital preservation
+Q33521,applied mathematics
+Q722609,MARC standards
+Q780743,Tajwid
+Q816826,information retrieval
+Q847829,narrative structure
+Q34187,religious studies
+Q870895,health informatics
+Q908604,social history
+Q928865,art therapy
+Q980357,grammatical category
+Q1149653,building automation
+Q11635,theatre
+Q11650,electronics
+Q12128,dentistry
+Q16387,information science
+Q18336,heraldry
+Q18346,physical cosmology
+Q18366,experimental physics
+Q21198,computer science
+Q431,zoology
+Q58199,instant messaging
+Q93288,contract
+Q7778,history of France
+Q7781,history of Spain
+Q102066,navigation
+Q208365,ethnomusicology
+Q7163,politics
+Q121176,nursing
+Q214526,automata theory
+Q215501,pedology
+Q222046,genomics
+Q219695,evolutionary psychology
+Q223693,ecclesiology
+Q131257,intellectual property
+Q228736,materials science
+Q418,telecommunication
+Q8424,aerodynamics
+Q7193,microbiology
+Q7205,paleontology
+Q8427,Turkology
+Q8789,cryptography
+Q132116,folkloristics
+Q2346,analytical chemistry
+Q134783,stratigraphy
+Q2466,geology of Mars
+Q147638,cognitive science
+Q136352,bird anatomy
+Q3872,neuropsychology
+Q3999,human anatomy
+Q5891,philosophy
+Q441,botany
+Q126368892,coccidology
+Q126733835,areology
+Q127069206,acridology
+Q127220291,ombrology
+Q127388251,uredinology
+Q127420314,echinology
+Q127467486,microseismology
+Q127478574,mycoplasmology
+Q127676088,pestology
+Q127676320,pathematology
+Q128284215,chromosomology
+Q129090673,neossology
+Q129092748,neurocytology
+Q130111976,eccrinology
+Q130216732,synaptology
+Q130236442,blood physiology
+Q130261998,digestive physiology
+Q130304869,reproductive physiology
+Q131289096,Computer technology
+Q131344606,desmidiology
+Q131382012,ichneumonology
+Q131560888,cometology
+Q55336315,art
+Q55585049,Maltese studies
+Q55659895,conflict analysis & resolution
+Q55659899,International Trade
+Q58038005,economics of insurance
+Q61951540,normativistics
+Q203337,pulmonology
+Q62302889,art practice
+Q112980803,Manufacturing robotics
+Q113001573,"Culture, representation and identity"
+Q113041614,"photonics, optoelectronics and optical communications"
+Q113042730,speciation and extinction
+Q113043256,pollution and contamination
+Q113043835,mathematics and numeracy curriculum and pedagogy
+Q113077033,characterisation of biological macromolecules
+Q113077260,workplace wellbeing and quality of working life
+Q113093943,adverse weather events
+Q113095615,greenhouse gas inventories and fluxes
+Q113096377,oral implantology
+Q113098209,regolith and landscape evolution
+Q113098404,taxation and revenue in economics
+Q113104586,assistive robots and technology
+Q113114652,composite and hybrid materials
+Q113114806,groundwater quality processes and contaminated land assessment
+Q113114824,surface water quality processes and contaminated sediment assessment
+Q205084,computational complexity theory
+Q207011,neuroscience
+Q113115825,correctional theory
+Q113115876,"labour, migration and development"
+Q113128088,media industry studies
+Q113128791,Latin and classical Greek literature
+Q113128855,popular and genre literature studies
+Q113129241,built environment and design studies
+Q113133333,plant cell and molecular biology
+Q113134501,amino acids and metabolites in medical biochemistry
+Q113134526,proteins and peptides in medical biochemistry
+Q113135079,solid tumour oncology
+Q113135108,building industry studies
+Q113141551,catalysis and mechanisms of reactions
+Q113141555,environment and climate finance
+Q113141571,"banking, finance and investment studies"
+Q113147148,air transport sciences
+Q113161523,field robotics
+Q113161574,electrical circuits and systems
+Q113207671,excited state chemistry
+Q113212205,"Aboriginal and Torres Strait Islander peoples, society and community"
+Q113406449,phylomemetics
+Q113732282,Eathworms study
+Q113827235,environmental health sciences
+Q113951766,Iberoamerican studies
+Q114342310,croatology
+Q114562193,Brussels studies
+Q114567052,Shinto studies
+Q114588918,transport management
+Q114602980,climate modeling
+Q114778863,irrigation engineering
+Q115158945,folktale study
+Q115161680,topographic cartography
+Q115166304,storiology
+Q115669282,Algerian studies
+Q115669295,Angolan studies
+Q115669332,Cameroon studies
+Q115669342,Cape Verde studies
+Q115669378,Congolese studies (Democratic Republic of Congo)
+Q115669401,Djiboutian studies
+Q115669424,Eritrean studies
+Q115669443,Gambian studies
+Q115669458,Ghana studies
+Q115669479,Zimbabwean studies
+Q115669494,South African studies
+Q115669513,Sudan studies
+Q115669553,Togolese studies
+Q115669585,Rwandan studies
+Q115669616,Sahel studies
+Q115669647,Nigerian studies
+Q115669680,Namibian studies
+Q115669699,Liberian studies
+Q115669714,Libyan studies
+Q115669800,Maghreb studies
+Q115669827,Burkina Faso studies
+Q115672782,Sierra Leone studies
+Q115675891,Yoruba studies
+Q161733,criminology
+Q207434,human–computer interaction
+Q162817,East Asian studies
+Q2516517,transport sciences
+Q163082,petrology
+Q2474068,cosmetology
+Q2560087,military art
+Q2477868,international development
+Q2564225,history of the Ottoman Empire
+Q2549249,magnetohydrodynamics
+Q2670285,geomechanics
+Q2585724,educational assessment
+Q2674423,construction engineering
+Q2728012,neurobiology
+Q2699874,neuropsychiatry
+Q2737409,science of hadith
+Q12132,calendar
+Q12147,health
+Q2845653,arthropod anatomy
+Q2861470,emergency medicine
+Q23578769,urban studies
+Q2740627,heliophysics
+Q2878974,theoretical computer science
+Q2736989,science of public administration
+Q105094378,invasion ecology
+Q105575936,wildlife resources
+Q106099227,paleoherpetology
+Q106139468,paleomammalogy
+Q106604818,plant evolutionary biology
+Q107217372,vernal pool ecology
+Q107267429,marine mammalogy
+Q107268129,oratory
+Q11661,information technology
+Q24002214,cheloniology
+Q25404245,hemipterology
+Q27808133,paleoichthyology
+Q27964550,acid–base chemistry
+Q27992545,medieval history
+Q29980364,Hebrew Bible studies
+Q48967834,asset pricing
+Q64811452,geospatial science
+Q96239348,social dialectology
+Q99691757,jazz studies
+Q100913396,plant ecophysiology
+Q103884376,hearing science
+Q107508911,theological studies
+Q107616960,plant cell biology
+Q110512905,asexual studies
+Q110857459,Victorian studies
+Q111389636,saurology
+Q111597209,Yugoslav studies
+Q111805508,Putinology
+Q111968621,metamorphic petrology
+Q117268402,Ainu linguistics
+Q118323427,annelidology
+Q482,poetry
+Q9174,religion
+Q27948,list
+Q27890,anthropology of religion
+Q27172,biological anthropology
+Q31207,health care
+Q521,physiology
+Q184524,lexicography
+Q185698,methodology
+Q188847,environmental science
+Q186030,contemporary art
+Q187084,newspaper studies
+Q410814,protein design
+Q442321,sustainability science
+Q396077,agrarian history
+Q185973,plant physiology
+Q856574,interlinguistics
+Q428691,computer engineering
+Q434198,Pre-Columbian studies
+Q444345,melodics
+Q864896,biotypology
+Q861641,educational sciences
+Q861455,educational management
+Q189447,risk management
+Q861689,education economics
+Q189131,bionics
+Q189380,patristics
+Q898674,neonatology
+Q899656,protein structure prediction
+Q875592,Japanese studies
+Q903778,metagenomics
+Q877637,rangaku
+Q878226,comparative linguistics
+Q904206,dermatoglyphics
+Q904555,historical Chinese phonology
+Q897219,Finno-Ugric studies
+Q908902,structural biology
+Q909821,food safety
+Q911070,history of geography
+Q11030,journalism
+Q11180,internal medicine
+Q6689,French literature
+Q7094,biochemistry
+Q7100,biophysics
+Q37547,astrophysics
+Q7108,biotechnology
+Q7141,cell biology
+Q37732,demography
+Q5283178,distributed social network
+Q3136952,history of anthropology
+Q3615129,mammal anatomy
+Q4390239,counseling
+Q6499736,vocabulary
+Q8380731,terminology
+Q38157,African studies
+Q39072,microeconomics
+Q17233037,cybersecurity
+Q2029930,organizational studies
+Q20417087,freshwater ecology
+Q2030542,oriental languages
+Q2043282,business administration
+Q20514253,blockchain
+Q104637425,material process
+Q105107179,guitar performance
+Q110672270,Europeana Data Model
+Q112269680,cartooning
+Q118987766,South and Southeast Asian languages
+Q122705444,dairy science
+Q39286,entomology
+Q40634,philology
+Q39809,marketing
+Q40998,phonology
+Q2347178,development of the human body
+Q2116549,science of journalism
+Q2135371,Swiss law
+Q2177756,diplomatic history
+Q2294553,financial economics
+Q2310752,prehistory and early history
+Q2313213,language education
+Q2321196,Usul al-fiqh
+Q2330376,standardology
+Q2445082,science and technology studies
+Q2414942,management science
+Q2428433,restoration ecology
+Q2434424,network science
+Q2305675,Occitan literature
+Q43035,electrical engineering
+Q42002,Jewish studies
+Q161437,ophthalmology
+Q2353818,strategic studies
+Q2370897,Quranic studies
+Q2374463,data science
+Q42250,hydrology
+Q44325,ontology
+Q161764,geochemistry
+Q46255,geophysics
+Q162555,oncology
+Q44497,mining
+Q42515,cartography
+Q162606,endocrinology
+Q50056,history of astronomy
+Q47555,political economy
+Q50636,media history
+Q47417,international economics
+Q47537,architectural theory
+Q50637,art history
+Q104870168,Automation in construction
+Q104913705,matorral ecology
+Q105080727,mudflat ecology
+Q105081275,tidal flat ecology
+Q105081301,seashore ecology
+Q105081450,tide pool ecology
+Q50675,historiography
+Q105582462,biology of colour
+Q52107,physical geography
+Q177567,Amazon rainforest
+Q105107008,music composition
+Q105252429,protein chemistry
+Q105277236,watershed science
+Q105397778,South Asia studies
+Q178512,public transport
+Q192776,artificial neural network
+Q179797,thesaurus
+Q52139,climatology
+Q201486,history of science
+Q188867,futures studies
+Q202833,social media
+Q105590653,gain of function research
+Q105809559,glossography
+Q105989597,subterranean biology
+Q69883,urban planning
+Q80006,computer programming
+Q191776,apologetics
+Q112800417,Ancient Cultures
+Q112933755,Biosecurity science and invasive species ecology
+Q112936679,pedology and pedometrics
+Q112936830,data visualisation and computational design
+Q112939514,environmental assessment and monitoring
+Q112939581,Genomics and transcriptomics
+Q112939592,marine and estuarine ecology
+Q112939639,British and Irish literature
+Q112939999,stylistics and textual analysis
+Q112947641,applied linguistics and educational linguistics
+Q112955551,econometric and statistical methods
+Q112955904,"Mathematical logic, set theory, lattices and universal algebra"
+Q112969953,Statistical and quantitative genetics
+Q112969963,Biogeography and phylogeography
+Q112970717,Public participation and community engagement
+Q112971034,Igneous and metamorphic petrology
+Q112971079,Urban and regional economics
+Q112976881,economic models and forecasting
+Q112976895,Curriculum and pedagogy theory and development
+Q112977070,English and literacy curriculum and pedagogy
+Q112980866,Wildlife and habitat management
+Q112981240,political theory and political philosophy
+Q113001577,International humanitarian and human rights law
+Q113001579,human rights law
+Q113001585,social and political philosophy
+Q113041763,atomic and molecular physics
+Q113042094,horticultural crop improvement
+Q113042499,"cell development, proliferation and death"
+Q113043123,"commerce, management, tourism and services"
+Q113043173,"transportation, logistics and supply chains"
+Q113043899,comparative and cross-cultural education
+Q113043917,applied and developmental psychology
+Q113066539,oncology and carcinogenesis
+Q113077118,business and labour history
+Q113077601,"history, heritage and archaeology"
+Q113093825,"drama, theatre and performance studies"
+Q113098010,Earth and space science informatics
+Q113098118,magnetism and palaeomagnetism
+Q113098245,physical geography and environmental geoscience
+Q113098300,geomorphology and regolith and landscape evolution
+Q113101884,humanities and social sciences curriculum and pedagogy
+Q113104072,education assessment and evaluation
+Q113104535,"control engineering, mechatronics and robotics"
+Q113112790,"photonic and electro-optical devices, sensors and systems"
+Q113114761,bioavailability and ecotoxicology
+Q113115026,heritage collections and interpretations
+Q113115885,political economy and social change
+Q113125740,policy and administration studies
+Q113126650,comparative government and politics
+Q113127694,Pacific Peoples music and performing arts
+Q113127945,"graphics, augmented reality and games"
+Q113127963,semi-supervised and unsupervised learning
+Q11633,photography
+Q31728,public administration
+Q29583,fashion design
+Q7787,history of Europe
+Q513850,Armenian studies
+Q515601,Italian studies
+Q580689,bioengineering
+Q208163,signal processing
+Q3919817,behavioral sciences
+Q3724101,embryology of plants
+Q3738441,I Ching studies
+Q3741966,building science
+Q580854,mythography
+Q7790,history of Portugal
+Q208217,literary studies
+Q4181964,huntsmanship
+Q4261898,Russian linguistics
+Q3744958,philematology
+Q3798668,aerospace engineering
+Q3984091,formal language theory
+Q3991234,typhlology
+Q4076591,ballet studies
+Q4086949,biocenology
+Q603441,bibliometrics
+Q615057,anaesthesiology
+Q625510,Indology
+Q575929,Croatian studies
+Q618211,optometry
+Q596086,taphonomy
+Q7791,history of Italy
+Q4470675,Ukrainian linguistics
+Q625648,photometry
+Q625699,Aramaic  studies
+Q620462,thanatology
+Q623221,algorithmic game theory
+Q4533017,ethnic anthropology
+Q4676302,Canadian studies
+Q4688251,aeroecology
+Q4693974,agricultural soil science
+Q4752891,ancient Near Eastern studies
+Q4809258,database theory
+Q4394526,international law
+Q4314780,nationalism studies
+Q4353774,health communication
+Q4388032,clinical medicine
+Q4389316,rocket dynamics
+Q627208,disability studies
+Q7794,history of Greece
+Q631286,numismatics
+Q4811702,politics in outer space
+Q4874481,Bayesian statistics
+Q4894037,human embryology
+Q650032,anthrozoology
+Q651935,organoyttrium chemistry
+Q4764962,animal nutrition science
+Q4773888,anthropogeny
+Q4782809,aquatic science
+Q4785363,genetic history of the Middle East
+Q4806576,Asian American studies
+Q633538,structural engineering
+Q4932206,jurisprudence
+Q631521,teratology
+Q1061656,interaction design
+Q641498,conservation biology
+Q1066186,study of history
+Q645938,victimology
+Q141090,encryption
+Q1127188,development economics
+Q5341232,education theory
+Q5369632,Chinese Classical Studies
+Q5095927,Chicana/o studies
+Q5163001,conservation science
+Q5258544,Buddhology
+Q5264373,design research
+Q5334416,atmospheric physics
+Q160402,perception
+Q1073340,photometry
+Q1078351,communication science
+Q1126894,phraseology
+Q4999358,Burma studies
+Q5034471,capability management
+Q1129466,discourse analysis
+Q1080293,solid mechanics
+Q1109432,hispanism
+Q1128227,Dravidian studies
+Q5381358,environmental social science
+Q5468430,foreign policy analysis
+Q1143760,Tibetology
+Q35069,women's studies
+Q35277,metaphysics
+Q3450906,behavioural biology
+Q3475802,economic and social sciences
+Q3491429,military terminology
+Q3421914,cancer research
+Q3497519,directional statistics
+Q3510521,computer security
+Q1134763,corporate finance
+Q3281534,modern period
+Q3353185,business intelligence
+Q5654877,international studies
+Q36442,political science
+Q3606845,agricultural science
+Q35395,phonetics
+Q4825228,Australian studies
+Q5508816,functional ecology
+Q5570874,global politics
+Q5597333,graphonomics
+Q5646725,kangaku
+Q3523816,molecular medicine
+Q3578710,organizational economics
+Q3592613,genetic studies of Jews
+Q3621186,Arabic studies
+Q3510806,symptomatology
+Q3520855,arthropodology
+Q6538759,lithology
+Q169411,Unified Modeling Language
+Q5766501,Hindu studies
+Q5976737,lymphology
+Q6056054,Internet studies
+Q6056663,interruption science
+Q6406743,public international law
+Q7201518,plant genetics
+Q6457238,World history
+Q6484062,land economy
+Q6497275,phenomics
+Q6502543,LGBT linguistics
+Q6522361,student affairs
+Q3707847,bookkeeping
+Q8328350,plant nutrition
+Q6556376,lipidomics
+Q6684817,lottery mathematics
+Q6817770,meontology
+Q6888384,modeling and simulation
+Q7132695,paper studies
+Q7201242,planetary cartography
+Q4260703,railway engineering
+Q3850041,Mormon studies
+Q8346141,business science
+Q8772471,educommunication
+Q7306175,redology
+Q7406565,salvage ethnography
+Q8269924,taxonomy
+Q9161265,soil science
+Q4915151,biomolecular engineering
+Q4008379,valuation
+Q4115749,business communication
+Q10660901,general economics
+Q10334763,digital media
+Q10336440,computer networking
+Q10385492,tupinology
+Q10453718,space astronomy
+Q10504412,Tea science
+Q10535277,inductive logic
+Q10590700,music history
+Q9171867,biographistics
+Q9292847,history of cinema
+Q10861331,zoopsychology
+Q10879912,Jian jia xue pai
+Q10894548,particular linguistics
+Q10978135,Lithuanian studies
+Q11084655,pharmacology of traditional Chinese medical formulae
+Q11139382,Okinawanology
+Q11333703,French language studies
+Q11450377,safety science
+Q11490637,psychical research
+Q9311551,rhodology
+Q9357091,political theory
+Q4738155,financial management
+Q36649,visual arts
+Q6497044,history of literature
+Q37038,advertising
+Q6656244,anthropometry
+Q4809578,Association law
+Q5533546,genre studies
+Q5867819,history of engineering
+Q6314146,industrial engineering and management
+Q36451,Māori
+Q235007,cardiac surgery
+Q275456,textual criticism
+Q84836722,medical affairs
+Q85710967,public policy studies
+Q86430648,publishing history
+Q86619995,genre theory
+Q94310568,Spanish studies
+Q5283295,administration
+Q265239,language and gender
+Q269915,sinology
+Q5058556,Celtic literature
+Q5268834,information and communications technology
+Q350453,teaching methodology
+Q359146,Mediology
+Q362748,Finnish studies
+Q372561,forest management
+Q375470,Russian studies
+Q287983,koniology
+Q295425,ecophysiology
+Q321249,applied linguistics
+Q324326,fortification
+Q5133849,clinical research
+Q101626226,national security and strategic studies
+Q101802668,business administration and personnel management
+Q101910631,naval architecture and marine engineering
+Q101911126,industrial and operations engineering
+Q103815015,military operational arts and science
+Q104642147,cartographic design
+Q104777741,community services
+Q105441472,space systems engineering
+Q30082957,Arabian philology
+Q30587747,astrobotany
+Q30708491,fragmentology
+Q31157641,vase science
+Q34850488,sindonology
+Q35832005,Iberian studies
+Q41607440,design studies
+Q42170949,tungustology
+Q42985020,invasion biology
+Q28426188,management studies
+Q28793139,fan studies
+Q28874013,drylands safety
+Q29864664,syntactics
+Q24260742,catalanistics
+Q24952707,Neo-Latin philology
+Q25101906,heritage studies
+Q25109832,Catholic ecclesiology
+Q25111456,Renaissance studies
+Q25482005,Al-Farabi studies
+Q20820380,odontology
+Q21212481,Urartology
+Q21654591,political linguistics
+Q23019171,Eurasian studies
+Q23019185,Near Eastern studies
+Q26237583,ethnopolitics
+Q26331146,Serbo-Croatian studies
+Q26425130,mycenology
+Q380313,archival science
+Q382995,legal science
+Q382451,narratology
+Q383968,African American studies
+Q395027,agnotology
+Q131222,information theory
+Q171141,gastronomy
+Q80962,animal husbandry
+Q35911,pomology
+Q82811,acoustics
+Q81009,rhetoric
+Q856529,molecular evolution
+Q861499,educational planning
+Q83042,neurology
+Q177005,computational biology
+Q861408,history of education
+Q174165,innovation
+Q918779,geoinformatics
+Q178803,international trade
+Q922610,Polish heraldry
+Q919526,environmental policy
+Q944537,Geisteswissenschaften
+Q948732,environmental education
+Q936855,New Zealand literature
+Q938714,dogmatic theology
+Q83966,communication theory
+Q929380,environmental resource management
+Q931309,medical imaging
+Q963619,medieval literature
+Q83588,chemical engineering
+Q101333,mechanical engineering
+Q957852,fracture mechanics
+Q1279400,women's history
+Q181487,audit
+Q1285373,edition philology
+Q1277348,Romance studies
+Q185925,graphic design
+Q1331392,legal theory
+Q1334834,Estonian literature
+Q101929,immunology
+Q1337681,physical oceanography
+Q186005,physiotherapy
+Q188449,neurosurgery
+Q1338164,codicology
+Q188462,canon law
+Q185035,sustainable architecture
+Q1280151,security studies
+Q37445,police science
+Q37542,Africana studies
+Q105650,urology
+Q121416,discrete mathematics
+Q119190,medieval studies
+Q123637,cybernetics
+Q121713,acupuncture
+Q131089,geodesy
+Q126552,business informatics
+Q775325,transportation engineering
+Q794605,biblical studies
+Q794611,bibliotherapy
+Q794803,innovation management
+Q811115,construction management
+Q814232,survey methodology
+Q189329,liberal arts education
+Q816425,surveying
+Q818670,penology
+Q828395,social policy
+Q124192,automotive engineering
+Q832237,environmental protection
+Q61905,management information system
+Q835023,poetics
+Q837313,civics
+Q840545,sports medicine
+Q841090,classics
+Q841408,ethnobotany
+Q837863,pure mathematics
+Q62689,cameralism
+Q844718,theory of computation
+Q844240,computer vision
+Q846742,history of religions
+Q849798,knot theory
+Q192292,medieval philosophy
+Q852732,proof theory
+Q853710,mass communication
+Q1367365,atmospheric optics
+Q1370637,mining engineering
+Q1387972,plant ecology
+Q1377029,European studies
+Q1380539,sociotechnology
+Q1383443,practical theology
+Q1374230,teacher education
+Q40821,surgery
+Q1393258,rural economics
+Q1395034,new product development
+Q1460420,emergency management
+Q1456948,geobotany
+Q193104,Islamic philosophy
+Q1419660,societal defense
+Q1420050,fisheries science
+Q1450761,French studies
+Q47398,economic history
+Q47844,landscape architecture
+Q122131,history of Germany
+Q82604,design
+Q11509142,Japanese linguistics
+Q123028,pediatrics
+Q11850042,time series analysis
+Q126945,medical education
+Q12211529,Middle Eastern studies
+Q12244500,Maqāṣid al-Sharīʿah
+Q64869212,art studies
+Q66306401,social welfare
+Q108823107,Jewish communities studies
+Q110245486,theoretical and computational chemistry
+Q110252479,crop and pasture production
+Q110252680,"Māori culture, language and history"
+Q11785348,Montenegrin studies
+Q11830699,gender psychology
+Q126095,electronic engineering
+Q11857274,ecumenics
+Q12029903,comeniology
+Q12134363,noospherology
+Q12149006,metabolomics
+Q11506048,Japanese mythography
+Q11526189,Tōhoku studies
+Q11540642,colonial studies
+Q11545105,kagaku
+Q11551012,Edo studies
+Q11639732,landscape architectural studies
+Q11652447,Nagasaki studies
+Q15831440,political studies
+Q15141361,irenology
+Q110267075,Māori linguistics and languages
+Q110267078,"Māori literature, journalism and professional writing"
+Q110267151,Māori music and performing arts
+Q110267165,Māori religion and religious studies
+Q110297449,beverage chemistry and beverage sensory science
+Q110402751,"Māori mathematical, physical and chemical sciences - excl. astronomy and cosmology"
+Q110408063,"Pacific Peoples culture, language and history"
+Q110467995,history and philosophy of specific fields
+Q110469055,law and legal studies
+Q110620109,memory and attention
+Q123518019,food and nutritional science
+Q124377645,interactive cartography
+Q125470026,Demonology in Islam
+Q131626874,cytherology
+Q65067163,journalology
+Q65235465,fluvial geomorphology
+Q15783860,sociology of work
+Q13125650,Intelligence studies
+Q13232341,textual criticism of the New Testament
+Q13419632,geodetic engineering
+Q13439429,biomedical sciences
+Q14565700,social studies
+Q15851294,tourism management
+Q15873402,history of the book
+Q15900470,oracle bone studies
+Q15995649,Accounting research
+Q15816013,hospitality management studies
+Q15820293,peace and conflict studies
+Q16872093,West Slavic Studies
+Q12261349,historical cartography
+Q12408688,Palestinian studies
+Q12535564,biospherology
+Q12558282,paradigmatics
+Q85873793,Arabic Language Studies
+Q86008805,Postsocialism
+Q96371551,agnoiology
+Q96583169,media culture studies
+Q96621382,musical form study
+Q96658223,polar research
+Q97008347,interaction science
+Q123654087,nautical cartography
+Q124004604,haptics
+Q124153088,historical biogeography
+Q124422551,gnotobiology
+Q124455513,Pakistani linguistics
+Q124608623,participatory cartography
+Q124610170,thematic cartography
+Q124610260,tactile cartography
+Q124610929,Cognitive cartography
+Q124611847,Ethnocartography
+Q124611981,atlas cartography
+Q124623978,Cartography & GIS
+Q124623997,geomedia technology
+Q124624035,studies in cartography
+Q124624042,GIS science
+Q14632398,physical sciences
+Q65281066,raciology
+Q67312597,Chinese lexicology
+Q67511251,Royal Command and Staff College
+Q73927923,fecal anthropology
+Q76243567,Soviet studies
+Q76749558,rodentology
+Q76996465,German philology
+Q85709956,cancer biology
+Q85710429,Caribbean studies
+Q131626666,kronology
+Q131626710,uranology
+Q131626776,poseidology
+Q131627345,hermeology
+Q131627505,hadeology
+Q132731824,agricultural economics
+Q133260943,German linguistics
+Q133260951,Hungarian linguistics
+Q133260960,Finno-Ugric linguistics
+Q131151532,electroanalytical chemistry
+Q131295143,critical policing studies
+Q131344592,chondrology
+Q131581772,zenology
+Q12761879,adenology
+Q12771257,Maya studies
+Q12778074,control systems
+Q12796440,Metrics
+Q12957521,illyrology
+Q16247567,humor studies
+Q16267481,Greek studies
+Q16706727,Tolstoy studies
+Q17217481,Shinanology
+Q17232155,horticultural science
+Q17652193,nutritional science
+Q108352346,indigenous studies
+Q124628194,crowdsourced science
+Q124814325,Israel studies
+Q125017173,Palestine studies
+Q125199290,paleocetology
+Q125988923,isopterology
+Q126364610,neuropterology
+Q126364739,desmology
+Q126364785,marine virology
+Q126364871,marine bacteriology
+Q126366418,aerolithology
+Q126366439,marine entomology
+Q126955296,sex work industry studies
+Q128994649,Cestodology
+Q128995729,trematodology
+Q129265953,momiology
+Q19367549,consciousness studies
+Q19602141,human-centered design
+Q17995793,quantum computing
+Q18384059,diachronic comparative linguistics
+Q18392412,spongiology
+Q2901245,bibliology
+Q655362,plant morphology
+Q18110384,Bangla studies
+Q133080,public relations
+Q2920921,management
+Q207892,public law
+Q207628,composed musical work
+Q108352437,critical race studies
+Q108371114,European integration studies
+Q108375738,engineering
+Q108809697,venomics
+Q109505011,Holodomor studies
+Q109587623,English literature
+Q109715408,hagiographic studies
+Q109984814,Aboriginal and Torres Strait Islander studies
+Q110094650,granular mechanics
+Q110155603,liturgical studies
+Q110164233,Americanism
+Q110245428,macromolecular materials research
+Q110477187,ageing research
+Q110823158,rickettsiology
+Q110852808,computational audiology
+Q111017081,Soviet politics
+Q657632,kinesiology
+Q132151,ethnography
+Q131539,children's literature
+Q667404,intertextuality
+Q674407,myology
+Q714838,Korean studies
+Q18564125,business management
+Q19366771,International Relations
+Q2964004,thoracic surgery
+Q2990807,management accounting
+Q20113959,nature conservation
+Q18342738,public speaking
+Q682496,systems engineering
+Q207930,languages of Africa
+Q683834,natural product chemistry
+Q720858,human ecology
+Q725307,pharmacodynamics
+Q680004,legal history
+Q745328,mathematical statistics
+Q739465,study of the Hebrew language
+Q751439,planetary geology
+Q751611,mathematical biology
+Q3009579,cytology
+Q3045473,rural development
+Q3046919,ecdotics
+Q17629812,social education
+Q757520,atmospheric sciences
+Q737201,scenography
+Q21505779,social and cultural anthropology
+Q765633,aviation
+Q24208053,Business Economics
+Q24962856,engineering studies
+Q25584060,energy development
+Q26234216,demotics
+Q212105,special education
+Q214963,nuclear medicine
+Q811590,canopy research
+Q816139,Belarusian studies
+Q116250825,Skolt Saami language and culture
+Q119292336,Occitan studies
+Q1157006,hippology
+Q1187231,sabermetrics
+Q47489173,Bible as literature
+Q49840227,speculative fiction studies
+Q55648438,natural resources engineering
+Q55659900,political science and international relations
+Q64687996,theology and religious studies
+Q64808211,urban and regional planning
+Q64810203,language studies
+Q1265151,geoecology
+Q1269649,insulation technology
+Q1221899,gynaecology
+Q1192971,network theory
+Q833065,analytical mechanics
+Q219186,commercial law
+Q1204375,behavioural genetics
+Q1205196,intercultural communication
+Q64812807,information systems studies
+Q113210417,"education policy, sociology and philosophy"
+Q113210442,engineering practice and education
+Q113210559,fluid mechanics and thermal engineering
+Q113212481,computer vision and multimedia computation
+Q113212643,international and comparative law
+Q113212772,medical and biological physics
+Q113212893,clinical and health psychology
+Q113212938,social and personality psychology
+Q113657678,history of physiology
+Q116250315,rural social sciences
+Q839477,Dunhuangology
+Q840436,limnology
+Q831154,architectural analytics
+Q107427,Halakha
+Q1320931,combinatorial game theory
+Q216685,orthopedics
+Q227675,animal breeding
+Q1329946,interior architecture
+Q1332231,science studies
+Q1333872,combinatorial optimization
+Q459381,literary theory
+Q465924,cynology
+Q470125,American studies
+Q463604,baltistics
+Q476294,oriental studies
+Q1363977,radio-frequency engineering
+Q1365082,information design
+Q491679,Ukrainian studies
+Q1394203,information economics
+Q1367522,war studies
+Q460162,museology
+Q1409625,selenography
+Q1411056,graphemics
+Q233762,American literature
+Q237893,film editing
+Q238499,Spanish literature
+Q1365310,heresiology
+Q484591,natural history
+Q1463332,Polish studies
+Q1371415,ethnopharmacology
+Q231425,Japanese literature
+Q489119,Hellenic studies
+Q1413113,Eastern European studies
+Q1413128,Indo-European studies
+Q234343,hadith
+Q1483473,military history of the United States
+Q1497032,mountain science
+Q1501881,paleoseismology
+Q1503585,patrology
+Q495527,classical philology
+Q501778,translation studies
+Q1516555,intersectionality
+Q1519115,Legisprudence
+Q1440799,Eastern Church Studies
+Q928786,area studies
+Q471857,proteomics
+Q491481,Hittitology
+Q495304,forensic science
+Q921767,theory of language
+Q1537205,goniometry
+Q1545237,semiology
+Q1568255,Holocaust studies
+Q1569011,urban history
+Q922219,Scandinavian studies
+Q12996592,video production
+Q13420675,library and information science
+Q510293,musical acoustics
+Q1595873,domestic studies
+Q502159,serology
+Q14254438,religious ethics
+Q14431238,resource management
+Q957366,semiology
+Q960543,theatre studies
+Q962213,gnathology
+Q967177,sexual ethics
+Q972270,Madonna studies
+Q14860443,intercultural relations
+Q15218776,orthopedic surgery
+Q15401579,poetry study
+Q973297,chronostratigraphy
+Q975065,nonprofit management
+Q113209507,creative and professional writing
+Q16880640,Welsh literature
+Q113128675,"language, communication, and cultural studies"
+Q113128713,"historical, comparative and typological linguistics"
+Q113128824,literature in Spanish and Portuguese
+Q113128838,North American literature
+Q113129005,cardiovascular medicine and haematology
+Q113129142,medical biochemistry and metabolomics
+Q113129166,nutrition and dietetics
+Q113129180,ophthalmology and optometry
+Q113132912,proteomics and metabolomics
+Q113135490,macromolecular and materials chemistry
+Q113146439,"strategy, management and organisational behaviour"
+Q113147222,lens-based visual arts
+Q1038158,homiletics
+Q1039642,food technology
+Q932233,history of sociology
+Q948647,neuroanatomy
+Q98929208,queer studies
+Q3578569,benthic ecology
+Q113156817,"economics, business and management curriculum and pedagogy"
+Q113156829,"medicine, nursing and health curriculum and pedagogy"
+Q113161374,process control and simulation
+Q113161614,manufacturing safety and quality
+Q113168608,health informatics and information systems research
+Q113191939,"traditional, complementary and integrative medicine"
+Q113192683,"counselling, wellbeing and community services"
+Q113192749,"Aboriginal and Torres Strait Islander culture, language and history"
+Q113208012,cybersecurity and privacy
+Q113208079,data security and protection
+Q113208648,communication technology and digital media studies
+Q113208700,"organisational, interpersonal and intercultural communication"
+Q113208892,"calculus of variations, systems theory and control theory"
+Q113209107,stochastic analysis and modelling
+Q113209158,time series and spatial modelling
+Q113209255,astroparticle physics and particle cosmology
+Q104196941,aquatic ecology
+Q104200509,coastal ecology
+Q104200566,wetland ecology
+Q104231397,marsh ecology
+Q104180455,global change biology
+Q3511129,corrosion engineering
+Q3526918,geometric measure theory
+Q3615122,Anatolian studies
+Q1061219,telecommunications engineering
+Q101243133,Shakespeare studies
+Q102123539,human disease ecology
+Q976962,tourism studies
+Q1000976,Buddhist studies
+Q168796,spirituality
+Q1049976,transplantology
+Q1052890,civil procedural law
+Q1056396,human resource management
+Q106594369,Michael Jackson Studies
+Q106597211,criminal justice
+Q107015976,scientonomy
+Q107155520,national security studies
+Q107345988,auditory neuroscience
+Q107560101,Georgian studies
+Q107643461,database management
+Q97360329,porn studies
+Q97377644,indigenous linguistics
+Q98033961,didactics of computer science
+Q104233266,salt marsh ecology
+Q104233395,riparian ecology
+Q104258810,marine benthic ecology
+Q104370513,taraxacology
+Q104373884,brackish water ecology
+Q104373905,bog ecology
+Q104373908,peatland ecology
+Q104376780,coral reef ecology
+Q104376784,reef ecology
+Q104376880,coral reef biology
+Q104416694,cave ecology
+Q106372013,civil engineering studies
+Q106387954,earth science studies
+Q133908,Chinese historiography
+Q134435,topography
+Q134995,bibliography
+Q141495,mathematical optimization
+Q145903,Egyptology
+Q146326,environmental engineering
+Q149013,spatial planning
+Q146893,dialectology
+Q50490180,protein science
+Q50490353,protein crystallography
+Q111325032,biodiversity science
+Q149267,South Asian literature
+Q149813,History of Africa
+Q111327099,urban hydrology
+Q112107934,Sanskrit literature
+Q112309116,ecological epidemiology
+Q112914424,land use and environmental planning
+Q112939606,architectural heritage and conservation
+Q112939719,Classical Greek and Roman history
+Q112939936,Animal cell and molecular biology
+Q112947517,Gene expression
+Q112947524,urban analysis and development
+Q112969975,Building information modelling and management
+Q1495452,hospitality industry
+Q1502855,spatial data infrastructure
+Q1517265,history of the Catholic Church
+Q1929761,knowledge organization
+Q1943500,molinology
+Q1544924,musical analysis
+Q1550789,pharmacovigilance
+Q1553864,governance
+Q1944500,Mongolian studies
+Q1965979,demographic statistics
+Q1561862,environmental history
+Q1567259,social law
+Q1587903,human science
+Q1601482,ethnology of religion
+Q1637030,food science
+Q1981839,New Testament studies
+Q1971461,social choice theory
+Q1973833,anthroponymy
+Q1660132,real estate economics
+Q2482496,Berestology
+Q2493125,accidentology
+Q2499930,uralistics
+Q2585592,thermal engineering
+Q1678416,provenance research
+Q1725664,terminology
+Q1637543,carcinogenesis
+Q1656208,ego psychology
+Q1662673,gender studies
+Q1660187,film studies
+Q2620112,Germanic philology
+Q2518760,flamencology
+Q1734563,map layout
+Q1750812,ergonomics
+Q3010315,ceramology
+Q1781444,conflict studies
+Q1784169,Coptology
+Q1785609,international relations theory
+Q1810993,food microbiology
+Q1858421,paremiology
+Q2623652,indonesiology
+Q2696615,foreign-language pedagogy
+Q2697537,leadership studies
+Q2699662,history of historiography
+Q1752583,somnology
+Q1790516,language culture
+Q261215,history of psychology
+Q2904159,comparative biology
+Q3361737,paleoentomology
+Q1899679,visual communication
+Q1937950,sound design
+Q3487479,sociodemography
+Q1773974,preventive medicine
+Q1803786,power engineering
+Q3508604,genology
+Q2941393,castellology
+Q2946843,pharology
+Q274490,public finance
+Q265425,postcolonialism
+Q284290,lexicostatistics
+Q3456979,polymer science
+Q327092,biomedical engineering
+Q3026834,science didactics
+Q3082422,francology
+Q3109383,glyptology
+Q3110778,thracology
+Q3179130,policy studies
+Q3303205,Masonic studies
+Q855159,kokugaku
+Q330963,politics of the United States
+Q670732,religious law
+Q1962383,sustainable energy
+Q328798,environmental law
+Q243253,physical education
+Q1987969,Dutch studies
+Q1990987,social theory
+Q1995140,galaxy formation and evolution
+Q2015243,organogallium chemistry
+Q2026729,Mishpat Ivri
+Q352842,teaching
+Q2037434,Romani studies
+Q2056817,patholinguistics
+Q2085182,pharyngology
+Q2088309,Filipinology
+Q380274,history of medicine
+Q381392,aerobiology
+Q2089905,circuit theory
+Q2101492,political ethics
+Q2255221,elocution
+Q2272224,Serbian studies
+Q695742,law of Germany
+Q2175941,Romanian studies
+Q2294725,Slovene studies
+Q2305217,socioecology
+Q2305240,social work science
+Q2313085,evolutionary linguistics
+Q396340,agricultural economics
+Q452348,education policy
+Q2393450,dance studies
+Q2355208,nematology
+Q2363192,ecohydrology
+Q2365225,Sumerology
+Q2313306,speech act theory
+Q2313389,speech science
+Q456012,Chinese literature
+Q741939,career counseling
+Q2415966,prehistoric archaeology
+Q730675,quantitative research
+Q386638,lunar geologic timescale
+Q7433707,science of team science
+Q7560824,Sonata theory
+Q7564965,soundscape ecology
+Q7569309,Southeast Asian studies
+Q7663197,Syriac studies
+Q972132,Greek epigraphy
+Q1003009,formal logic
+Q8180985,history of architecture
+Q115690351,geography of anarchism
+Q115957183,skeletology
+Q117613435,cryostratigraphy
+Q118720234,presidential studies
+Q119441624,Arthurian Studies
+Q120187797,Aglipayan ecclesiology
+Q120200947,student sociology
+Q120411401,renewable energy science
+Q7180763,pharmaceutical science
+Q7683174,Tangutology
+Q7782365,theoretical ecology
+Q8011708,Classical Chinese semantics
+Q64687285,enterprise computing
+Q1048431,enterprise architecture
+Q1050578,submarine geology
+Q770723,auxiliary science of history
+Q482752,sharia
+Q471043,history of aviation
+Q64711016,Whiteness studies
+Q7921330,software quality engineering
+Q9189409,medicinal and biomolecular chemistry
+Q9299550,military history of Portugal
+Q10359055,labor relationship
+Q194380,Arabic literature
+Q10481248,digital communication
+Q484181,fiqh
+Q11163999,children's and youth literature
+Q106613150,military logistics management
+Q107432112,guidance and counseling
+Q97338598,Studies of Clothings and Textiles
+Q199569,history of Poland
+Q546113,public policy
+Q582577,economic policy
+Q582071,maternal-fetal medicine
+Q570018,history of ideas
+Q200928,electric power transmission
+Q579488,information management
+Q207241,applied arts
+Q610018,foreign relations
+Q629029,occupational health and safety
+Q619798,geomatics
+Q621368,cross-cultural studies
+Q623006,family economics
+Q625568,show business
+Q627371,food processing
+Q628403,conservation
+Q629173,management system
+Q631931,decorative art
+Q646206,history of Rome
+Q647525,behavioral economics
+Q135707,user interface design
+Q1074953,microscopy
+Q1093434,citizen science
+Q1097688,non-parametric statistics
+Q1130265,hydraulic engineering
+Q149594,Sorbian studies
+Q149678,Kashubian studies
+Q1132530,technical communication
+Q1136352,naval architecture
+Q1137608,health administration
+Q1640257,hydrogeography
+Q1640693,hymnology
+Q1138178,plant taxonomy
+Q1643441,socioeconomics
+Q1147152,cognitive behavioral therapy
+Q1147615,international human rights law
+Q1663772,incunabula studies
+Q1688921,Yiddish studies
+Q1151533,"Atomic, molecular, and optical physics"
+Q1735721,catechetics
+Q1708176,Vietnamese studies
+Q1710723,materials engineering
+Q1721024,Portuguese studies
+Q1193625,social science methodology
+Q1734506,karstology
+Q1735560,Catalan philology
+Q1194317,conflict resolution
+Q1755260,questioned document examination
+Q1762091,international politics
+Q1781695,regional science
+Q1802210,regional history
+Q1806979,Latin studies
+Q1870019,spatial science
+Q1916441,media technology
+Q1920942,history of mentalities
+Q2442870,lepidopterology
+Q2467781,protistology
