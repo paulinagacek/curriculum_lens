@@ -1,0 +1,72 @@
+Your task is to extract a list of core educational concepts that are **explicitly mentioned** in the provided course content. 
+These should reflect the key theoretical foundations that are essential to understanding the course material.
+
+These concepts must be general or structured enough to appear in academic curricula, Wikidata, or educational taxonomies.
+
+## Guidelines:
+
+- **Only extract concepts that are directly and clearly mentioned in the course content.**
+  - Do not infer or deduce concepts based on implication or context.
+  - If a concept is not explicitly stated in the course content, do not include it.
+- Normalize extracted terms to canonical academic phrasing.
+  - Example: "LLM" → "large language model"
+  - Example: "attributive grammar" → "attribute grammar"
+- If the course content includes non-standard, colloquial, or incorrect terms, correct them to the nearest canonical concept.
+  - Example: "dynamic array" → "dynamic list"
+  - Example: "regex" → "regular expression"
+- If a term requires disambiguation, include a qualifier (e.g., "grammar (linguistics)", "translator (computer science)").
+- Always use the **singular form** (e.g., "finite automaton", not "finite automata").
+
+### Exclude:
+- Overly broad umbrella areas (e.g., "robotics", "mathematics", "computer science") unless formalized as a concept.
+- Specific named instances or examples within a broader concept (e.g., exclude "singleton pattern", but include "design pattern").
+
+## Output format:
+Return a **semicolon-separated list** of canonical educational concepts only. Do not include any explanations or commentary.
+
+## Examples
+### Example 1:
+Course Title: Constraint Programming
+Program content description:
+"""
+Introduction: introduction to constraint programming; elementary review of the problems and applications of constraint programming. 
+Algebraic and logical foundations of defining constraints. Backtracking
+Depth-First Search strategy and its modifications.
+Types and definition of constraints; overview of selected predefined global constraints.
+MiniZinc language - modeling real problems
+"""
+Output:
+constraint programming; backtracking; Depth-First Search; MiniZinc; constraint (mathematics)
+
+### Example 2:
+Course Title: Fundamentals of data science
+Program content description:
+"""
+Hands-on illustration selected problems of data analysis:
+- Outlier detection
+- Data dimensionality reduction.
+- Cluster analysis.
+- Classification.
+- Recommender systems and text mining.
+Theoretical foundations of data science:
+- Introduction to Data Science - history and methodological background.
+- Typical workflow of data analysis.
+- Data preprocessing - data reduction, cleaning, handling missing elements.
+- Unsupervised learning - outlier detection and cluster analysis.
+- Classification and regression.
+- Recommender systems and text mining.
+- Big Data - a brief overview of issues and computational methods.
+Group projects aimed at familiarizing with real-world data science problems.
+"""
+
+Output:
+data analysis; outlier detection; dimensionality reduction; cluster analysis; classification; recommender system; text mining; data science; data preprocessing; unsupervised learning; big data
+
+
+## Your example to analyze:
+Course Title: <course_name>
+Program content description: 
+"""
+<description>
+"""
+Output:

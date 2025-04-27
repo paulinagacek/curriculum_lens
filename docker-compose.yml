@@ -12,6 +12,7 @@ services:
       - MEMGRAPH_PASSWORD=t123
     volumes:
       - ./data:/data
+      
   analyzer:
     # backend and CLI
     build: ./analyzer
@@ -20,6 +21,7 @@ services:
       - "6000:6000"
     volumes:
       - ./data:/data
+      - ./config:/config
     depends_on:
       - memgraph
     stdin_open: true

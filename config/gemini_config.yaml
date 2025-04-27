@@ -1,0 +1,5 @@
+model: "gemini-2.0-flash"
+prompt_version: "v1.0"
+temperature: 0.2
+max_nr_of_trials: 3
+prompts_file: "extraction_prompts.json"

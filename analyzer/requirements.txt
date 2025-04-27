@@ -1,4 +1,6 @@
-neo4j
 pandas
 requests
 pydantic
+google-genai
+sentence-transformers
+pyyaml
