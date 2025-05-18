@@ -9,3 +9,5 @@ if __name__ == "__main__":
 
     extractor = EducationalConceptExtractor(CURRICULUM_CSV)
     extractor.extract_covered_concepts()
+    matched_df = extractor.match_covered_concepts_to_wikidata()
+    print(matched_df.head())

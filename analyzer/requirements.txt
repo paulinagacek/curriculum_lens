@@ -4,3 +4,4 @@ pydantic
 google-genai
 sentence-transformers
 pyyaml
+neo4j
