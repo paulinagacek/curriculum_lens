@@ -1,0 +1,34 @@
+,course_name,similar_fields
+0,Introduction to Computer Science,http://www.wikidata.org/entity/Q21198;http://www.wikidata.org/entity/Q11492827;http://www.wikidata.org/entity/Q80006;http://www.wikidata.org/entity/Q428691
+1,Introduction to Unix systems,http://www.wikidata.org/entity/Q8789;http://www.wikidata.org/entity/Q428691;http://www.wikidata.org/entity/Q21198;http://www.wikidata.org/entity/Q846636
+2,Programming Languages I,http://www.wikidata.org/entity/Q21198;http://www.wikidata.org/entity/Q3839507;http://www.wikidata.org/entity/Q121416;http://www.wikidata.org/entity/Q80006
+3,Higher algebra,http://www.wikidata.org/entity/Q8789;http://www.wikidata.org/entity/Q121416;http://www.wikidata.org/entity/Q214526;http://www.wikidata.org/entity/Q395
+4,Mathematical Analysis,http://www.wikidata.org/entity/Q7754;http://www.wikidata.org/entity/Q33521;http://www.wikidata.org/entity/Q395;http://www.wikidata.org/entity/Q21198
+5,Discrete mathematics,http://www.wikidata.org/entity/Q1192971;http://www.wikidata.org/entity/Q131476;http://www.wikidata.org/entity/Q121416;http://www.wikidata.org/entity/Q205084
+6,Elective Humanistic Course 1,http://www.wikidata.org/entity/Q5891;http://www.wikidata.org/entity/Q9465;http://www.wikidata.org/entity/Q7257903;http://www.wikidata.org/entity/Q488059
+7,Physics I,http://www.wikidata.org/entity/Q413;http://www.wikidata.org/entity/Q395;http://www.wikidata.org/entity/Q2878974;http://www.wikidata.org/entity/Q751611
+8,Algorithms and data structures,http://www.wikidata.org/entity/Q205084;http://www.wikidata.org/entity/Q21198;http://www.wikidata.org/entity/Q141495;http://www.wikidata.org/entity/Q844718
+9,Logic in Computer Science,http://www.wikidata.org/entity/Q2555318;http://www.wikidata.org/entity/Q1003009;http://www.wikidata.org/entity/Q387196;http://www.wikidata.org/entity/Q21198
+10,Programming Languages II,http://www.wikidata.org/entity/Q846636;http://www.wikidata.org/entity/Q3839507;http://www.wikidata.org/entity/Q165194;http://www.wikidata.org/entity/Q214526
+11,Statistics,http://www.wikidata.org/entity/Q3497519;http://www.wikidata.org/entity/Q120910099;http://www.wikidata.org/entity/Q745328;http://www.wikidata.org/entity/Q4874481
+12,Differential calculus,http://www.wikidata.org/entity/Q833065;http://www.wikidata.org/entity/Q747534;http://www.wikidata.org/entity/Q751611;http://www.wikidata.org/entity/Q2089905
+13,Physics II,http://www.wikidata.org/entity/Q113161574;http://www.wikidata.org/entity/Q2089905;http://www.wikidata.org/entity/Q11650;http://www.wikidata.org/entity/Q2474620
+14,Physics lab,http://www.wikidata.org/entity/Q18366;http://www.wikidata.org/entity/Q395;http://www.wikidata.org/entity/Q120910099;http://www.wikidata.org/entity/Q108375738
+15,Object Oriented Programming,http://www.wikidata.org/entity/Q199655;http://www.wikidata.org/entity/Q80006;http://www.wikidata.org/entity/Q638608;http://www.wikidata.org/entity/Q80993
+16,Databases I,http://www.wikidata.org/entity/Q4809258;http://www.wikidata.org/entity/Q107643461;http://www.wikidata.org/entity/Q54837;http://www.wikidata.org/entity/Q104659521
+17,Operating Systems,http://www.wikidata.org/entity/Q21198;http://www.wikidata.org/entity/Q80006;http://www.wikidata.org/entity/Q165194;http://www.wikidata.org/entity/Q428691
+18,Introduction to Computer Graphics,http://www.wikidata.org/entity/Q8317;http://www.wikidata.org/entity/Q625648;http://www.wikidata.org/entity/Q124377645;http://www.wikidata.org/entity/Q6538759
+19,Databases II,http://www.wikidata.org/entity/Q4809258;http://www.wikidata.org/entity/Q107643461;http://www.wikidata.org/entity/Q21572113;http://www.wikidata.org/entity/Q104659521
+20,Software studio I,http://www.wikidata.org/entity/Q80993;http://www.wikidata.org/entity/Q638608;http://www.wikidata.org/entity/Q25312607;http://www.wikidata.org/entity/Q179012
+21,Computer Networks,http://www.wikidata.org/entity/Q10336440;http://www.wikidata.org/entity/Q428691;http://www.wikidata.org/entity/Q5268834;http://www.wikidata.org/entity/Q2089905
+22,Software engineering,http://www.wikidata.org/entity/Q169411;http://www.wikidata.org/entity/Q80993;http://www.wikidata.org/entity/Q1941909;http://www.wikidata.org/entity/Q25312607
+23,Formal Languages and Compilers,http://www.wikidata.org/entity/Q3984091;http://www.wikidata.org/entity/Q29864664;http://www.wikidata.org/entity/Q21198;http://www.wikidata.org/entity/Q214526
+24,Introduction to Artificial Intelligence,http://www.wikidata.org/entity/Q2555318;http://www.wikidata.org/entity/Q1453477;http://www.wikidata.org/entity/Q1582085;http://www.wikidata.org/entity/Q387196
+25,Software studio II,http://www.wikidata.org/entity/Q80993;http://www.wikidata.org/entity/Q638608;http://www.wikidata.org/entity/Q25312607;http://www.wikidata.org/entity/Q179012
+26,Digital Electronics and Microprocessors,http://www.wikidata.org/entity/Q121416;http://www.wikidata.org/entity/Q214526;http://www.wikidata.org/entity/Q12778074;http://www.wikidata.org/entity/Q21198
+27,Cybersecurity,http://www.wikidata.org/entity/Q1280151;http://www.wikidata.org/entity/Q107155520;http://www.wikidata.org/entity/Q22909581;http://www.wikidata.org/entity/Q6056054
+28,Web application technologies,http://www.wikidata.org/entity/Q124377615;http://www.wikidata.org/entity/Q11016;http://www.wikidata.org/entity/Q2292993;http://www.wikidata.org/entity/Q41607440
+29,Embedded systems,http://www.wikidata.org/entity/Q165194;http://www.wikidata.org/entity/Q102066;http://www.wikidata.org/entity/Q485669;http://www.wikidata.org/entity/Q5268834
+30,Professional practice,http://www.wikidata.org/entity/Q131289096;http://www.wikidata.org/entity/Q113210443;http://www.wikidata.org/entity/Q64687285;http://www.wikidata.org/entity/Q11492827
+31,Final Project,http://www.wikidata.org/entity/Q861499;http://www.wikidata.org/entity/Q861408;http://www.wikidata.org/entity/Q5341232;http://www.wikidata.org/entity/Q861455
+32,Diploma Seminar,http://www.wikidata.org/entity/Q113210443;http://www.wikidata.org/entity/Q108375738;http://www.wikidata.org/entity/Q350453;http://www.wikidata.org/entity/Q1280151

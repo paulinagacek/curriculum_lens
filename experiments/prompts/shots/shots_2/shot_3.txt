@@ -1,0 +1,15 @@
+### Example 3:
+Course Title: Positive Impact Entrepreneurship
+Program content description:
+"""
+Future Health-Care Needs: Cost reduction, Increased Availability, Focus on Prevention, Improved Outcomes, Health Longevity	
+Health democratization
+Exponential technologies: Crispr gene editing,Robotics, AI and sensor-based monitoring, 3D printing/tissue engineering, AI/ML/DL/BG, Advanced sensors,
+Blockchain
+Incremental vs. disruptive development and innovation methodology	
+Value Proposition and Business Model Canvas and associated innovation tools
+Work in interdisciplinary teams on actual innovation projects in the concept and validation phase and prepare a prototype of a disruptive health innovation
+"""
+
+Output:
+health democratization; exponential technology; gene editing; robotics; artificial intelligence; sensor-based monitoring; 3D printing; tissue engineering; machine learning; deep learning; blockchain (computer science); disruptive innovation; incremental innovation; value proposition; Business Model Canvas; innovation methodology; interdisciplinary collaboration; prototype development

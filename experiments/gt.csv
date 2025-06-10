@@ -1,19 +1,19 @@
 idx,course_name,program_content,educational_concepts
-1,Final Project,Preparation of the diploma thesis,thesis preparation
-2,Diploma Seminar,"In the first part of the course, the lecturers present the basic principles of preparation of engineering work and presentation for a thesis defense. In the rest of the course, students prepare presentations, which aim to discuss the purpose, scope and current progress of their engineering works. The course aims to prepare students for the thesis defense.",thesis defence;public speaking skills;presentation
+1,Final Project,Preparation of the diploma thesis,thesis preparation:thesis (dissertation):thesis writting:thesis
+2,Diploma Seminar,"In the first part of the course, the lecturers present the basic principles of preparation of engineering thesis and presentation for a thesis defense. In the rest of the course, students prepare presentations, which aim to discuss the purpose, scope and current progress of their engineering thesis. The course aims to prepare students for the thesis defense.",thesis [defence];presentation
 3,Web application technologies,"History of the web, network foundations and protocols used for web application development
 Design of websites: HTML, CSS, responsive design, basics of typography
 Client-side interaction: JavaScript and related frameworks
-Server-side development: building and deploying web apps using Flask and other technologies, designing REST APIs for communication with front-end",web application development;communication protocol;html;css;web design;responsive web design;typography;javascript;web framework;server-side scripting;flask (web framework);rest api
+Server-side development: building and deploying web apps using Flask and other technologies, designing REST APIs for communication with front-end",server-side scripting;web application development;communication protocol:web protocol;html;css;responsive web design;typography;javascript;web framework;flask [(web framework)];rest api:rest
 4,Introduction to Artificial Intelligence,"Discussion and explanation of the subject/course syllabus during the first class. Discussion of teaching content and supporting materials (literature, websites). Introduction: history, systems, methods, areas of application. AI definitions. Architecture of intelligent systems. Knowledge base systems (KBS). The concept of an intelligent agent. 
 Methods of representing and processing symbolic knowledge. Logic in AI. Examples of problems. Classification of models, methods and tools. State space search algorithms. Heuristic search methods. Prolog and logic programming as AI tools. 
-Programming with constraints. Rule systems, expert systems and business rules. Decision support systems. Planning. Automatic generation of plans. Tutored and unsupervised machine learning. Semantic web and ontologies. Probabilistic methods. The Bayesian rule and networks. Other selected AI issues. Summary. Development directions.",artificial intelligence;intelligent system;intelligent agent;knowledge-based system (kbs);symbolic knowledge;state space search algorithm;heuristic search method;ontological reasoning;logic programming;prolog;constraint programming;rule-based system;expert system;decision support system;unsupervised machine learning;supervised machine learning;semantic web;ontology;probabilistic method;bayesian network;bayes' theorem;automated planning
+Programming with constraints. Rule systems, expert systems and business rules. Decision support systems. Planning. Automatic generation of plans. Tutored and unsupervised machine learning. Semantic web and ontologies. Probabilistic methods. The Bayesian rule and networks. Other selected AI issues. Summary. Development directions.",artificial intelligence;intelligent system;intelligent agent;knowledge-based system (kbs);symbolic knowledge;state space search algorithm;heuristic search method;ontological reasoning;logic programming;prolog;constraint programming;rule-based system;expert system;decision support system;unsupervised machine learning;supervised machine learning;semantic web;ontology;probabilistic method;bayesian network;bayes' theorem;automated planning;business rule;
 5,Formal Languages and Compilers,"Project in formal languages and compilers: Student implements a larger translator, compiler or interpreter.
 Labs in formal languages and compilers: Programming assignments: (1) lexical analyzer (scanner) (3) grammar specification and parser (2) abstract syntax tree (4) type checker and semantic analyser (5) code interpreter or generator
 Lectures on formal languages and compilers: (1) Introduction: alphabet, string, language, grammar (2) Regular expression, finite automata (3) Transformations of finite automata (4) Introduction to translation (5) Lexical analysis, scanner, flex/PLY (6) Grammars, context-free grammars (7) Push-down automata (8) Syntax analysis (9) LL parsing (10) LR parsing, bison, PLY (11) Semantic analysis, type-checking, attributive grammars (12) Intermediate code generation, stack frames (13) Code optimization, program analysis (14) Assemby code, target code generation
-Labs in formal languages and compilers: Programming assignments: (1) lexical analyzer (scanner) (3) grammar specification and parser (2) abstract syntax tree (4) type checker and semantic analyser (5) code interpreter or generator (6) code optimizer",formal language;compiler;interpreter;lexical analysis;scanner (lexical analysis);parser;regular expression;finite automaton;grammar;context-free grammar;pushdown automaton;syntax analysis;ll parsing;lr parsing;semantic analysis (program);type checking;stack frame;attribute grammar;code generation;code optimization;program analysis;assembly code;abstract syntax tree;translator;intermediate representation
+Labs in formal languages and compilers: Programming assignments: (1) lexical analyzer (scanner) (3) grammar specification and parser (2) abstract syntax tree (4) type checker and semantic analyser (5) code interpreter or generator (6) code optimizer",formal language;compiler;interpreter;lexical analysis;alphabet (computer science):alphabet (formal languages);scanner (lexical analysis):scanner (computer science);parser;regular expression;finite automaton;grammar[(formal languages)]:grammar (computer science);context-free grammar;pushdown automaton;syntax analysis;ll parsing;lr parsing;semantic analysis [(program)];type checking;stack frame;attribute grammar;code generation;code optimization;program analysis;assembly code;abstract syntax tree;translator:translator (computer science):translator (formal languages);intermediate representation
 6,Databases II,"* Relational database systems (short revision). * Database normalization and denormalization, impact on database performance. * NoSQL database systems: storage, processing, distribution, ACID and CAP. * GIS and spatial data. * Database systems for data warehouses, multidimensional data model, star schema. snowflake schema, OLAP cube operations. * Extract, Transform and Load (ETL) * Optimization of database performance. * Database systems security.
-Implementation of a database system.Gaining experience with database tools and programming.","relational database;database normalization;denormalization;nosql database;acid properties;cap theorem;gis (geographic information system);spatial data;data warehouse;multidimensional data model;star schema;snowflake schema;olap;etl(extract, transform, load);database security;database tuning"
+Implementation of a database system.Gaining experience with database tools and programming.","relational database [system];database normalization;[database] denormalization;nosql database;acid properties:ACID [(computer science)];cap theorem;gis (geographic information system):geographic information system:gis;spatial data:spatial database;data warehouse;multidimensional data model;star schema;snowflake schema;online analytical processing:olap [cube];etl (extract, transform, load):etl:extract, transform, load;database security;database tuning:database performance"
 7,Fundamentals of Data Science,"Laboratory exercises illustrating selected problems of data analysis: 1. Outlier detection 2. Data dimensionality reduction. 3. Cluster analysis. 4. Classification. 5. Recommender systems and text mining.
 Individual projects aimed at familiarizing with realworld data science problems.
 1. Introduction to Data Science - history and methodological background.
@@ -23,8 +23,8 @@ Individual projects aimed at familiarizing with realworld data science problems.
 cluster analysis.
 5. Classification and regression.
 6. Recommender systems and text mining.
-7. Big Data - brief overview of issues and computational methods",outlier detection;big data;text mining;recommender system;unsupervised learning;dimensionality reduction;cluster analysis;classification;regression;Data Science;data analysis
-8,Introduction to the Semantic Web and Knowledge Graphs,1. Main concepts of the Semantic Web and knowledge graphs 2. Modeling metadata 3. Querying metadata 4. Modeling knowledge with taxonomies and ontologies 5. Basics of ontology engineering 6. Ontological reasoning 7. Applications of the Semantic Web and knowledge graphs,semantic web;knowledge graph;metadata;querying;taxonomy;ontology;ontology engineering;ontological reasoning
+7. Big Data - brief overview of issues and computational methods",Data preprocessing; data cleaning;outlier detection;big data;text mining;recommender system;unsupervised learning;dimensionality reduction;cluster analysis;classification:classification (machine learning);regression:regression (machine learning);Data Science;data analysis
+8,Introduction to the Semantic Web and Knowledge Graphs,1. Main concepts of the Semantic Web and knowledge graphs 2. Modeling metadata 3. Querying metadata 4. Modeling knowledge with taxonomies and ontologies 5. Basics of ontology engineering 6. Ontological reasoning 7. Applications of the Semantic Web and knowledge graphs,semantic web;knowledge graph;metadata;query language:querying;taxonomy;ontology;ontology engineering;ontological reasoning
 9,Human-Computer Interaction,"Psychological aspects of Human-Computer Interaction.
 1. Designing experiments in the field.
 2. Apparatures including wearables in emotion recognition.
@@ -34,8 +34,8 @@ Human-Robot Interaction.
 2. Designing robots.
 Entertainment.
 1. Virtual Reality.
-2. Games.",Individual differences ;Wearable technology;human-computer interaction;experiment design;emotion recognition;human-robot interaction;computer game;virtual reality
-10,Python Language,"Python in a nutshell: Student knows Python language syntax Student knows basic data srtuctures and control flow tools. Lists, tuples and strings: Student knows the most commonly used data structures: lists and tuples. Student knows string methods. Dictionaries: Student knows what they are and how to use dictionaries. Functions: Student knows how to define functions, pass arguments and return value. Student knows variable scope rules. Lambda expressions: Student knows anonymous functions. Built-in functions: Student knows basic built-in functions. Generators and generator expressions: Student knows what they are and how to construct and use generators. Student knows what they are and how to use generators expressions. Files: Student knows how to read and write files. Modules: Student knows what they are and how to use modules. Classes: Student knows how to construct class. Student knows inheritance in particular multiple Inheritance",python;control flow;data structure;class (programming);inheritance (programming);multiple inheritance;python module;lambda expressions;anonymous function;return value;string;dictionary (data type);python tuple;python list;generator;function;variable scope;file (programming);built-in function
+2. Games.",Wearable computer;human-computer interaction;experiment design;emotion recognition;human-robot interaction;[computer] game:game design;virtual reality
+10,Python Language,"Python in a nutshell: Student knows Python language syntax Student knows basic data srtuctures and control flow tools. Lists, tuples and strings: Student knows the most commonly used data structures: lists and tuples. Student knows string methods. Dictionaries: Student knows what they are and how to use dictionaries. Functions: Student knows how to define functions, pass arguments and return value. Student knows variable scope rules. Lambda expressions: Student knows anonymous functions. Built-in functions: Student knows basic built-in functions. Generators and generator expressions: Student knows what they are and how to construct and use generators. Student knows what they are and how to use generators expressions. Files: Student knows how to read and write files. Modules: Student knows what they are and how to use modules. Classes: Student knows how to construct class. Student knows inheritance in particular multiple Inheritance",python;control flow;data structure;class (programming):class (computer science;inheritance (programming);multiple inheritance;python module:module (programming);lambda expressions;anonymous function;return value;string [(computer science)];dictionary [(data type)];[python] tuple:tuple (data type);python list:list (abstract data type);generator;function:function (computer science);variable scope;file (programming);built-in function
 11,Modelling of Physical Systems,"Methodical aspects of numerical modeling:
 - Dynamic and static models, stationary and non-stationary models, models with lumped and distributed parameters.
 - Design a variety of computational grids.
@@ -58,7 +58,7 @@ Modelling of environmental components:
 - soil-atmosphere interface
 - rivers and lakes
 - oceans
-- groundwater systems",Model simplification;numerical modeling; dynamic model; static model; stationary model; non-stationary model; lumped parameter model; distributed parameter model; boundary condition; initial condition; numerical algorithm; numerical stability; forward modeling; inverse modeling; model optimization; finite difference method; finite element method; Monte Carlo method; stress distribution; deformation; transport process; heat transfer; diffusion; advection; convection; energy balance
+- groundwater systems",Model simplification;numerical modeling; dynamic model; static model; stationary model; non-stationary model; lumped parameter model; distributed parameter model; boundary condition; initial condition; numerical algorithm; numerical stability; forward modeling; inverse modeling; model optimization; finite difference method; finite element method; Monte Carlo method; stress (physics):stress distribution; deformation; transport process:transport phenomena; heat transfer; diffusion; advection; convection; energy balance
 12,Basic AI security,"Introduction to the AI security problems - revision of basic ML knowldege, mathematical foundations of the vulnerabilities in AI
 General Machine Learning security issues - overview of the all problems regarding machine learning models
 Vulnerabilities in vision systems
@@ -69,4 +69,119 @@ LLM (large language models) and basic poisoning attacks
 Recreating scientific knowledge - how to implement attacks based on the selected papers
 Testing LLM and prompt attack techiniques with Garak
 Using defensive measures for countering the attacks on AI systems
-Projects made in groups of at least 2 students. Students can choose their project topic",AI security;adversarial robustness;Machine Learning;vision system;large language model;vulnerability (computer security);adversarial attack;poisoning attack;prompt injection
+Projects made in groups of at least 2 students. Students can choose their project topic",AI security:artificial intelligence security;Machine Learning security;adversarial robustness;ML:Machine Learning;vision system:Machine vision:computer vision;large language model;vulnerability [(computer security)];adversarial attack;poisoning attack;prompt injection
+13,Cybersecurity,"Cybersecurity Basics
+Basic definitions, the issue of system complexity, and a number of samples and statistics related to security issues around the world.
+Web Applications
+Common attacks against the web applications as well as their users. This includes the OWASP Top 10 as well as some less common examples. Some of the key OWASP projects will also be discussed.
+Malware
+Malware proliferation methods amd their abilities to perform specific tasks at the infected machines. Some specific examples of the malware and botnets. Statistics, trends and geographical distribution
+Cryptography
+Symmetric and assymetric encryption, available algorithms and their properties, digital signing and Public Key Infrastructure
+Network & OS security
+OS-related attacks and vulnerabilities, including exploitation of the communication protocols. Part of the subject will be dedicated to wireless network and their related issues.
+Social engineering & procedures
+Technical and non-technical (mostly sociological) methods to convince users to do things they shouldn't do. Includes phishing, baits, abuse of procedures and/or human behavioral patterns, etc.
+Secure design
+Defence-in-depth and other aspects related to secure design of systems and applications
+Risk assessment & management
+Each system is vulnerable, but the risks can be assessed and managed with already developed procedures. Some of these procedures are available as sets of best practices or international standards (e.g. ISO 2700x).",cybersecurity; web application security; OWASP [Top Ten]; malware; botnet; symmetric encryption; asymmetric encryption; encryption algorithm; digital signature; public key infrastructure; operating system security; network security; wireless network security; social engineering (security); phishing; secure software design; defense in depth; risk assessment; risk management; information security standard
+14,Advanced Methods in Image Understanding,"1. Introduction to image processing and understanding
+2. Basic image processing techniques: review
+3. Image quality assessment
+4. Advanced morphological operations including  skeleton functions, skiz function, Danielsson function and circlu function
+5. Flexible shape matching and extraction: Active contours and deformable models
+6. Graph based segmentation, SLIC algorithm
+7. Feature extraction by shape matching
+8. Object description (eg. boundary analysis, region description)
+9. Texture description I
+10. Texture description II
+11. Classification
+13. Design of an image processing and analysis system - which steps should be undertaken
+14. Application examples, Conclusions and course summary
+During seminars we will implement following solutions:
+1. Review of the basic image processing techniques and implementation of low-level feature extraction methods
+2. Advanced morphological operations in medical image processing
+3. Active contours and deformable models
+4. Graph based segmentation, SLIC algorithm
+5. Texture description
+6. AClassification methods I
+7. Classification methods II
+",image processing; image understanding; image quality assessment; morphological operation; skeletonization [(image processing)]:skeleton [(morphology)]; distance transform; active contour model; deformable model; graph-based image segmentation; SLIC (algorithm); feature extraction (computer vision); object detection; boundary detection:boundary tracing; region of interest; texture analysis; image classification; image analysis system design
+15,Combinatorics in Computer Science,"The lecture is aimed at presenting different areas of a mutual interaction between combinatorics, nonstandard logic and computer science - divided into several thematic groups: a) systems of non-standard logic(modal, epistemic, dynamic) and their model theory, b) the so-called quasi-model- and tilling methods for the use of different complexity problems of non-standard logic systems c) Logic and games and the areas of their interactions. The course will be complemented by the issue of the so-called finite model theory 
+This part of the course will have a complementary nature with respect to the lecture part and it will be devoted to the exemplification-based side of the issus. The partial orders, incidence algabras and examples of differet types of codes and their construction will form a special focus area","combinatorics; modal logic; epistemic logic; dynamic logic; model theory; quasi-model method; logic game; finite model theory; partial order; incidence algebra;tilling:tiling;code (information theory):coding theory"
+16,Deep Neural Networks,"1. Reminder of basic issues of deep neural networks and mathematical foundations of neural networks
+2. Convolutionary neural networks - training on small sets, visualization of learning effects including filters, feature maps. Using previously trained convolution neural network
+3. Recursive neural networks - data forecasting, bi-directional RNN. Construction of advanced architectures. Optimization of hyperparameters.
+4. Neural style transfer (NTS): implementation, loss of content and style, use during segmentation, video generation and creation of new images.
+5. Overview of autoencoders: generating images, new data as well as segmentation results using variation autoencoders
+1. Reminder of basic issues of deep neural networks and mathematical foundations of neural networks
+2-3. Convolutionary neural networks - training on small sets - initial processing, application of basic and advanced data augmentation techniques. Construction of advanced architectures. Optimization of hyperparameters.
+4. Visualization of learning outcomes including indirect activation, heat maps and convolution filters of neural networks
+5. Achitecture of U-Net for data segmentation.
+6. Using a previously trained convolution neural network (VGG16, VGG19, Xception, ResNet, DenseNet ect.) - feature extraction, fine-tuning
+7. Recursive neural networks - data forecasting, bidirectional RNN, stacks of recursive layers
+8-9. Neural style transfer (NTS): implementation, loss of content and style, use during segmentation, video generation and creation of new images.
+10-11. Generating images, new data and segmentation results with the help of variational auto encoders
+12. Overview of the TensorBoard package
+13. Colloquium
+14. Summary of classes", "deep neural network; mathematics of artificial neural networks; convolutional neural network:cnn; data augmentation; transfer learning; feature extraction; hyperparameter optimization; neural network visualization; recurrent neural network:RNN:Recursive neural networks; bidirectional recurrent neural network:bidirectional RNN; neural architecture design; neural style transfer;  variational autoencoder; image segmentation; U-Net:U-Net (neural network architecture); heat map (machine learning); TensorBoard; feature map; autoencoder; model fine-tuning:fine-tuning"
+17,Advanced Algorithms and Data Structures,"Dynamic list structures used in computing systems.
+Graph structures used in semantic networks.
+Knowledge bases structures in rule systems and inference algorithms.
+Fuzzy inference. 
+Algorithms based on mathematical models.","algorithm; graph data structure; semantic network; knowledge base; algorithmic inference; fuzzy inference; rule-based system"
+18,Advanced Database Systems,"1. Relational database systems, design and queries.
+2. Indexing with PostgreSQL.
+3. Transations in PostgreSQL.
+4. GIS.
+5. Data warehouse.
+6. NoSQL database systems.
+1. Relational database systems (short revision).
+2. Database normalization and denormalization,
+transaction isolation.
+Impact on performance.
+3. Geographic Information Systems (GIS).
+4. Database systems for data warehouses (short
+revision): OLTP vs OLAP.
+Multidimensional data model. Star schema. Snowflake
+schema. OLAP cube
+operations. Extract, Transform and Load (ETL).
+5. NoSQL database systems.
+6. NoSQL database systems.
+7. Database systems security","database normalization;[database] denormalization; relational database; [relational] database design; SQL query; database indexing:indexing (data structures); PostgreSQL; database transaction; transaction isolation; OLAP cube;gis:geographic information system; data warehouse; online transaction processing:oltp;online analytical processing:olap; multidimensional data model; star schema; snowflake schema; extract, transform, load; NoSQL database; database security"
+19,Process Mining,"The lectures provide an overview of process mining
+methods with an emphasis on advanced process and
+decision model discovery algorithms.
+Scope of the lectures:
+• Fundamentals of business process management and
+business process modelling.
+• Advanced aspects of business process modelling and
+execution.
+• Process mining methods.
+• Selected process discovery algorithms.
+• Business process simulation methods.
+• Introduction to decision modelling and mining.
+• Current research directions in the area of business
+processes and decisions.
+The laboratory classes allow students to understand
+and implement various process mining algorithms and
+learn to correctly model business processes.
+Scope of the laboratory classes:
+• Modelling using Business Process Model and
+Notation.
+• Simulation and analysis of business processes.
+• Modelling processes with decisions.
+• Implementing basic process and decision mining
+algorithms.
+• Implementing advanced process mining algorithms
+The project classes allow students to extend their
+knowledge of process mining algorithms, propose their
+algorithms, and develop their solutions for process
+mining", "process mining; business process management; business process modelling; process discovery algorithm; decision mining; decision model; business process simulation; Business Process Model and Notation"
+20,Linked Open Data and Knowledge Graphs,"Introduction. Concepts and architecture of the Semantic Web
+Data modeling using the RDF model
+Linked Open Data - projects, development, challenges
+SPARQL - query language for graph knowledge bases
+Description logics - formalization, knowledge representation and processing
+Knowledge Graphs",Semantic Web; RDF (Resource Description Framework):resource description framework:RDF; Linked Open Data; SPARQL; description logic; knowledge graph

@@ -1,0 +1,28 @@
+### Example 6:
+Course Title: Game Theory
+Program content description:
+"""
+1. Games of skill.
+2. Games of chance involving risk and games of chance involving uncertainty. 
+3. Utility theory.
+4. Two-person zero-sum games of strategy. Representing and solving zero-sum games. Payoff matrix. Games with saddle points. Games with no saddle points. Mixed strategies.
+5. Two-person nonzero-sum games of strategy. Representing and solving nonzero-sum games. Two-person mixed motive games of strategy. The Nash arbitration scheme and cooperative solutions.
+6. Sequential decision making games of strategy. Representing and solving sequential decision making games. 
+7. Multi-person cooperative games. Representing and solving the cooperative games. Core, stable sets, values.
+8. Simple games. Coalitions and power. Power indices.
+9. Students oral presentations.
+1. Classification of games. 
+2. Linear programming and duality.
+3. Utility theory. 
+4. Two-person zero-sum games. .
+5. Two-person nonzero-sum games. 
+6. Games in extensive form..
+7. Games in characteristic function form. 
+8. Applications of the game theory methods.
+9. Quizzes.
+10. Homework Assignments.
+11. Students presentations.
+"""
+Output:
+Game of skill;Game of chance; utility theory; zero-sum game; nonzero-sum game; strategy (game theory); mixed strategy; payoff matrix; saddle point; Nash arbitration scheme; cooperative game; sequential game; extensive form game; characteristic function form; core (cooperative game theory); stable set (game theory); value (cooperative game theory); coalition (game theory); power index; game classification; linear programming; duality (mathematics)
+

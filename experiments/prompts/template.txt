@@ -1,6 +1,0 @@
-## Your example to analyze:
-Course Title: <course_name>
-Description: 
-"""
-<course_content>
-"""

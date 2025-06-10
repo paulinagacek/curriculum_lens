@@ -1,133 +1,183 @@
+import os
 import pandas as pd
-import numpy as np
-from flashtext import KeywordProcessor
-import fasttext
-from sklearn.metrics.pairwise import cosine_similarity
-import fasttext.util
+from sentence_transformers import SentenceTransformer
+from gemini_client import GeminiClient
+from wikidata import WikidataMatcher
+from knowledge_graph import KnowledgeGraph
 
 
 class EducationalConceptExtractor:
-    def __init__(self, concepts_file: str, curriculum_file: str, similarity_threshold: float = 0.7):
-        """
-        Initializes the extractor with concept and curriculum files.
-        :param concepts_file: Path to the wikidata concepts CSV.
-        :param curriculum_file: Path to the curriculum CSV.
-        :param fasttext_model_path: Path to the pretrained FastText model.
-        :param similarity_threshold: Cosine similarity threshold for filtering concepts.
-        """
-        self.concepts_file = concepts_file
+    def __init__(self, curriculum_file: str):
         self.curriculum_file = curriculum_file
-        self.similarity_threshold = similarity_threshold
+        self.gemini_client = GeminiClient()
+        self.wikidata_matcher = WikidataMatcher()
 
-        # Load FastText model
-        self.fasttext_model = fasttext.load_model('/data/cc.en.300.bin')
-        self.vector_size = 300
+        self.covered_concepts_file = (
+            f"{curriculum_file.removesuffix('.csv')}_covered_concepts.csv"
+        )
+        self.matched_covered_concepts_file = (
+            f"{curriculum_file.removesuffix('.csv')}_covered_concepts_matched.csv"
+        )
+        self.prerequisites_concepts_file = (
+            f"{curriculum_file.removesuffix('.csv')}_prerequisites_concepts.csv"
+        )
+        self.matched_prerequisites_concepts_file = (
+            f"{curriculum_file.removesuffix('.csv')}_prerequisites_concepts_matched.csv"
+        )
 
-        # Initialize keyword processor
-        self.keyword_processor = KeywordProcessor()
+        self.__extract_covered_concepts()
+        self.__match_covered_concepts_to_wikidata()
+        self.__extract_prerequisites_concepts()
+        self.__match_prerequisites_concepts_to_wikidata()
 
-        # Load concepts and curriculum
-        self.load_concepts()
-        self.load_curriculum()
-        print("Extractor initialized")
+        self.kg = KnowledgeGraph(
+            self.matched_covered_concepts_file, self.matched_prerequisites_concepts_file, self.curriculum_file
+        )
 
-    def load_concepts(self):
-        """Loads the concept names and their fields, then precomputes field embeddings."""
-        concepts_df = pd.read_csv(self.concepts_file)
+    def __extract_covered_concepts(self):
+        if os.path.exists(self.covered_concepts_file):
+            print(f"Covered concepts already extracted. Skipping extraction.")
+            return pd.read_csv(self.covered_concepts_file)
 
-        # Store concepts and their multiple fields
-        self.concept_to_fields = {}
-        self.concepts = set()
+        df = pd.read_csv(self.curriculum_file, index_col=0)
+        extracted_concepts = []
+
+        for _, row in df.iterrows():
+            course_name, course_content = row["course_name"], row["program_content"]
+            covered_concepts = self.gemini_client.extract_covered_concepts(
+                course_name, course_content
+            )
+            extracted_concepts.append(
+                {"course_name": course_name, "covered_concepts": covered_concepts}
+            )
+            print(f"Extracted concepts for {course_name}: {covered_concepts}")
+            print(f"Total time: {self.gemini_client.total_time}")
+
+        concepts_df = pd.DataFrame(extracted_concepts)
+        concepts_df.to_csv(self.covered_concepts_file, index=False)
+        return concepts_df
+    
+    def __extract_prerequisites_concepts(self):
+        if os.path.exists(self.prerequisites_concepts_file):
+            print(f"Prerequisites concepts already extracted. Skipping extraction.")
+            return pd.read_csv(self.prerequisites_concepts_file)
+
+        df = pd.read_csv(self.curriculum_file, index_col=0)
+        extracted_concepts = []
+
+        for _, row in df.iterrows():
+            course_name, course_content = row["course_name"], row["prerequisites"]
+            if pd.isna(course_content) or isinstance(course_content, float) or course_content.strip() == "":
+                print(f"NO prerequisites concepts for {course_name}")
+                continue
+
+            prerequisites_concepts = self.gemini_client.extract_prerequisite_concepts(
+                course_name, course_content
+            )
+            if len(prerequisites_concepts)==0 or prerequisites_concepts[0]=="none":
+                print(f"NO prerequisites concepts for {course_name}")
+                continue
+
+            extracted_concepts.append(
+                {"course_name": course_name, "prerequisites_concepts": prerequisites_concepts}
+            )
+            print(f"Extracted prerequisites concepts for {course_name}: {prerequisites_concepts}")
+            print(f"Total time: {self.gemini_client.total_time}")
+
+        concepts_df = pd.DataFrame(extracted_concepts)
+        concepts_df.to_csv(self.prerequisites_concepts_file, index=False)
+        return concepts_df
+
+    def __match_covered_concepts_to_wikidata(self):
+        if os.path.exists(self.matched_covered_concepts_file):
+            print(f"Concepts already matched to Wikidata. Skipping matching.")
+            return pd.read_csv(self.matched_covered_concepts_file)
+
+        concepts_df = pd.read_csv(self.covered_concepts_file)
+
+        matched_rows = []
 
         for _, row in concepts_df.iterrows():
-            concept_name = row["conceptName"].lower()
-            field_name = str(row["fieldName"]).lower()
-
-            if concept_name not in self.concept_to_fields:
-                self.concept_to_fields[concept_name] = []
-            
-            self.concept_to_fields[concept_name].append(field_name)
-            self.concepts.add(concept_name)
-
-        # Precompute embeddings for each field (grouped by concept)
-        self.field_embeddings = {
-            concept: [self.text_to_embedding(field) for field in fields]
-            for concept, fields in self.concept_to_fields.items()
-        }
-
-        # Add concepts to keyword processor for fast matching
-        self.keyword_processor.add_keywords_from_list(list[self.concepts])
-
-    def load_curriculum(self):
-        """Loads the curriculum CSV into a DataFrame."""
-        self.curriculum_df = pd.read_csv(self.curriculum_file)
-
-    def text_to_embedding(self, text: str) -> np.ndarray:
-        """Converts text into a FastText vector by averaging word embeddings."""
-        words = text.split()
-        word_vectors = [self.fasttext_model[word] for word in words if word in self.fasttext_model]
-
-        if not word_vectors:  # If no words are found in FastText
-            return np.zeros(self.vector_size)
-
-        return np.mean(word_vectors, axis=0)
-
-    def get_filtered_concepts(self, extracted_concepts: set, course_name: str) -> list:
-        """
-        Filters concepts based on cosine similarity between the course name and the multiple fields of a concept.
-        :param extracted_concepts: Set of concepts extracted using fast keyword matching.
-        :param course_name: The name of the course.
-        :return: List of relevant concepts after filtering.
-        """
-        if not extracted_concepts:
-            return []
-
-        course_embedding = self.text_to_embedding(course_name)
-
-        filtered_concepts = []
-        for concept in extracted_concepts:
-            field_embeddings = self.field_embeddings.get(concept, [])
-
-            if not field_embeddings:
-                continue  # Skip if no field embeddings exist
-
-            # Compute similarity with all associated fields and take the highest
-            similarities = [cosine_similarity([course_embedding], [field_emb])[0][0] for field_emb in field_embeddings]
-            max_similarity = max(similarities, default=0)
-
-            if max_similarity >= self.similarity_threshold:
-                filtered_concepts.append(concept)
-
-        return filtered_concepts
-
-    def process_courses(self) -> pd.DataFrame:
-        """Processes each course and extracts relevant concepts."""
-        extracted_data = []
-
-        for _, row in self.curriculum_df.iterrows():
             course_name = row["course_name"]
-            
-            # Step 1: Fast keyword extraction
-            text_to_search = " ".join(str(row[col]) for col in ["prerequisites", "effects", "program_content", "program_content_ensuring_outcomes"] if col in row)
-            extracted_concepts = set(self.keyword_processor.extract_keywords(text_to_search.lower()))
+            concepts = (
+                eval(row["covered_concepts"])
+                if isinstance(row["covered_concepts"], str)
+                else row["covered_concepts"]
+            )
 
-            # Step 2: Semantic filtering
-            relevant_concepts = self.get_filtered_concepts(extracted_concepts, course_name)
+            for concept in concepts:
+                entity = self.wikidata_matcher.search_entity(concept, course_name)
+                print(entity)
 
-            # Store results
-            extracted_data.append({
-                "course_name": course_name,
-                "relevant_concepts": relevant_concepts,
-            })
-        
-        return pd.DataFrame(extracted_data)
+                if entity:
+                    matched_rows.append(
+                        {
+                            "course_name": course_name,
+                            "concept": concept,
+                            "wikidata_qid": entity.qid,
+                            "wikidata_label": entity.label,
+                            "wikidata_description": entity.description,
+                            "wikidata_url": entity.url,
+                        }
+                    )
+                else:
+                    matched_rows.append(
+                        {
+                            "course_name": course_name,
+                            "concept": concept,
+                            "wikidata_qid": None,
+                            "wikidata_label": None,
+                            "wikidata_description": None,
+                            "wikidata_url": None,
+                        }
+                    )
 
-    def save_results(self, output_file: str):
-        """Saves extracted concepts to a CSV file."""
-        result_df = self.process_courses()
-        result_df.to_csv(output_file, index=False)
-        print(f"Results saved to {output_file}")
+        matched_df = pd.DataFrame(matched_rows)
+        matched_df.to_csv(self.matched_covered_concepts_file, index=False)
+    
+    def __match_prerequisites_concepts_to_wikidata(self):
+        if os.path.exists(self.matched_prerequisites_concepts_file):
+            print(f"Concepts already matched to Wikidata. Skipping matching.")
+            return pd.read_csv(self.matched_prerequisites_concepts_file)
 
-# Example Usage
-# extractor = EducationalConceptExtractor("wikidata_concepts.csv", "curriculum.csv", "cc.en.300.vec")
-# extractor.save_results("extracted_concepts.csv")
+        concepts_df = pd.read_csv(self.prerequisites_concepts_file)
+
+        matched_rows = []
+
+        for _, row in concepts_df.iterrows():
+            course_name = row["course_name"]
+            concepts = (
+                eval(row["prerequisites_concepts"])
+                if isinstance(row["prerequisites_concepts"], str)
+                else row["prerequisites_concepts"]
+            )
+
+            for concept in concepts:
+                entity = self.wikidata_matcher.search_entity(concept, course_name)
+                print(entity)
+
+                if entity:
+                    matched_rows.append(
+                        {
+                            "course_name": course_name,
+                            "concept": concept,
+                            "wikidata_qid": entity.qid,
+                            "wikidata_label": entity.label,
+                            "wikidata_description": entity.description,
+                            "wikidata_url": entity.url,
+                        }
+                    )
+                else:
+                    matched_rows.append(
+                        {
+                            "course_name": course_name,
+                            "concept": concept,
+                            "wikidata_qid": None,
+                            "wikidata_label": None,
+                            "wikidata_description": None,
+                            "wikidata_url": None,
+                        }
+                    )
+
+        matched_df = pd.DataFrame(matched_rows)
+        matched_df.to_csv(self.matched_prerequisites_concepts_file, index=False)

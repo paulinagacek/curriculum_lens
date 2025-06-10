@@ -5,9 +5,11 @@ AUTH = ("testuser123", "t123")
 
 
 class KnowledgeGraph:
-    def __init__(self, covered_concepts_file: str, prerequisites_concepts_file: str):
+    def __init__(self, covered_concepts_file: str, prerequisites_concepts_file: str, curriculum_file:str):
         self.add_covered_concepts(covered_concepts_file)
         self.add_prerequisites_concepts(prerequisites_concepts_file)
+        self.add_course_details(curriculum_file)
+        self.clean()
 
     def add_covered_concepts(self, covered_concepts_file: str):
         query = f"""LOAD CSV FROM '{covered_concepts_file}' WITH HEADER AS row
@@ -34,6 +36,17 @@ class KnowledgeGraph:
 
             MERGE (c)-[:HAS_PREREQUISITE]->(concept);"""
         self.__execute_query(query)
+    
+    def add_course_details(self, curriculum_file:str):
+        query = f"""LOAD CSV FROM '{curriculum_file}' WITH HEADER AS row
+            MATCH (c:Course {{name: row.course_name}})
+            SET c.term = toInteger(row.semester),
+                c.ects = toInteger(row.ects);
+            """
+        self.__execute_query(query)
+    
+    def clean(self):
+        self.__execute_query("MATCH (p) WHERE p.name = "" DETACH DELETE p;")
 
     def __execute_query(self, query):
         try:

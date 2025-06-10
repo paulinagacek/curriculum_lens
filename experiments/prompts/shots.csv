@@ -1,0 +1,11 @@
+idx,course_name,program_content,educational_concepts
+1,Programming Language Theory,"Introduction to type theory. The historical overview, motivation, and mathematical preliminaries.
+Introduction to the lambda calculus. 
+Formalizing the lambda calculus. 
+Types; the simply-typed lambda-calculus. 
+Extending the lambda calculus with basic programming features. 
+Further extending of the lambda calculus. 
+Modeling memory and exceptions. 
+Modern programming languages and their features:
+- how do they relate to the theory
+- what's their impact on the expressiveness","type theory; lambda calculus; simply typed lambda calculus; programming language semantics; Data type; Memory model (programming); exception handling (programming); expressive power (computer science)"

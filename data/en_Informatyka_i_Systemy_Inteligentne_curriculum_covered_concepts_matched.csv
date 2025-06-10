@@ -1,0 +1,1159 @@
+course_name,concept,wikidata_qid,wikidata_label,wikidata_description,wikidata_url
+Linear Algebra and Analytic Geometry,linear algebra,Q82571,linear algebra,branch of mathematics that studies vector spaces and linear transformations,https://www.wikidata.org/wiki/Q82571
+Linear Algebra and Analytic Geometry,matrix calculus,Q29167,matrix calculus,specialized notation for multivariable calculus,https://www.wikidata.org/wiki/Q29167
+Linear Algebra and Analytic Geometry,analytic geometry,Q134787,analytic geometry,study of geometry using a coordinate system,https://www.wikidata.org/wiki/Q134787
+Linear Algebra and Analytic Geometry,matrix theory,Q2256206,matrix theory,"area of mathematics, part of linear algebra",https://www.wikidata.org/wiki/Q2256206
+Mathematical analysis 1,function (mathematics),Q11348,function,association of a single output to each input,https://www.wikidata.org/wiki/Q11348
+Mathematical analysis 1,injection (mathematics),Q182003,injection,mathematical function that preserves distinctness,https://www.wikidata.org/wiki/Q182003
+Mathematical analysis 1,surjection,Q229102,surjective function,function such that every element of the codomain has a preimage,https://www.wikidata.org/wiki/Q229102
+Mathematical analysis 1,bijection,Q180907,bijection,mathematical function which is a one-to-one mapping of sets,https://www.wikidata.org/wiki/Q180907
+Mathematical analysis 1,mathematical induction,Q178377,mathematical induction,form of mathematical proof,https://www.wikidata.org/wiki/Q178377
+Mathematical analysis 1,real function,Q5189500,real-valued function,function whose range is a subset of the real numbers,https://www.wikidata.org/wiki/Q5189500
+Mathematical analysis 1,number sequence,Q4516355,number sequence,mathematical datatype,https://www.wikidata.org/wiki/Q4516355
+Mathematical analysis 1,limit (mathematics),Q177239,limit,value that a function (or sequence) approaches as the argument (or index) approaches some value,https://www.wikidata.org/wiki/Q177239
+Mathematical analysis 1,convergence (mathematics),Q1287023,convergence,mathematical concept,https://www.wikidata.org/wiki/Q1287023
+Mathematical analysis 1,cauchy sequence,Q217847,cauchy sequence,sequence whose elements become arbitrarily close to each other,https://www.wikidata.org/wiki/Q217847
+Mathematical analysis 1,infinitesimal,Q193885,infinitesimal,"nonzero positive ‘number’ smaller than any positive real number, formalizable in a number of ways (surreals, hyperreals etc.)",https://www.wikidata.org/wiki/Q193885
+Mathematical analysis 1,continuity (mathematics),Q12030090,continuity,lack of interruption or disconnection; the quality of being continuous in space or time,https://www.wikidata.org/wiki/Q12030090
+Mathematical analysis 1,derivative,Q29175,derivative,instantaneous rate of change (mathematics),https://www.wikidata.org/wiki/Q29175
+Mathematical analysis 1,differential (calculus),Q149999,differential calculus,subfield of calculus,https://www.wikidata.org/wiki/Q149999
+Mathematical analysis 1,differentiation,Q29175,derivative,instantaneous rate of change (mathematics),https://www.wikidata.org/wiki/Q29175
+Mathematical analysis 1,mean value theorem,Q3984001,Cauchy's mean-value theorem,theorem,https://www.wikidata.org/wiki/Q3984001
+Mathematical analysis 1,rolle's theorem,Q193286,Rolle's theorem,on stationary points between two equal values of a real differentiable function,https://www.wikidata.org/wiki/Q193286
+Mathematical analysis 1,l'hôpital's rule,Q190557,L'Hôpital's rule,rule that uses derivatives to help evaluate limits involving indeterminate forms,https://www.wikidata.org/wiki/Q190557
+Mathematical analysis 1,extremum,Q845060,maxima and minima,largest and smallest value taken by a function in a given range,https://www.wikidata.org/wiki/Q845060
+Mathematical analysis 1,taylor's theorem,Q1137206,Taylor's theorem,approximation of a function by a truncated power series,https://www.wikidata.org/wiki/Q1137206
+Mathematical analysis 1,concavity,Q52927916,concavity,geometric property,https://www.wikidata.org/wiki/Q52927916
+Mathematical analysis 1,convexity,Q5533980,geodesic convexity,natural generalization of convexity for sets and functions to Riemannian manifolds,https://www.wikidata.org/wiki/Q5533980
+Mathematical analysis 1,point of inflection,Q212794,inflection point,"point on a continuously differentiable plane curve at which the curve crosses its tangent, that is, the curve changes from being concave to convex, or vice versa",https://www.wikidata.org/wiki/Q212794
+Mathematical analysis 1,asymptote,Q179436,asymptote,"regarding a curve, a line such that the distance between the curve and the line approaches 0 as x→∞ or y→∞",https://www.wikidata.org/wiki/Q179436
+Mathematical analysis 1,integral,Q80091,integral,operation in calculus,https://www.wikidata.org/wiki/Q80091
+Mathematical analysis 1,integration by parts,Q18615173,Integration by Parts,1201st strip of the webcomic xkcd,https://www.wikidata.org/wiki/Q18615173
+Mathematical analysis 1,rational function,Q41237,rational function,ratio of polynomial functions,https://www.wikidata.org/wiki/Q41237
+Mathematical analysis 1,riemann integral,Q697181,Riemann integral,basic type of integral in elementary calculus,https://www.wikidata.org/wiki/Q697181
+Mathematical analysis 1,monotonic function,Q194404,monotonic function,function between ordered sets that preserves or reverses the given order,https://www.wikidata.org/wiki/Q194404
+Mathematical analysis 1,series (mathematics),Q464100,harmonic series,infinite series of the reciprocals of the positive integers,https://www.wikidata.org/wiki/Q464100
+Mathematical analysis 1,convergence test,Q479834,Abel's test,convergence test,https://www.wikidata.org/wiki/Q479834
+Mathematical analysis 1,cauchy product,Q1051404,Cauchy product,concept in mathematics,https://www.wikidata.org/wiki/Q1051404
+Mathematical analysis 1,functional sequence,,,,
+Mathematical analysis 1,uniform convergence,Q1411887,uniform convergence,mode of convergence of a function sequence,https://www.wikidata.org/wiki/Q1411887
+Mathematical analysis 1,power series,Q206925,power series,infinite sum of monomials,https://www.wikidata.org/wiki/Q206925
+Mathematical analysis 1,analytic function,Q215084,analytic function,function that is locally given by a convergent power series,https://www.wikidata.org/wiki/Q215084
+Mathematical analysis 1,orthogonal series,Q7104524,Orthogonal,novel series by Greg Egan,https://www.wikidata.org/wiki/Q7104524
+Mathematical analysis 1,fourier series,Q179467,Fourier series,decomposition of periodic functions into sums of simpler sinusoidal forms,https://www.wikidata.org/wiki/Q179467
+Mathematical analysis 1,bessel's inequality,Q794042,Bessel's inequality,theorem,https://www.wikidata.org/wiki/Q794042
+Mathematical analysis 1,parseval's identity,Q944238,Parseval's identity,mathematical concept,https://www.wikidata.org/wiki/Q944238
+Mathematical analysis 1,fourier trigonometric series,,,,
+Mathematical analysis 1,differentiability,Q2138760,differentiability class,classification of functions according to the properties of their derivatives,https://www.wikidata.org/wiki/Q2138760
+Mathematical analysis 1,frechet derivative,Q1305350,Fréchet derivative,a derivative defined on normed spaces,https://www.wikidata.org/wiki/Q1305350
+Mathematical analysis 1,gradient,Q173582,gradient,multi-variable generalization of the derivative,https://www.wikidata.org/wiki/Q173582
+Mathematical analysis 1,partial derivative,Q186475,partial derivative,"derivative of a function of several variables with respect to one variable, with the others held constant",https://www.wikidata.org/wiki/Q186475
+Mathematical analysis 1,jacobi matrix,Q506041,Jacobian matrix,the matrix of all first-order partial derivatives of a vector-valued function,https://www.wikidata.org/wiki/Q506041
+Mathematical analysis 1,implicit function theorem,Q848375,implicit function theorem,"theorem that, under a mild condition on the partial derivatives, the set of zeros of a system of equations is locally the graph of a function",https://www.wikidata.org/wiki/Q848375
+Mathematical analysis 1,schwarz's theorem,Q3984032,Pohlke's theorem,theorem in descriptive geometry,https://www.wikidata.org/wiki/Q3984032
+Mathematical analysis 1,lagrange multiplier,Q598870,Lagrange multiplier,a method to solve constrained optimization problems,https://www.wikidata.org/wiki/Q598870
+Mathematical analysis 1,double integral,Q21279440,double integral symbol,mathematical symbol,https://www.wikidata.org/wiki/Q21279440
+Mathematical analysis 1,triple integral,,,,
+Mathematical analysis 1,jordan measure,Q1703597,Jordan measure,"an extension of the notion of size (length, area, volume) to shapes more complicated than, for example, a triangle, disk, or parallelepiped",https://www.wikidata.org/wiki/Q1703597
+Mathematical analysis 1,iterated integral,Q6094400,iterated integral,type of integral of functions of multiple variables,https://www.wikidata.org/wiki/Q6094400
+Mathematical analysis 1,polar coordinate system,Q62494,polar coordinate system,two-dimensional coordinate system where each point is determined by a distance from reference point and an angle from a reference direction,https://www.wikidata.org/wiki/Q62494
+Mathematical analysis 1,spherical coordinate system,Q203218,spherical coordinate system,coordinate system based around angle and distance from the origin,https://www.wikidata.org/wiki/Q203218
+Mathematical analysis 1,cylindrical coordinate system,Q211851,cylindrical coordinate system,three-dimensional orthogonal coordinate system,https://www.wikidata.org/wiki/Q211851
+Mathematical analysis 1,line integral,Q467699,line integral,definite integral of a scalar or vector field along a path,https://www.wikidata.org/wiki/Q467699
+Mathematical analysis 1,green's theorem,Q321237,Green's theorem,theorem,https://www.wikidata.org/wiki/Q321237
+Mathematical analysis 1,surface integral,Q598146,surface integral,generalization of a multiple integral to (possibly)-curved surfaces,https://www.wikidata.org/wiki/Q598146
+Mathematical analysis 1,gauss-ostrogradski theorem,Q338886,divergence theorem,generalization of the fundamental theorem in vector calculus,https://www.wikidata.org/wiki/Q338886
+Mathematical analysis 1,stokes' theorem,Q467756,Stokes' theorem,theorem in vector calculus,https://www.wikidata.org/wiki/Q467756
+Introduction to Computer Science,computer science,Q21198,computer science,study of computation,https://www.wikidata.org/wiki/Q21198
+Introduction to Computer Science,algorithm,Q8366,algorithm,sequence of instructions to perform a task,https://www.wikidata.org/wiki/Q8366
+Introduction to Computer Science,computational complexity,Q5157286,computational complexity,measure of the amount of resources needed to run an algorithm or solve a computational problem,https://www.wikidata.org/wiki/Q5157286
+Introduction to Computer Science,formal language,Q192161,formal language,set of strings of symbols that may be constrained by rules that are specific to it; words whose letters are taken from an alphabet and are well-formed according to a specific set of rules,https://www.wikidata.org/wiki/Q192161
+Introduction to Computer Science,formal grammar,Q373045,formal grammar,structure of a formal language,https://www.wikidata.org/wiki/Q373045
+Introduction to Computer Science,chomsky hierarchy,Q190913,Chomsky hierarchy,containment hierarchy of classes of formal grammars,https://www.wikidata.org/wiki/Q190913
+Introduction to Computer Science,grammatical parsing,Q126084811,BLLIP Parser,BLLIP Parser (or Charniak-Johnson parser) is a statistical natural language parser for analyzing text to determine its grammatical structure,https://www.wikidata.org/wiki/Q126084811
+Introduction to Computer Science,compiler,Q47506,compiler,computer program that transforms source code into object code,https://www.wikidata.org/wiki/Q47506
+Introduction to Computer Science,programming paradigm,Q188267,programming paradigm,category of programming languages according to what methodology of designing and implementing programs their features support,https://www.wikidata.org/wiki/Q188267
+Introduction to Computer Science,information theory,Q131222,information theory,mathematical theory from the field of probability theory and statistics,https://www.wikidata.org/wiki/Q131222
+Introduction to Computer Science,entropy,Q204570,information entropy,expected value of the amount of information delivered by a message,https://www.wikidata.org/wiki/Q204570
+Introduction to Computer Science,data compression,Q2493,data compression,process of encoding information using fewer bits than the original representation,https://www.wikidata.org/wiki/Q2493
+Introduction to Computer Science,shannon coding,Q11740845,Shannon coding,Shannon coding,https://www.wikidata.org/wiki/Q11740845
+Introduction to Computer Science,fano coding,Q2645,Shannon–Fano coding,technique for constructing a prefix code,https://www.wikidata.org/wiki/Q2645
+Introduction to Computer Science,huffman coding,Q2647,Huffman coding,entropy encoding algorithm used for lossless data compression,https://www.wikidata.org/wiki/Q2647
+Introduction to Computer Science,channel capacity,Q106505959,channel capacity per character,maximum of the character mean transinformation content,https://www.wikidata.org/wiki/Q106505959
+Introduction to Computer Science,kolmogorov complexity,Q1456811,Kolmogorov complexity,measure of algorithmic complexity,https://www.wikidata.org/wiki/Q1456811
+Introduction to Computer Science,computer network,Q1301371,computer network,network that allows computers to share resources and communicate with each other,https://www.wikidata.org/wiki/Q1301371
+Introduction to Computer Science,network topology,Q145490,network topology,arrangement of the various elements of a computer network; topological structure of a network and may be depicted physically or logically,https://www.wikidata.org/wiki/Q145490
+Introduction to Computer Science,ethernet,Q79984,Ethernet,"family of wired computer networking technologies commonly used in local area networks (LAN), metropolitan area networks (MAN) and wide area networks (WAN)",https://www.wikidata.org/wiki/Q79984
+Introduction to Computer Science,wifi,Q29643,Wi-Fi,"family of wireless network protocols, based on IEEE's 802.11 standards",https://www.wikidata.org/wiki/Q29643
+Introduction to Computer Science,bluetooth,Q39531,Bluetooth,short-distance wireless communication protocol,https://www.wikidata.org/wiki/Q39531
+Introduction to Computer Science,osi model,Q93312,OSI model,model with 7 layers to describe communication systems,https://www.wikidata.org/wiki/Q93312
+Introduction to Computer Science,network protocol,Q15836568,computer network protocol,communications protocol used by data networks,https://www.wikidata.org/wiki/Q15836568
+Introduction to Computer Science,application programming,Q165194,application programming interface,software interface between computers and/or programs,https://www.wikidata.org/wiki/Q165194
+Introduction to Computer Science,modeling,Q1116876,scientific modeling,scientific activity,https://www.wikidata.org/wiki/Q1116876
+Introduction to Computer Science,simulation,Q1610017,simulation video game,video game genre,https://www.wikidata.org/wiki/Q1610017
+Introduction to Computer Science,embedded system,Q193040,embedded system,computer system with a dedicated function within a larger mechanical or electrical system.,https://www.wikidata.org/wiki/Q193040
+Introduction to Computer Science,ubiquitous computing,Q541265,ubiquitous computing,concept in software engineering and computer science,https://www.wikidata.org/wiki/Q541265
+Introduction to Computer Science,multimedia system,Q380671,XMMS,Winamp-like musicplayer for *nix,https://www.wikidata.org/wiki/Q380671
+Introduction to Computer Science,regular language,Q752532,regular language,formal language that can be expressed using a regular expression,https://www.wikidata.org/wiki/Q752532
+Introduction to Computer Science,context-free language,Q729271,context-free language,formal language that is a member of the set of languages defined by context-free grammars,https://www.wikidata.org/wiki/Q729271
+Logic for IT specialists,logic,Q8078,logic,study of correct reasoning,https://www.wikidata.org/wiki/Q8078
+Logic for IT specialists,formal language,Q192161,formal language,set of strings of symbols that may be constrained by rules that are specific to it; words whose letters are taken from an alphabet and are well-formed according to a specific set of rules,https://www.wikidata.org/wiki/Q192161
+Logic for IT specialists,syntax,Q37437,syntax,linguistic field that studies the inner structure of sentences,https://www.wikidata.org/wiki/Q37437
+Logic for IT specialists,semantics,Q39645,semantics,"study of meaning of linguistic forms (words, phrases, etc.)",https://www.wikidata.org/wiki/Q39645
+Logic for IT specialists,interpretation,Q210439,interpretation,facilitating of oral or sign-language communication between users of different languages,https://www.wikidata.org/wiki/Q210439
+Logic for IT specialists,model (logic),Q17067742,logic model,method of depicting causal relationships,https://www.wikidata.org/wiki/Q17067742
+Logic for IT specialists,deduction,Q484284,deductive reasoning,method of reasoning by which premises understood to be true produce logically certain conclusions,https://www.wikidata.org/wiki/Q484284
+Logic for IT specialists,logical consequence,Q374182,logical consequence,fundamental concept in logic,https://www.wikidata.org/wiki/Q374182
+Logic for IT specialists,hypothesis,Q41719,hypothesis,"proposed explanation for an observation, phenomenon, or scientific problem",https://www.wikidata.org/wiki/Q41719
+Logic for IT specialists,theorem,Q65943,theorem,"in mathematics, a statement that has been proved",https://www.wikidata.org/wiki/Q65943
+Logic for IT specialists,tautology,Q209555,tautology,logical formula which is true in every possible interpretation,https://www.wikidata.org/wiki/Q209555
+Logic for IT specialists,inference,Q408386,inference,act or process of deriving logical conclusions from premises known or assumed to be true,https://www.wikidata.org/wiki/Q408386
+Logic for IT specialists,abduction,Q143716,Abduction,2011 film directed by John Singleton,https://www.wikidata.org/wiki/Q143716
+Logic for IT specialists,induction,Q178377,mathematical induction,form of mathematical proof,https://www.wikidata.org/wiki/Q178377
+Logic for IT specialists,propositional calculus,Q200694,propositional calculus,"branch of logic concerned with the study of propositions (whether they are true or false) that are formed by other propositions with the use of logical connectives, and how their value depends on the truth value of their components",https://www.wikidata.org/wiki/Q200694
+Logic for IT specialists,conjunctive normal form,Q846564,conjunctive normal form,concept in Boolean logic,https://www.wikidata.org/wiki/Q846564
+Logic for IT specialists,disjunctive normal form,Q903789,disjunctive normal form,concept in Boolean logic,https://www.wikidata.org/wiki/Q903789
+Logic for IT specialists,negation normal form,Q1640479,negation normal form,term,https://www.wikidata.org/wiki/Q1640479
+Logic for IT specialists,implicant,Q1291626,Implicant,"""covering"" of one or more minterms in a sum of products of a boolean function in Boolean logic",https://www.wikidata.org/wiki/Q1291626
+Logic for IT specialists,rule of inference,Q1068763,rule of inference,systematic logical process capable of deriving a conclusion from hypotheses,https://www.wikidata.org/wiki/Q1068763
+Logic for IT specialists,decision tree,Q831366,decision tree,decision support tool,https://www.wikidata.org/wiki/Q831366
+Logic for IT specialists,ordered binary decision diagram,Q864155,binary decision diagram,data structure,https://www.wikidata.org/wiki/Q864155
+Logic for IT specialists,satisfiability,Q875276,boolean satisfiability problem,problem of determining if a Boolean formula could be made true,https://www.wikidata.org/wiki/Q875276
+Logic for IT specialists,sat problem,Q875276,boolean satisfiability problem,problem of determining if a Boolean formula could be made true,https://www.wikidata.org/wiki/Q875276
+Logic for IT specialists,predicate calculus,Q4055684,first-order logic,"collection of formal systems used in mathematics, philosophy, linguistics, and computer science",https://www.wikidata.org/wiki/Q4055684
+Logic for IT specialists,attribute logic,Q123751977,attribute blocks,"blocks of varying size, thickness, color, and shape used to teach logic",https://www.wikidata.org/wiki/Q123751977
+Logic for IT specialists,decision table,Q747762,decision table,concise visual representation for specifying which actions to perform depending on given conditions,https://www.wikidata.org/wiki/Q747762
+Logic for IT specialists,rule-based system,Q1417149,rule-based system,curated rule set to store and manipulate knowledge and interpret information,https://www.wikidata.org/wiki/Q1417149
+Logic for IT specialists,automatic theorem proving,Q7912960,Vampire theorem prover,automatic theorem prover,https://www.wikidata.org/wiki/Q7912960
+Logic for IT specialists,resolution (logic),Q1051925,resolution,"in logic, rule of inference",https://www.wikidata.org/wiki/Q1051925
+Logic for IT specialists,substitution (logic),Q1522579,substitution,concept in logic; syntactic transformation on formal expressions,https://www.wikidata.org/wiki/Q1522579
+Logic for IT specialists,unification (computer science),Q609057,unification,algorithmic process of solving equations between symbolic expressions,https://www.wikidata.org/wiki/Q609057
+Logic for IT specialists,skolemization,Q64224457,skolemization,method for obtaining Skolem normal form,https://www.wikidata.org/wiki/Q64224457
+Logic for IT specialists,logical programming,Q120971454,inductive logical programming,area of research,https://www.wikidata.org/wiki/Q120971454
+Logic for IT specialists,prolog,Q163468,Prolog,programming language that uses first order logic,https://www.wikidata.org/wiki/Q163468
+Logic for IT specialists,multi-valued logic,Q185502,many-valued logic,propositional calculus in which there are more than two truth values,https://www.wikidata.org/wiki/Q185502
+Logic for IT specialists,fuzzy logic,Q224821,fuzzy logic,system for reasoning about vagueness,https://www.wikidata.org/wiki/Q224821
+Logic for IT specialists,modal logic,Q210841,modal logic,"formal logic able to express concepts such as necessity, possibility, provability, obligation, knowledge etc.",https://www.wikidata.org/wiki/Q210841
+Logic for IT specialists,temporal logic,Q781833,temporal logic,system for representing and reasoning about time,https://www.wikidata.org/wiki/Q781833
+Logic for IT specialists,quantifier,Q592911,quantifier,logical operator specifying how many entities in the domain of discourse that satisfy an open formula,https://www.wikidata.org/wiki/Q592911
+Logic for IT specialists,predicate,Q179080,predicate,sentence constituent,https://www.wikidata.org/wiki/Q179080
+Logic for IT specialists,function (mathematics),Q11348,function,association of a single output to each input,https://www.wikidata.org/wiki/Q11348
+Logic for IT specialists,first-order logic,Q4055684,first-order logic,"collection of formal systems used in mathematics, philosophy, linguistics, and computer science",https://www.wikidata.org/wiki/Q4055684
+Programming Basics 1,c,Q15777,C,general-purpose programming language,https://www.wikidata.org/wiki/Q15777
+Programming Basics 1,syntax,Q37437,syntax,linguistic field that studies the inner structure of sentences,https://www.wikidata.org/wiki/Q37437
+Programming Basics 1,variable (programming),Q25203375,control variable,regulates the flow of control of a program,https://www.wikidata.org/wiki/Q25203375
+Programming Basics 1,variable scope,Q1143344,global variable,"variable in a computer program that is visible throughout the program, unless shadowed",https://www.wikidata.org/wiki/Q1143344
+Programming Basics 1,pointer (computer programming),Q118155,pointer,type which stores memory addresses in a computer program,https://www.wikidata.org/wiki/Q118155
+Programming Basics 1,operator (programming),Q1206110,program operator,"construct used in computer programming, often associated to a mathematical operation",https://www.wikidata.org/wiki/Q1206110
+Programming Basics 1,control flow,Q868299,control flow,"order in which individual statements, instructions or function calls of an imperative program are executed or evaluated",https://www.wikidata.org/wiki/Q868299
+Programming Basics 1,function (programming),Q5426980,FP84,programming language to support the function-level paradigm,https://www.wikidata.org/wiki/Q5426980
+Programming Basics 1,recursion,Q179976,recursion,process of repeating items in a self-similar way,https://www.wikidata.org/wiki/Q179976
+Programming Basics 1,array data structure,Q186152,array data structure,data structure holding elements in a contiguous memory block,https://www.wikidata.org/wiki/Q186152
+Programming Basics 1,string (computer science),Q184754,string,data type representing a finite sequence of encoded characters,https://www.wikidata.org/wiki/Q184754
+Programming Basics 1,structure (computer science),Q175263,data structure,particular way of storing and organizing data in a computer,https://www.wikidata.org/wiki/Q175263
+Programming Basics 1,dynamic memory allocation,Q1061927,dynamic memory allocation,the allocation of memory storage for use in a computer program during runtime,https://www.wikidata.org/wiki/Q1061927
+Programming Basics 1,list,Q12139612,list,set of discrete items of information,https://www.wikidata.org/wiki/Q12139612
+Programming Basics 1,tree data structure,Q223655,tree,abstract data type,https://www.wikidata.org/wiki/Q223655
+Programming Basics 1,library (computing),Q188860,software library,"collection of non-volatile resources used by computer programs, often for software development",https://www.wikidata.org/wiki/Q188860
+Introduction to Unix Systems,shell,Q154950,Shell,British multinational oil and gas company,https://www.wikidata.org/wiki/Q154950
+Introduction to Unix Systems,bash,Q189248,GNU Bash,GNU Project implementation of the standard Unix shell,https://www.wikidata.org/wiki/Q189248
+Introduction to Unix Systems,regular expression,Q185612,regular expression,sequence of characters that forms a search pattern,https://www.wikidata.org/wiki/Q185612
+Introduction to Unix Systems,data processing,Q6661985,data processing,"any process that uses a computer program to enter data and summarise, analyse or otherwise convert data into usable information",https://www.wikidata.org/wiki/Q6661985
+Introduction to Unix Systems,networking,Q3220391,social networking service,online platform that facilitates the building of social relations,https://www.wikidata.org/wiki/Q3220391
+Introduction to Unix Systems,vi,Q214743,vi,keyboard-oriented text editor,https://www.wikidata.org/wiki/Q214743
+Introduction to Unix Systems,emacs,Q1252773,GNU Emacs,GNU version of the Emacs text editor,https://www.wikidata.org/wiki/Q1252773
+Introduction to Unix Systems,make,Q300867,make,standard UNIX utility and programming language for build automation,https://www.wikidata.org/wiki/Q300867
+Introduction to Unix Systems,programming,Q80006,computer programming,the process of designing and building an executable computer program to accomplish a specific computing result or to perform a specific task,https://www.wikidata.org/wiki/Q80006
+Introduction to Unix Systems,process (computing),Q205663,process,particular execution of a computer program,https://www.wikidata.org/wiki/Q205663
+Introduction to Unix Systems,thread (computing),Q213092,thread,smallest sequence of programmed instructions that can be managed independently by a scheduler,https://www.wikidata.org/wiki/Q213092
+Introduction to Unix Systems,debugging,Q845566,debugging,process of finding and resolving defects or problems within a computer program,https://www.wikidata.org/wiki/Q845566
+Introduction to Unix Systems,version control,Q189439,version control,activity of managing the versions of one or more files,https://www.wikidata.org/wiki/Q189439
+Introduction to Unix Systems,file system,Q174989,file system,concrete format or program for storing files and directories on a data storage device,https://www.wikidata.org/wiki/Q174989
+Introduction to Unix Systems,process management,Q14167904,process management,ensemble of activities of planning and monitoring the performance of a process,https://www.wikidata.org/wiki/Q14167904
+Introduction to Unix Systems,inter-process communication,Q751436,inter-process communication,mechanisms an operating system provides to allow the processes to manage shared data,https://www.wikidata.org/wiki/Q751436
+Introduction to Unix Systems,interactive data processing,,,,
+Computer architectures,combinational circuit,Q76505,combinational logic,type of digital logic which is implemented by boolean circuits,https://www.wikidata.org/wiki/Q76505
+Computer architectures,logic gate,Q170451,logic gate,"computational equipment, physical or theoretical, that performs a boolean logic function",https://www.wikidata.org/wiki/Q170451
+Computer architectures,arithmetic circuit,Q121565213,Arithmetic circuit,US patent 11327716,https://www.wikidata.org/wiki/Q121565213
+Computer architectures,encoder,Q5392830,encoder,"encoder in digital electronics, a one-hot to binary converter",https://www.wikidata.org/wiki/Q5392830
+Computer architectures,decoder,Q745243,decoder,device which reverses the operation of an encoder,https://www.wikidata.org/wiki/Q745243
+Computer architectures,multiplexer,Q189434,multiplexer,electronic circuit that selects one of its several input signals and forwards it into a single output line,https://www.wikidata.org/wiki/Q189434
+Computer architectures,demultiplexer,Q5256428,demultiplexer,type of software,https://www.wikidata.org/wiki/Q5256428
+Computer architectures,rom,Q160710,read-only memory,non-volatile memory used in computers and other electronic devices; class of storage medium used in computers and other electronic devices,https://www.wikidata.org/wiki/Q160710
+Computer architectures,sequential circuit,,,,
+Computer architectures,flip-flop,Q183406,flip-flop,circuit that has two stable states and can be used to store state information,https://www.wikidata.org/wiki/Q183406
+Computer architectures,register,Q286576,register,form of language used for a particular purpose or in a particular communicative situation,https://www.wikidata.org/wiki/Q286576
+Computer architectures,counter,Q247299,counter,device which stores the number of times a particular event or process has occurred,https://www.wikidata.org/wiki/Q247299
+Computer architectures,ram,Q5295,random-access memory,form of computer data storage,https://www.wikidata.org/wiki/Q5295
+Computer architectures,vhdl,Q209455,VHDL,Hardware Description Language,https://www.wikidata.org/wiki/Q209455
+Computer architectures,fpga,Q190411,field-programmable gate array,integrated circuit designed to be configured by a customer or a designer after manufacturing,https://www.wikidata.org/wiki/Q190411
+Computer architectures,electronic schematic,Q29000872,schematic diagram,"style of circuit diagrams, shows the components and interconnections of the circuit using standardized symbolic representations",https://www.wikidata.org/wiki/Q29000872
+Computer architectures,alu,Q447277,Alu,mountain,https://www.wikidata.org/wiki/Q447277
+Computer architectures,computer architecture,Q173212,computer architecture,"set of rules and methods that describe the functionality, organization and implementation of computer systems",https://www.wikidata.org/wiki/Q173212
+Computer architectures,microprogrammed control,,,,
+Computer architectures,parallel processing,Q7134969,Parallel Processing,Parallel processing in digital signal processing,https://www.wikidata.org/wiki/Q7134969
+IT tools,latex,Q5310,LaTeX,document markup language,https://www.wikidata.org/wiki/Q5310
+IT tools,document class,Q107478770,document genre,type or class of documents,https://www.wikidata.org/wiki/Q107478770
+IT tools,bibliography,Q134995,bibliography,academic discipline that studies books,https://www.wikidata.org/wiki/Q134995
+IT tools,version control system,Q3257930,version control system,system to store and manage changes in the source code for a given software or in other media,https://www.wikidata.org/wiki/Q3257930
+IT tools,git,Q186055,Git,distributed version control system,https://www.wikidata.org/wiki/Q186055
+IT tools,subversion,Q46794,Apache Subversion,advanced version control system,https://www.wikidata.org/wiki/Q46794
+IT tools,knowledge base,Q593744,knowledge base,information repository with multiple applications,https://www.wikidata.org/wiki/Q593744
+IT tools,wiki,Q171,wiki,type of website that visitors can edit,https://www.wikidata.org/wiki/Q171
+IT tools,kanban,Q18979,kanban,scheduling system / stock replenishment for lean manufacturing and just-in-time manufacturing (JIT),https://www.wikidata.org/wiki/Q18979
+IT tools,scrum,Q460387,scrum,Agile software development framework,https://www.wikidata.org/wiki/Q460387
+Physics 1,physics,Q413,physics,"study of matter and its motion, along with related concepts such as energy and force",https://www.wikidata.org/wiki/Q413
+Physics 1,differential calculus,Q149999,differential calculus,subfield of calculus,https://www.wikidata.org/wiki/Q149999
+Physics 1,integral calculus,Q150008,integral calculus,subfield of calculus,https://www.wikidata.org/wiki/Q150008
+Physics 1,vector calculus,Q200802,vector calculus,calculus of vector-valued functions,https://www.wikidata.org/wiki/Q200802
+Physics 1,si unit,Q61610698,SI unit,unit in the International System of Units,https://www.wikidata.org/wiki/Q61610698
+Physics 1,scalar (physics),Q181175,scalar quantity,quantity represented by a scalar: quantity having no direction,https://www.wikidata.org/wiki/Q181175
+Physics 1,vector (physics),Q13471665,vector,element of a vector space,https://www.wikidata.org/wiki/Q13471665
+Physics 1,kinematics,Q11476,kinematics,branch of physics describing the motion of objects or groups of objects without considering its cause,https://www.wikidata.org/wiki/Q11476
+Physics 1,curvilinear motion,Q6025295,curvilinear motion,motion of an object in a curved path,https://www.wikidata.org/wiki/Q6025295
+Physics 1,position vector,Q192388,position vector,vector representing the position of a point with respect to a given origin and axes,https://www.wikidata.org/wiki/Q192388
+Physics 1,displacement (vector),Q190291,displacement,vector that is the shortest distance from the initial to the final position of a point P,https://www.wikidata.org/wiki/Q190291
+Physics 1,velocity,Q11465,velocity,"rate of change of the position of an object as a function of time, and the direction of that change",https://www.wikidata.org/wiki/Q11465
+Physics 1,acceleration,Q11376,acceleration,rate at which the magnitude and/or direction of velocity changes with time,https://www.wikidata.org/wiki/Q11376
+Physics 1,circular motion,Q715746,circular motion,object movement along a circular path,https://www.wikidata.org/wiki/Q715746
+Physics 1,free fall,Q2597841,Free Fall,amusement ride at Attractiepark Slagharen,https://www.wikidata.org/wiki/Q2597841
+Physics 1,dynamics,Q128030,dynamics,branch of mechanics studying forces and their effect on motion,https://www.wikidata.org/wiki/Q128030
+Physics 1,newton's laws of motion,Q38433,Newton's laws of motion,classical formulation of Mechanics by Isaac Newton,https://www.wikidata.org/wiki/Q38433
+Physics 1,mass,Q11423,mass,property of matter to resist changes of the state of motion and to attract other bodies,https://www.wikidata.org/wiki/Q11423
+Physics 1,weight,Q620876,human body weight,person's mass or weight,https://www.wikidata.org/wiki/Q620876
+Physics 1,friction,Q82580,friction,"force resisting the relative motion of solid surfaces, fluid layers, and material elements sliding against each other",https://www.wikidata.org/wiki/Q82580
+Physics 1,inertial frame of reference,Q192735,inertial frame of reference,frame of reference not undergoing acceleration,https://www.wikidata.org/wiki/Q192735
+Physics 1,non-inertial frame of reference,Q829564,non-inertial reference frame,frame of reference,https://www.wikidata.org/wiki/Q829564
+Physics 1,centrifugal force,Q30950932,Centrifugal Force,2016 studio album by Faith Yang,https://www.wikidata.org/wiki/Q30950932
+Physics 1,coriolis effect,Q169973,Coriolis force,apparent or fictitious force on objects moving within a reference frame that rotates with respect to an inertial frame,https://www.wikidata.org/wiki/Q169973
+Physics 1,work (physics),Q42213,work,energy transferred to an object via the application of force on it through a displacement,https://www.wikidata.org/wiki/Q42213
+Physics 1,power (physics),Q25342,power,"rate at which energy is transferred, used, or transformed",https://www.wikidata.org/wiki/Q25342
+Physics 1,energy,Q11379,energy,"quantitative property of a physical system, recognizable in the performance of work and in the form of heat and light",https://www.wikidata.org/wiki/Q11379
+Physics 1,kinetic energy,Q46276,kinetic energy,energy of a moving physical body,https://www.wikidata.org/wiki/Q46276
+Physics 1,potential energy,Q155640,potential energy,"energy held by an object because of its position relative to other objects or stresses within itself, rather than its velocity",https://www.wikidata.org/wiki/Q155640
+Physics 1,conservative force,Q822938,conservative force,force with the property that the work done in moving a particle between two points is independent of the path taken,https://www.wikidata.org/wiki/Q822938
+Physics 1,principle of conservation of energy,Q121362934,Conservation Principle of Energy,thematic unit of the Physics curriculum in basic education in Uruguay,https://www.wikidata.org/wiki/Q121362934
+Physics 1,center of mass,Q2945123,center of mass,unique point where the weighted relative position of a distributed mass sums to zero,https://www.wikidata.org/wiki/Q2945123
+Physics 1,principle of conservation of momentum,,,,
+Physics 1,gravity,Q11412,gravity,fundamental interaction affecting all matter,https://www.wikidata.org/wiki/Q11412
+Physics 1,gravitational field,Q558066,gravitational field,direction and intensity of gravity in every point of space,https://www.wikidata.org/wiki/Q558066
+Physics 1,gravitational potential,Q1544012,gravitational potential,scalar potential that describes a gravitational field,https://www.wikidata.org/wiki/Q1544012
+Physics 1,gauss's law,Q173356,Gauss's law,foundational law of electromagnetism,https://www.wikidata.org/wiki/Q173356
+Physics 1,kepler's laws of planetary motion,Q122928282,Kepler's first law,physica law that planetary orbits are ellipses with the Sun at one focus,https://www.wikidata.org/wiki/Q122928282
+Physics 1,gravitational acceleration,Q30006,gravitational acceleration,acceleration of an object caused by gravity,https://www.wikidata.org/wiki/Q30006
+Physics 1,rigid body dynamics,Q2037529,rigid body dynamics,study of systems of undeformable bodies under applied forces and how they change with time,https://www.wikidata.org/wiki/Q2037529
+Physics 1,center of mass,Q2945123,center of mass,unique point where the weighted relative position of a distributed mass sums to zero,https://www.wikidata.org/wiki/Q2945123
+Physics 1,moment of inertia,Q165618,moment of inertia,scalar measure of the rotational inertia with respect to a fixed axis of rotation,https://www.wikidata.org/wiki/Q165618
+Physics 1,steiner's theorem,Q1186134,Poncelet–Steiner theorem,theorem,https://www.wikidata.org/wiki/Q1186134
+Physics 1,vibration,Q3695508,vibration,mechanical phenomenon whereby oscillations occur about an equilibrium point; precisely used to describe mechanical oscillation,https://www.wikidata.org/wiki/Q3695508
+Physics 1,harmonic oscillator,Q190070,harmonic oscillator,physical system that responds to a restoring force inversely proportional to displacement,https://www.wikidata.org/wiki/Q190070
+Physics 1,stress (mechanics),Q206175,mechanical stress,physical quantity that expresses internal forces in a continuous material,https://www.wikidata.org/wiki/Q206175
+Physics 1,strain (mechanics),Q1990546,linear strain,relative change of length with respect the original length,https://www.wikidata.org/wiki/Q1990546
+Physics 1,hooke's law,Q170282,Hooke's law,empirical physical law of mechanics that the force on a spring is proportional to its displacement,https://www.wikidata.org/wiki/Q170282
+Physics 1,damped oscillation,Q17088349,Vacuum Rabi oscillation,damped oscillation in quantum optics,https://www.wikidata.org/wiki/Q17088349
+Physics 1,forced oscillation,,,,
+Physics 1,resonance,Q898756,surface plasmon resonance,physical phenomenon of electron resonance,https://www.wikidata.org/wiki/Q898756
+Physics 1,pendulum,Q20702,pendulum,suspended weight capable of swinging freely from a pivot,https://www.wikidata.org/wiki/Q20702
+Physics 1,mechanical wave,Q1132631,mechanical wave,wave which is an oscillation of matter,https://www.wikidata.org/wiki/Q1132631
+Physics 1,wave equation,Q193846,wave equation,second-order linear differential equation important in physics,https://www.wikidata.org/wiki/Q193846
+Physics 1,standing wave,Q123300,standing wave,wave that remains in a constant position,https://www.wikidata.org/wiki/Q123300
+Physics 1,acoustics,Q82811,acoustics,"science that deals with the study of all mechanical waves in gases, liquids, and solids including vibration, sound, ultrasound and infrasound",https://www.wikidata.org/wiki/Q82811
+Physics 1,doppler effect,Q76436,Doppler effect,frequency change of a wave for observer relative to its source,https://www.wikidata.org/wiki/Q76436
+Physics 1,hydrostatics,Q177807,hydrostatics,branch of fluid mechanics that studies fluids at rest,https://www.wikidata.org/wiki/Q177807
+Physics 1,hydrodynamics,Q12016129,hydrodynamics,study of fluids in motion,https://www.wikidata.org/wiki/Q12016129
+Physics 1,pressure,Q39552,pressure,force applied over an area,https://www.wikidata.org/wiki/Q39552
+Physics 1,pascal's law,Q190760,Pascal's law,principle in fluid mechanics,https://www.wikidata.org/wiki/Q190760
+Physics 1,archimedes' principle,Q181404,Archimedes' principle,law of physics fundamental to fluid mechanics,https://www.wikidata.org/wiki/Q181404
+Physics 1,bernoulli's principle,Q181328,Bernoulli's principle,principle relating to fluid dynamics,https://www.wikidata.org/wiki/Q181328
+Physics 1,viscosity,Q128709,viscosity,resistance of a fluid to shear deformation,https://www.wikidata.org/wiki/Q128709
+Physics 1,kinetic theory of gases,Q200286,kinetic theory,mathematical model explaining macroscopic properties of gases in microscopic terms,https://www.wikidata.org/wiki/Q200286
+Physics 1,thermodynamics,Q11473,thermodynamics,"branch of physics concerned with heat, work, temperature, and thermal or internal energy",https://www.wikidata.org/wiki/Q11473
+Physics 1,internal energy,Q180241,internal energy,"energy contained in a system, excluding energy due to its position as a body in external force fields or its overall motion",https://www.wikidata.org/wiki/Q180241
+Physics 1,entropy,Q204570,information entropy,expected value of the amount of information delivered by a message,https://www.wikidata.org/wiki/Q204570
+Physics 1,equation of state,Q214967,equation of state,equation describing the state of matter under a given set of physical conditions,https://www.wikidata.org/wiki/Q214967
+Physics 1,maxwell distribution,Q634965,Maxwell–Boltzmann distribution,"specific probability distribution function, important in physics",https://www.wikidata.org/wiki/Q634965
+Physics 1,specific heat capacity,Q487756,specific heat capacity,"intensive quantity, heat capacity per mass",https://www.wikidata.org/wiki/Q487756
+Physics 1,molar heat capacity,Q2937190,molar heat capacity,"intensive quantity, heat capacity per amount of substance",https://www.wikidata.org/wiki/Q2937190
+Physics 1,equipartition theorem,Q255996,equipartition theorem,theorem,https://www.wikidata.org/wiki/Q255996
+Probability and Statistics,probability theory,Q5862903,probability theory,branch of mathematics concerning probability,https://www.wikidata.org/wiki/Q5862903
+Probability and Statistics,statistics,Q12483,statistics,"study of the collection, analysis, interpretation, and presentation of data",https://www.wikidata.org/wiki/Q12483
+Probability and Statistics,descriptive statistics,Q380344,descriptive statistics,field of quantitative research,https://www.wikidata.org/wiki/Q380344
+Probability and Statistics,data analysis,Q1988917,data analysis,activity for gaining insight from data,https://www.wikidata.org/wiki/Q1988917
+Probability and Statistics,data visualization,Q6504956,data visualization,creation and study of the visual representation of data,https://www.wikidata.org/wiki/Q6504956
+Probability and Statistics,probability,Q9492,probability,measure of the expectation that an event will occur or a statement is true,https://www.wikidata.org/wiki/Q9492
+Probability and Statistics,bayes' rule,Q182505,Bayes' theorem,theorem describing the probability of an event based on prior knowledge of conditions that might be related to the event,https://www.wikidata.org/wiki/Q182505
+Probability and Statistics,random variable,Q176623,random variable,variable representing a random phenomenon,https://www.wikidata.org/wiki/Q176623
+Probability and Statistics,normal distribution,Q133871,normal distribution,probability distribution,https://www.wikidata.org/wiki/Q133871
+Probability and Statistics,marginal distribution,Q670653,marginal probability distribution,"probability distribution of a subset (the ""marginal variables"") of a collection of random variables",https://www.wikidata.org/wiki/Q670653
+Probability and Statistics,probabilistic model,Q7120322,PRISM model checker,probabilistic model checker,https://www.wikidata.org/wiki/Q7120322
+Probability and Statistics,statistical inference,Q938438,statistical inference,process of deducing properties of an underlying probability distribution by analysis of data,https://www.wikidata.org/wiki/Q938438
+Probability and Statistics,point estimation,Q1192065,point estimation,parameter estimation via sample statistics,https://www.wikidata.org/wiki/Q1192065
+Probability and Statistics,interval estimation,Q3300636,interval estimator,interval bounded by an upper and a lower limit statistic,https://www.wikidata.org/wiki/Q3300636
+Probability and Statistics,statistical hypothesis testing,Q210832,statistical test,method of statistical inference,https://www.wikidata.org/wiki/Q210832
+Probability and Statistics,nonparametric test,Q118899086,Brunner Munzel Test,nonparametric test,https://www.wikidata.org/wiki/Q118899086
+Probability and Statistics,rank method,Q124434704,Rank-index method,Class of apportionment methods,https://www.wikidata.org/wiki/Q124434704
+Probability and Statistics,analysis of variance,Q42297,analysis of variance,collection of statistical models used to analyze the differences between group means and their associated procedures,https://www.wikidata.org/wiki/Q42297
+Probability and Statistics,multivariate statistics,Q1952580,multivariate statistics,simultaneous observation and analysis of more than one outcome variable,https://www.wikidata.org/wiki/Q1952580
+Probability and Statistics,discriminant analysis,Q15136973,discriminant analysis,classification procedure,https://www.wikidata.org/wiki/Q15136973
+Probability and Statistics,dimensionality reduction,Q16000077,dimensionality reduction,process of reducing the number of random variables under consideration,https://www.wikidata.org/wiki/Q16000077
+Probability and Statistics,monte carlo method,Q232207,Monte Carlo method,broad class of computational algorithms using random sampling to obtain numerical results,https://www.wikidata.org/wiki/Q232207
+Probability and Statistics,random number generator,Q5166606,Convolution random number generator,non-uniform number generator,https://www.wikidata.org/wiki/Q5166606
+Probability and Statistics,bootstrap method,Q301990,bootstrapping,statistical method,https://www.wikidata.org/wiki/Q301990
+Discrete mathematics,logic,Q8078,logic,study of correct reasoning,https://www.wikidata.org/wiki/Q8078
+Discrete mathematics,relation (mathematics),Q203066,relation,property that assigns truth values to k-tuples of individuals,https://www.wikidata.org/wiki/Q203066
+Discrete mathematics,function (mathematics),Q11348,function,association of a single output to each input,https://www.wikidata.org/wiki/Q11348
+Discrete mathematics,graph theory,Q131476,graph theory,"study of graphs, which are mathematical structures used to model pairwise relations between objects",https://www.wikidata.org/wiki/Q131476
+Discrete mathematics,combinatorics,Q76592,combinatorics,branch of discrete mathematics,https://www.wikidata.org/wiki/Q76592
+Discrete mathematics,algebraic structure,Q205464,algebraic structure,set equipped with one or more finitary operations defined on it,https://www.wikidata.org/wiki/Q205464
+Discrete mathematics,recurrence relation,Q740970,recurrence relation,sequence or array in which each further term is defined as a function of the preceding terms,https://www.wikidata.org/wiki/Q740970
+Graph theory,graph theory,Q131476,graph theory,"study of graphs, which are mathematical structures used to model pairwise relations between objects",https://www.wikidata.org/wiki/Q131476
+Graph theory,graph (data structure),Q3045702,e-graph,graph data structure,https://www.wikidata.org/wiki/Q3045702
+Graph theory,subgraph,Q7631151,subgraph,graph formed from a subset of the vertices and edges of another graph,https://www.wikidata.org/wiki/Q7631151
+Graph theory,graph isomorphism,Q303100,graph isomorphism,bijection between the vertex set of two graphs,https://www.wikidata.org/wiki/Q303100
+Graph theory,adjacency matrix,Q727035,adjacency matrix,square matrix used to represent a graph or network,https://www.wikidata.org/wiki/Q727035
+Graph theory,incidence matrix,Q939272,incidence matrix,matrix that shows the relationship between two classes of objects,https://www.wikidata.org/wiki/Q939272
+Graph theory,path (graph theory),Q1415372,path,"sequence of edges connecting a sequence of vertices in a graph, with no repeating vertices",https://www.wikidata.org/wiki/Q1415372
+Graph theory,cycle (graph theory),Q245595,cycle,"in graph theory, non-empty trail in which only the first and last vertices are equal",https://www.wikidata.org/wiki/Q245595
+Graph theory,tree (graph theory),Q272735,tree,"undirected, connected and acyclic graph",https://www.wikidata.org/wiki/Q272735
+Graph theory,cayley's formula,Q859176,Cayley's formula,result in graph theory,https://www.wikidata.org/wiki/Q859176
+Graph theory,connectivity (graph theory),Q72897900,graph connectivity,any measure of how connected a graph is,https://www.wikidata.org/wiki/Q72897900
+Graph theory,connected component,Q91050456,connected component,topological space,https://www.wikidata.org/wiki/Q91050456
+Graph theory,spanning tree,Q831672,spanning tree,subgraph of an undirected graph G that is a tree which includes all of the vertices of G,https://www.wikidata.org/wiki/Q831672
+Graph theory,hamiltonian graph,Q18011235,Hamiltonian graph,graph containing a Hamiltonian cycle,https://www.wikidata.org/wiki/Q18011235
+Graph theory,hamiltonian cycle,Q9197353,Hamiltonian cycle,Hamiltonian path that is a cycle,https://www.wikidata.org/wiki/Q9197353
+Graph theory,hamiltonian path,Q273037,Hamiltonian path,path in a graph that visits each vertex exactly once,https://www.wikidata.org/wiki/Q273037
+Graph theory,eulerian graph,Q9275357,Eulerian graph,graph containing an Eulerian cycle,https://www.wikidata.org/wiki/Q9275357
+Graph theory,eulerian cycle,Q11691793,Eulerian cycle,cycle in a finite graph which visits every edge exactly once,https://www.wikidata.org/wiki/Q11691793
+Graph theory,eulerian path,Q624580,Eulerian path,trail in a graph which visits every edge exactly once,https://www.wikidata.org/wiki/Q624580
+Graph theory,matching (graph theory),Q1065144,matching,set of edges without common vertices,https://www.wikidata.org/wiki/Q1065144
+Graph theory,bipartite graph,Q174733,bipartite graph,graph whose vertices can be divided into two disjoint and independent sets,https://www.wikidata.org/wiki/Q174733
+Graph theory,perfect matching,Q99567093,perfect matching,matching that covers every vertex of the graph,https://www.wikidata.org/wiki/Q99567093
+Graph theory,vertex coloring,Q124246880,vertex coloring,coloring of a graph's vertices,https://www.wikidata.org/wiki/Q124246880
+Graph theory,edge coloring,Q1050972,edge coloring,an assignment of colors to the edges of a graph so that no two edges that share an endpoint have the same color as each other,https://www.wikidata.org/wiki/Q1050972
+Graph theory,brooks' theorem,Q512897,Brooks' theorem,"theorem that, with two classes of exceptions, vertex-coloring a graph needs a number of colors at most equal to its maximum degree",https://www.wikidata.org/wiki/Q512897
+Graph theory,vizing's theorem,Q2226822,Vizing's theorem,theorem in graph coloring,https://www.wikidata.org/wiki/Q2226822
+Graph theory,independent set (graph theory),Q1060343,independent set,"set of vertices in a graph, no two of which are adjacent",https://www.wikidata.org/wiki/Q1060343
+Graph theory,clique (graph theory),Q761631,clique,subset of the vertices of a node-link graph that are all adjacent to each other,https://www.wikidata.org/wiki/Q761631
+Graph theory,ramsey's theorem,Q918099,Ramsey's theorem,combinatorics theorem that any edge labeling of a sufficiently large complete graph contains monochromatic cliques,https://www.wikidata.org/wiki/Q918099
+Graph theory,turán's theorem,Q1047749,Turán's theorem,theorem bounding the number of edges in a graph that has no large cliques,https://www.wikidata.org/wiki/Q1047749
+Graph theory,planar graph,Q547823,planar graph,graph that can be embedded in the plane,https://www.wikidata.org/wiki/Q547823
+Graph theory,dual graph,Q2294516,dual graph,graph representing faces of another graph,https://www.wikidata.org/wiki/Q2294516
+Graph theory,euler's formula,Q184871,Euler's formula,mathematical formula in complex analysis that establishes the fundamental relationship between the trigonometric functions and the complex exponential function,https://www.wikidata.org/wiki/Q184871
+Graph theory,kuratowski's theorem,Q837902,Kuratowski's theorem,"a finite graph is planar iff it does not contain a subgraph that is a subdivision of K₅ or K₃,₃",https://www.wikidata.org/wiki/Q837902
+Graph theory,directed graph,Q1137726,directed graph,graph with oriented edges,https://www.wikidata.org/wiki/Q1137726
+Graph theory,network (graph theory),Q141488,graph,mathematical structure made of vertices connected in pairs by edges,https://www.wikidata.org/wiki/Q141488
+Graph theory,flow network,Q1412924,flow network,directed graph where each edge has a capacity and each edge receives a flow,https://www.wikidata.org/wiki/Q1412924
+Graph theory,cut (graph theory),Q1626444,cut,"in graph theory, partition of the vertices in two sets",https://www.wikidata.org/wiki/Q1626444
+Graph theory,maximum flow minimum cut theorem,Q608294,Max-flow min-cut theorem,theorem in optimization theory,https://www.wikidata.org/wiki/Q608294
+Programming Basics 2,object-oriented programming,Q79872,object-oriented programming,programming paradigm based on the concept of objects,https://www.wikidata.org/wiki/Q79872
+Programming Basics 2,class (computer programming),Q9143,programming language,language for communicating instructions to a machine,https://www.wikidata.org/wiki/Q9143
+Programming Basics 2,association (object-oriented programming),Q7072792,OOPSTAD,smalltalk Application Developers Association,https://www.wikidata.org/wiki/Q7072792
+Programming Basics 2,aggregation (object-oriented programming),Q17173292,aggregation,"in programming, a way to regroup object that generalize composition",https://www.wikidata.org/wiki/Q17173292
+Programming Basics 2,composition (computer science),Q13461925,function composition,in computer programming,https://www.wikidata.org/wiki/Q13461925
+Programming Basics 2,inheritance (object-oriented programming),Q212542,inheritance,concept in object-oriented programming,https://www.wikidata.org/wiki/Q212542
+Programming Basics 2,multiple inheritance,Q1070739,multiple inheritance,inheritance with more than one parent class,https://www.wikidata.org/wiki/Q1070739
+Programming Basics 2,attribute (computer programming),Q123472450,attribute of a class,"any entity grouped within a class in object-oriented programming (e.g. field, method, property, nested class)",https://www.wikidata.org/wiki/Q123472450
+Programming Basics 2,method (computer programming),Q122875642,class method,special type of method in some programming languages called on a class rather than an instance (polymorphic on subclasses),https://www.wikidata.org/wiki/Q122875642
+Programming Basics 2,constructor (computer science),Q1049476,constructor,special method used for initializing a newly allocated object in object-oriented programming,https://www.wikidata.org/wiki/Q1049476
+Programming Basics 2,destructor,Q735151,destructor,special method in object-oriented programming which is called deterministically to perform cleanup just before the object is deallocated,https://www.wikidata.org/wiki/Q735151
+Programming Basics 2,reference (computer science),Q1334113,reference data type,value that gives indirect access to e.g. a variable or register,https://www.wikidata.org/wiki/Q1334113
+Programming Basics 2,pointer (computer programming),Q118155,pointer,type which stores memory addresses in a computer program,https://www.wikidata.org/wiki/Q118155
+Programming Basics 2,inline function,Q1189936,inline function,function in C or C++ subject to inline expansion,https://www.wikidata.org/wiki/Q1189936
+Programming Basics 2,static method,Q129510964,static method,non-polymorphic subroutine grouped with a class that does not access instance data,https://www.wikidata.org/wiki/Q129510964
+Programming Basics 2,static variable,Q1896011,static variable,"in computer languages, a variable that has been allocated statically so that its lifetime is the entire run of the program (as opposed to shorter-lived automatic variables and dynamically allocated variables)",https://www.wikidata.org/wiki/Q1896011
+Programming Basics 2,inner class,Q7392881,Southern Railway 2-NOL,class of 2-car inner-suburban EMU,https://www.wikidata.org/wiki/Q7392881
+Programming Basics 2,enumeration,Q12139612,list,set of discrete items of information,https://www.wikidata.org/wiki/Q12139612
+Programming Basics 2,access specifier,Q338966,access-control list,list associated with a computing system resource that specifies which users or groups are permitted to perform specified operations,https://www.wikidata.org/wiki/Q338966
+Programming Basics 2,virtual function,Q1500644,Virtual function,inheritable and overridable function or method for which dynamic dispatch is facilitated,https://www.wikidata.org/wiki/Q1500644
+Programming Basics 2,abstract class,Q122375923,abstract class,a class that cannot be directly instantiated,https://www.wikidata.org/wiki/Q122375923
+Programming Basics 2,interface (computer science),Q23808,computer interface,concept of computer science; point of interaction between two things,https://www.wikidata.org/wiki/Q23808
+Programming Basics 2,function overloading,Q1091461,function overloading,"in computer programming, creation of multiple function implementations with the same name",https://www.wikidata.org/wiki/Q1091461
+Programming Basics 2,operator overloading,Q332629,operator overloading,type of polymorphism in some programming languages where operators have different implementations depending on their arguments,https://www.wikidata.org/wiki/Q332629
+Programming Basics 2,assignment operator,Q2468917,assignment operator,operator used in C++,https://www.wikidata.org/wiki/Q2468917
+Programming Basics 2,copy constructor,Q11163184,copy constructor,constructor that initializes an object by copying the state of another object of the same type,https://www.wikidata.org/wiki/Q11163184
+Programming Basics 2,member access operator,,,,
+Programming Basics 2,type casting,Q7860897,type casting,technique for casting individual letters for use in printing presses,https://www.wikidata.org/wiki/Q7860897
+Programming Basics 2,run-time type information,Q684223,run-time type information,C++ mechanism that exposes information about an object's data type at runtime,https://www.wikidata.org/wiki/Q684223
+Programming Basics 2,exception handling,Q471748,exception handling,process of responding to anomalous or exceptional conditions requiring special processing in computer programming,https://www.wikidata.org/wiki/Q471748
+Programming Basics 2,container (data structure),Q1643805,container,"software class, data structure, or abstract data type (ADT) whose instances are collections of other objects",https://www.wikidata.org/wiki/Q1643805
+Programming Basics 2,iterator,Q1326388,iterator,"in computing, an object whose methods enables a program to orderly traverse elements having some logical conditions in a given container from a given first element",https://www.wikidata.org/wiki/Q1326388
+Programming Basics 2,template (c++),Q1411845,template,feature in the C++ programming language,https://www.wikidata.org/wiki/Q1411845
+Programming Basics 2,standard library,Q1199356,standard library,library made available across implementations of a programming language,https://www.wikidata.org/wiki/Q1199356
+Programming Basics 2,algorithm,Q8366,algorithm,sequence of instructions to perform a task,https://www.wikidata.org/wiki/Q8366
+Programming Basics 2,function object,Q2072111,function object,"programming construct allowing an object to be invoked or called as if it were an ordinary function, usually with the same syntax",https://www.wikidata.org/wiki/Q2072111
+Programming Basics 2,input/output,Q219320,input/output,communication between an information processing system and the outside world,https://www.wikidata.org/wiki/Q219320
+Algorithms and data structures,algorithm,Q8366,algorithm,sequence of instructions to perform a task,https://www.wikidata.org/wiki/Q8366
+Algorithms and data structures,data structure,Q175263,data structure,particular way of storing and organizing data in a computer,https://www.wikidata.org/wiki/Q175263
+Algorithms and data structures,divide and conquer algorithm,Q671298,divide-and-conquer algorithm,algorithm design paradigm based on multi-branched recursion,https://www.wikidata.org/wiki/Q671298
+Algorithms and data structures,dynamic programming,Q380679,dynamic programming,problem optimization method that simplifies a complicated problem by decomposing it into simpler subproblems recursively,https://www.wikidata.org/wiki/Q380679
+Algorithms and data structures,greedy algorithm,Q504353,greedy algorithm,algorithm that makes locally optimal choices in a sequence of steps with the goal of reaching a global optimum,https://www.wikidata.org/wiki/Q504353
+Algorithms and data structures,heuristic,Q201413,heuristic,"problem-solving method that is sufficient for quick, short-term solutions/approximations",https://www.wikidata.org/wiki/Q201413
+Algorithms and data structures,array,Q186152,array data structure,data structure holding elements in a contiguous memory block,https://www.wikidata.org/wiki/Q186152
+Algorithms and data structures,list,Q12139612,list,set of discrete items of information,https://www.wikidata.org/wiki/Q12139612
+Algorithms and data structures,queue,Q220543,queue,abstract data type,https://www.wikidata.org/wiki/Q220543
+Algorithms and data structures,stack (abstract data type),Q177929,stack,abstract data type,https://www.wikidata.org/wiki/Q177929
+Algorithms and data structures,binary search algorithm,Q243754,binary search algorithm,search algorithm in sorted lists that operates by decreasing the search space by half each pass,https://www.wikidata.org/wiki/Q243754
+Algorithms and data structures,computational complexity,Q5157286,computational complexity,measure of the amount of resources needed to run an algorithm or solve a computational problem,https://www.wikidata.org/wiki/Q5157286
+Algorithms and data structures,time complexity,Q2393193,time complexity,estimate of time taken for running an algorithm,https://www.wikidata.org/wiki/Q2393193
+Algorithms and data structures,memory complexity,Q2098905,space complexity,amount of memory space that an algorithm uses as a function of the input's size,https://www.wikidata.org/wiki/Q2098905
+Algorithms and data structures,np-completeness,Q7624684,strong NP-completeness,property of computational problems that is a special case of NP-completeness,https://www.wikidata.org/wiki/Q7624684
+Algorithms and data structures,undecidability,Q3502995,undecidable problem,decision problem for which it is impossible to construct an algorithm that always leads to a correct yes-or-no answer,https://www.wikidata.org/wiki/Q3502995
+Algorithms and data structures,sorting algorithm,Q181593,sorting algorithm,algorithm that puts elements of a list in a certain order,https://www.wikidata.org/wiki/Q181593
+Algorithms and data structures,shellsort,Q848955,shellsort,in-place comparison sorting algorithm invented by D. Shell,https://www.wikidata.org/wiki/Q848955
+Algorithms and data structures,quicksort,Q486598,quicksort,divide and conquer sorting algorithm,https://www.wikidata.org/wiki/Q486598
+Algorithms and data structures,merge sort,Q189057,merge sort,worst-case optimal stable divide and conquer comparison sorting algorithm,https://www.wikidata.org/wiki/Q189057
+Algorithms and data structures,heapsort,Q474095,heapsort,worst-case optimal in-place comparison sorting algorithm based on the heap data structure,https://www.wikidata.org/wiki/Q474095
+Algorithms and data structures,heap (data structure),Q274089,heap,tree-based data structure in computer science,https://www.wikidata.org/wiki/Q274089
+Algorithms and data structures,priority queue,Q629283,priority queue,abstract data type in computer science,https://www.wikidata.org/wiki/Q629283
+Algorithms and data structures,external sorting,Q209687,external sorting,class of sorting algorithms that can handle massive amounts of data,https://www.wikidata.org/wiki/Q209687
+Algorithms and data structures,hash table,Q207440,hash table,associates data values with key values - a lookup table,https://www.wikidata.org/wiki/Q207440
+Algorithms and data structures,tree (data structure),Q223655,tree,abstract data type,https://www.wikidata.org/wiki/Q223655
+Algorithms and data structures,binary tree,Q380172,binary tree,tree data structure in which each node has at most two children,https://www.wikidata.org/wiki/Q380172
+Algorithms and data structures,avl tree,Q300159,AVL tree,one kind of self-balancing binary search tree,https://www.wikidata.org/wiki/Q300159
+Algorithms and data structures,binary search tree,Q623818,binary search tree,"data structure in tree form with 0, 1, or 2 children per node, sorted for fast lookup",https://www.wikidata.org/wiki/Q623818
+Algorithms and data structures,red-black tree,Q506496,red–black tree,self-balancing binary search tree data structure,https://www.wikidata.org/wiki/Q506496
+Algorithms and data structures,splay tree,Q80729,splay tree,self-adjusting binary search tree with the additional property that recently accessed elements are quick to access again,https://www.wikidata.org/wiki/Q80729
+Algorithms and data structures,b-tree,Q677051,B-tree,"a self-balancing, tree-based data structure, that allows read/write access in logarithmic time",https://www.wikidata.org/wiki/Q677051
+Algorithms and data structures,binomial heap,Q864032,binomial heap,priority queue made from heap-ordered trees with power-of-two sizes,https://www.wikidata.org/wiki/Q864032
+Algorithms and data structures,fibonacci heap,Q1410737,Fibonacci heap,heap data structure made of a forest of trees,https://www.wikidata.org/wiki/Q1410737
+Algorithms and data structures,disjoint-set data structure,Q1259393,disjoint-set data structure,data structure that keeps track of a set of elements partitioned into a number of disjoint (nonoverlapping) subsets,https://www.wikidata.org/wiki/Q1259393
+Algorithms and data structures,graph algorithm,Q30503704,graph algorithm,type of algorithm,https://www.wikidata.org/wiki/Q30503704
+Algorithms and data structures,breadth-first search,Q325904,breadth-first search,algorithm for searching the nodes of a graph in order by their hop count from a starting node,https://www.wikidata.org/wiki/Q325904
+Algorithms and data structures,depth-first search,Q816319,depth-first search,algorithm for traversing or searching tree or graph data structures,https://www.wikidata.org/wiki/Q816319
+Algorithms and data structures,minimum spanning tree,Q240464,minimum spanning tree,"data structure, subgraph of a weighted graph",https://www.wikidata.org/wiki/Q240464
+Algorithms and data structures,shortest path problem,Q1058754,shortest path problem,problem of finding a path between two vertices (or nodes) in a graph such that the sum of the weights of its constituent edges is minimized,https://www.wikidata.org/wiki/Q1058754
+Algorithms and data structures,graph coloring,Q504843,graph coloring,assignment of colors to elements of a graph subject to certain constraints,https://www.wikidata.org/wiki/Q504843
+Algorithms and data structures,text algorithm,Q374040,string-searching algorithm,algorithm which searches for patterns within strings,https://www.wikidata.org/wiki/Q374040
+Algorithms and data structures,pattern matching,Q1503724,pattern matching,programming language construct for processing data conditionally on its structure,https://www.wikidata.org/wiki/Q1503724
+Algorithms and data structures,knuth-morris-pratt algorithm,Q45285,Knuth–Morris–Pratt algorithm,string searching algorithm,https://www.wikidata.org/wiki/Q45285
+Algorithms and data structures,boyer-moore algorithm,Q895984,Boyer–Moore string search algorithm,string searching algorithm,https://www.wikidata.org/wiki/Q895984
+Algorithms and data structures,rabin-karp algorithm,Q1384131,Rabin–Karp algorithm,string searching algorithm,https://www.wikidata.org/wiki/Q1384131
+Basics of computer graphics,computer graphics,Q150971,computer graphics,sub-field of computer science,https://www.wikidata.org/wiki/Q150971
+Basics of computer graphics,raster graphics,Q182270,raster graphics,"dot matrix data structure, representing a generally rectangular grid of pixels, or points of color, viewable via a monitor, paper, or other display medium",https://www.wikidata.org/wiki/Q182270
+Basics of computer graphics,vector graphics,Q2078,SVG,open standard for two-dimensional vector graphics,https://www.wikidata.org/wiki/Q2078
+Basics of computer graphics,color model,Q25212643,HSV,color model,https://www.wikidata.org/wiki/Q25212643
+Basics of computer graphics,rgb color model,Q166194,RGB color model,"additive color model based on combining red, green, and blue",https://www.wikidata.org/wiki/Q166194
+Basics of computer graphics,cmyk color model,Q166432,CMYK color model,"subtractive color model, used in color printing",https://www.wikidata.org/wiki/Q166432
+Basics of computer graphics,hsl color model,Q14032191,HSL,color model,https://www.wikidata.org/wiki/Q14032191
+Basics of computer graphics,hsv color model,Q25212643,HSV,color model,https://www.wikidata.org/wiki/Q25212643
+Basics of computer graphics,lossless compression,Q55542,lossless compression,data compression approach allowing perfect reconstruction of the original data,https://www.wikidata.org/wiki/Q55542
+Basics of computer graphics,rle,Q2797,run-length encoding,simple form of data compression in which runs of data (sequences in which the same data value occurs in many consecutive data elements) are stored as a single data value and count,https://www.wikidata.org/wiki/Q2797
+Basics of computer graphics,lzw,Q2681,Lempel–Ziv–Welch,universal lossless data compression algorithm,https://www.wikidata.org/wiki/Q2681
+Basics of computer graphics,jpeg,Q2195,JPEG,"conflation of multiple topics including compression algorithms, various file formats, standards/technical specifications and a non-profit organisation",https://www.wikidata.org/wiki/Q2195
+Basics of computer graphics,color palette,Q131935563,Color Palette,Color palette,https://www.wikidata.org/wiki/Q131935563
+Basics of computer graphics,bitmap,Q192869,Windows Bitmap,Windows Bitmap image file format family,https://www.wikidata.org/wiki/Q192869
+Basics of computer graphics,image interlacing,Q1666173,interlacing,method of incrementally displaying raster graphics,https://www.wikidata.org/wiki/Q1666173
+Basics of computer graphics,digital image processing,Q1070689,digital image processing,processing of digitally-represented images with algorithms,https://www.wikidata.org/wiki/Q1070689
+Basics of computer graphics,arithmetic operation,Q32043,addition,arithmetic operation,https://www.wikidata.org/wiki/Q32043
+Basics of computer graphics,histogram,Q185020,histogram,graphical representation of the bucketed distribution of numerical data,https://www.wikidata.org/wiki/Q185020
+Basics of computer graphics,image filtering,Q55080235,geometric mean filter,image filtering process meant to smooth and reduce noise of an image,https://www.wikidata.org/wiki/Q55080235
+Basics of computer graphics,3d computer graphics,Q189177,3D computer graphics,graphics that use a three-dimensional representation of geometric data,https://www.wikidata.org/wiki/Q189177
+Basics of computer graphics,vector object,Q121717760,Vector object interaction,US patent 11301125,https://www.wikidata.org/wiki/Q121717760
+Basics of computer graphics,scene lighting,Q1823479,lighting designer,person responsible for lighting on a stage,https://www.wikidata.org/wiki/Q1823479
+Basics of computer graphics,texture mapping,Q752176,texture mapping,method of defining surface detail on a computer-generated graphic or 3D model,https://www.wikidata.org/wiki/Q752176
+Basics of computer graphics,bump mapping,Q851953,bump mapping,texturing technique for bumps/wrinkles in computer graphics,https://www.wikidata.org/wiki/Q851953
+Basics of computer graphics,rendering (computer graphics),Q176953,rendering,process of generating an image from a model,https://www.wikidata.org/wiki/Q176953
+Basics of computer graphics,phong shading model,Q884409,Blinn–Phong shading model,shading algorithm in computer graphics,https://www.wikidata.org/wiki/Q884409
+Basics of computer graphics,flat shading,Q1191981,shading,depicting depth through varying levels of darkness,https://www.wikidata.org/wiki/Q1191981
+Basics of computer graphics,gouraud shading,Q141529,Gouraud shading,shading algorithm invented by the computer scientist Henri Gouraud,https://www.wikidata.org/wiki/Q141529
+Basics of computer graphics,ray tracing,Q619942,ray tracing,rendering algorithm that works by sending out many virtual rays of light,https://www.wikidata.org/wiki/Q619942
+Basics of computer graphics,radiosity,Q1068239,radiosity,computer graphics rendering method using diffuse reflection,https://www.wikidata.org/wiki/Q1068239
+Basics of computer graphics,computer animation,Q1401416,computer animation,art of creating moving images using computers,https://www.wikidata.org/wiki/Q1401416
+Basics of computer graphics,opengl,Q178570,OpenGL,cross-platform graphics API,https://www.wikidata.org/wiki/Q178570
+Introduction to Intelligent Systems,intelligent system,Q115135904,intelligent system,"system showing signs of artificial intelligence, or claiming to",https://www.wikidata.org/wiki/Q115135904
+Introduction to Intelligent Systems,automatic inference,,,,
+Introduction to Intelligent Systems,machine learning,Q2539,machine learning,scientific study of algorithms and statistical models that computer systems use to perform tasks without explicit instructions,https://www.wikidata.org/wiki/Q2539
+Introduction to Intelligent Systems,neural network,Q192776,artificial neural network,"computational model used in machine learning, based on connected, hierarchical functions",https://www.wikidata.org/wiki/Q192776
+Introduction to Intelligent Systems,deep learning,Q197536,deep learning,branch of machine learning,https://www.wikidata.org/wiki/Q197536
+Introduction to Intelligent Systems,multi-agent system,Q529909,multi-agent system,built of multiple interacting agents,https://www.wikidata.org/wiki/Q529909
+Introduction to Intelligent Systems,game theory,Q44455,game theory,branch of mathematics focused on strategic decision making,https://www.wikidata.org/wiki/Q44455
+Operational research,operational research,Q7097752,Operational Research Society,international learned society for operational research,https://www.wikidata.org/wiki/Q7097752
+Operational research,linear programming,Q202843,linear programming,programming method to achieve the best outcome in a mathematical model,https://www.wikidata.org/wiki/Q202843
+Operational research,simplex method,Q134164,simplex algorithm,algorithm,https://www.wikidata.org/wiki/Q134164
+Operational research,duality,Q1755512,duality,"translates mathematical concepts into other concepts, in a one-to-one fashion",https://www.wikidata.org/wiki/Q1755512
+Operational research,allocation problem,Q105425064,Proportional item allocation,fair item allocation problem,https://www.wikidata.org/wiki/Q105425064
+Operational research,network programming,Q3403011,computer network programming,writing computer programs with networking capability,https://www.wikidata.org/wiki/Q3403011
+Operational research,ranking,Q526719,ranking,process of ordering items in a set by criteria,https://www.wikidata.org/wiki/Q526719
+Operational research,integer programming,Q6042592,Integer programming,pure or mixed integer programing,https://www.wikidata.org/wiki/Q6042592
+Physics 2,electrostatics,Q26336,electrostatics,study of stationary electric charges,https://www.wikidata.org/wiki/Q26336
+Physics 2,electric field,Q46221,electric field,spatial distribution of vectors representing the force applied to a charged test particle,https://www.wikidata.org/wiki/Q46221
+Physics 2,electric potential,Q55451,electric potential,line integral of the electric field,https://www.wikidata.org/wiki/Q55451
+Physics 2,potential energy,Q155640,potential energy,"energy held by an object because of its position relative to other objects or stresses within itself, rather than its velocity",https://www.wikidata.org/wiki/Q155640
+Physics 2,electric dipole,Q88587002,electric dipole,constellation of two very close opposite electrical charges,https://www.wikidata.org/wiki/Q88587002
+Physics 2,gauss's law,Q173356,Gauss's law,foundational law of electromagnetism,https://www.wikidata.org/wiki/Q173356
+Physics 2,capacitor,Q5322,capacitor,"passive, two-terminal electronic component that stores electrical energy in an electric field",https://www.wikidata.org/wiki/Q5322
+Physics 2,electric field energy,Q105317421,Joule electrothermal number,quotient of Joule heat and electric field energy in a plasma,https://www.wikidata.org/wiki/Q105317421
+Physics 2,dielectric,Q184996,dielectric,"electrically poorly conducting or non-conducting, non-metallic substance in which charge carriers are generally not free to move",https://www.wikidata.org/wiki/Q184996
+Physics 2,piezoelectricity,Q183759,piezoelectricity,electric charge generated in certain solids due to mechanical stress,https://www.wikidata.org/wiki/Q183759
+Physics 2,direct current,Q159241,direct current,unidirectional flow of electric charge,https://www.wikidata.org/wiki/Q159241
+Physics 2,ohm's law,Q41591,Ohm's law,relationship between voltage and current across an ideal resistor,https://www.wikidata.org/wiki/Q41591
+Physics 2,electromotive force,Q185329,electromotive force,"scalar physical quantity homogeneous to a voltage, expressing the modulus of the force exerted on a charge in an electric field",https://www.wikidata.org/wiki/Q185329
+Physics 2,electrical conductivity,Q4593291,electrical conductivity,physical quantity and property of material describing how readily a given material allows the flow of electric current,https://www.wikidata.org/wiki/Q4593291
+Physics 2,kirchhoff's circuit laws,Q187672,Kirchhoff's circuit laws,relations between currents and voltages on sections of any electrical circuit,https://www.wikidata.org/wiki/Q187672
+Physics 2,rc circuit,Q939318,RC circuit,electric circuit composed of resistors and capacitors driven by a voltage or current source,https://www.wikidata.org/wiki/Q939318
+Physics 2,rlc circuit,Q323477,RLC circuit,resistor inductor capacitor circuit,https://www.wikidata.org/wiki/Q323477
+Physics 2,magnetic field,Q10043471,Sun's magnetic field,stellar magnetic field of the Sun,https://www.wikidata.org/wiki/Q10043471
+Physics 2,lorentz force,Q172137,Lorentz force,force exerted on a charge in electromagnetic field,https://www.wikidata.org/wiki/Q172137
+Physics 2,hall effect,Q1047822,quantum Hall effect,a quantum-mechanical version of the Hall effect,https://www.wikidata.org/wiki/Q1047822
+Physics 2,ampere's law,Q2359410,Ampère's force law,physical law,https://www.wikidata.org/wiki/Q2359410
+Physics 2,biot-savart law,Q171340,Biot-Savart law,important law of classical magnetism,https://www.wikidata.org/wiki/Q171340
+Physics 2,faraday's law of induction,Q181465,Faraday's law of induction,basic law of electromagnetism of magnetic fields inducing a potential difference,https://www.wikidata.org/wiki/Q181465
+Physics 2,lenz's law,Q192288,Lenz's law,electromagnetic phenomena where changing magnetic fields induce currents with opposing fields,https://www.wikidata.org/wiki/Q192288
+Physics 2,inductance,Q177897,inductance,property of electrical conductors to oppose changes in current flow,https://www.wikidata.org/wiki/Q177897
+Physics 2,self-induction,,,,
+Physics 2,rl circuit,Q1836061,RL circuit,consisting of a resistance and an inductance,https://www.wikidata.org/wiki/Q1836061
+Physics 2,magnetism,Q3294789,magnetism,class of physical phenomena,https://www.wikidata.org/wiki/Q3294789
+Physics 2,maxwell's equations,Q51501,Maxwell's equations,set of partial differential equations that describe how electric and magnetic fields are generated and altered by each other and by charges and currents,https://www.wikidata.org/wiki/Q51501
+Physics 2,electromagnetic wave,Q11386,electromagnetic wave,synchronized oscillations of electric and magnetic fields,https://www.wikidata.org/wiki/Q11386
+Physics 2,divergence,Q189000,divergence,vector differential operator measuring the source or sink at a given point,https://www.wikidata.org/wiki/Q189000
+Physics 2,curl (mathematics),Q206310,curl,differential operator describing the rotation at a point in a 3D vector field,https://www.wikidata.org/wiki/Q206310
+Physics 2,stokes' theorem,Q467756,Stokes' theorem,theorem in vector calculus,https://www.wikidata.org/wiki/Q467756
+Physics 2,displacement current,Q853178,displacement current,electromagnetism,https://www.wikidata.org/wiki/Q853178
+Physics 2,wave equation,Q193846,wave equation,second-order linear differential equation important in physics,https://www.wikidata.org/wiki/Q193846
+Physics 2,poynting vector,Q504186,Poynting vector,measure of directional energy flux,https://www.wikidata.org/wiki/Q504186
+Physics 2,geometrical optics,Q467980,geometrical optics,model of optics describing light as geometric rays,https://www.wikidata.org/wiki/Q467980
+Physics 2,wave optics,Q942347,physical optics,"branch of optics that studies interference, diffraction, polarization",https://www.wikidata.org/wiki/Q942347
+Physics 2,fermat's principle,Q331041,Fermat's principle,principle of least time,https://www.wikidata.org/wiki/Q331041
+Physics 2,interference (wave propagation),,,,
+Physics 2,diffraction,Q133900,diffraction,various phenomena that occur when a wave encounters an obstacle or a slit,https://www.wikidata.org/wiki/Q133900
+Physics 2,diffraction grating,Q653294,diffraction grating,optical system diffracting light into several components based on interference,https://www.wikidata.org/wiki/Q653294
+Physics 2,x-ray,Q34777,X-ray,electromagnetic radiation of wavelength ranging from 10 pm to 10 nm,https://www.wikidata.org/wiki/Q34777
+Physics 2,x-ray diffraction,Q12101244,X-ray diffraction,physical phenomenon,https://www.wikidata.org/wiki/Q12101244
+Physics 2,bragg's law,Q847354,Bragg's law,gives the angles for coherent and incoherent scattering from a crystal lattice,https://www.wikidata.org/wiki/Q847354
+Physics 2,polarization (waves),Q193760,polarization,property of waves that can oscillate with more than one orientation,https://www.wikidata.org/wiki/Q193760
+Physics 2,birefringence,Q108779,birefringence,optical phenomenon,https://www.wikidata.org/wiki/Q108779
+Physics 2,theory of relativity,Q43514,theory of relativity,two interrelated physics theories by Albert Einstein,https://www.wikidata.org/wiki/Q43514
+Physics 2,lorentz transformation,Q217255,Lorentz transformation,space-time coordinates transformation that conserves the form of electromagnetism laws,https://www.wikidata.org/wiki/Q217255
+Physics 2,length contraction,Q836595,length contraction,the contraction of length in the direction of propagation,https://www.wikidata.org/wiki/Q836595
+Physics 2,time dilation,Q185918,time dilation,measured time difference as explained by relativity theory,https://www.wikidata.org/wiki/Q185918
+Physics 2,relativistic mass,Q719048,mass in special relativity,concept that incorporates the general understandings from the laws of motion of special relativity along with its concept of mass–energy equivalence,https://www.wikidata.org/wiki/Q719048
+Physics 2,relativistic energy,,,,
+Physics 2,thermal radiation,Q192593,thermal radiation,electromagnetic radiation generated by the thermal motion of charged particles in matter,https://www.wikidata.org/wiki/Q192593
+Physics 2,photoelectric effect,Q83213,photoelectric effect,emission of electrons when light hits a material,https://www.wikidata.org/wiki/Q83213
+Physics 2,compton scattering,Q25424022,Compton scattering,scattering of a photon off of a charged particle,https://www.wikidata.org/wiki/Q25424022
+Physics 2,bohr model,Q172948,Bohr model,atomic model introduced by Niels Bohr in 1913,https://www.wikidata.org/wiki/Q172948
+Physics 2,matter wave,Q193907,matter wave,aspect of wave–particle duality,https://www.wikidata.org/wiki/Q193907
+Physics 2,schrodinger equation,Q165498,Schrödinger equation,partial differential equation describing how the quantum state of a non-relativistic physical system changes with time,https://www.wikidata.org/wiki/Q165498
+Physics 2,de broglie hypothesis,Q118358976,de Broglie hypothesis,1924 thesis on the wave behaviour of matter,https://www.wikidata.org/wiki/Q118358976
+Physics 2,heisenberg uncertainty principle,Q44746,uncertainty principle,Fundamental principle in quantum physics,https://www.wikidata.org/wiki/Q44746
+Physics 2,wave function,Q2362761,wave function,"mathematical description of the quantum state of a system; complex-valued probability amplitude, and the probabilities for the possible results of measurements made on the system can be derived from it",https://www.wikidata.org/wiki/Q2362761
+Physics 2,atomic physics,Q26383,atomic physics,field of physics studying atoms,https://www.wikidata.org/wiki/Q26383
+Physics 2,atomic spectrum,,,,
+Physics 2,laser,Q38867,laser,device which emits light via optical amplification,https://www.wikidata.org/wiki/Q38867
+Physics 2,population inversion,Q126904,population inversion,"state of a physical system in which more members are in higher, excited energy states than in lower, unexcited states",https://www.wikidata.org/wiki/Q126904
+Physics 2,solid-state physics,Q715396,solid-state physics,branch of physics of matter in the solid state,https://www.wikidata.org/wiki/Q715396
+Physics 2,chemical bond,Q44424,chemical bond,lasting attraction between atoms that enables the formation of chemical compounds,https://www.wikidata.org/wiki/Q44424
+Physics 2,crystal lattice,Q105451063,fundamental lattice vector,fundamental translation vector for a crystal lattice,https://www.wikidata.org/wiki/Q105451063
+Physics 2,effective mass,Q1064434,effective mass,"the mass that it seems to have when responding to forces, or the mass that it seems to have when interacting with other identical particles in a thermal distribution",https://www.wikidata.org/wiki/Q1064434
+Physics 2,semiconductor,Q11456,semiconductor,material that has electrical conductivity intermediate to that of a conductor and an insulator,https://www.wikidata.org/wiki/Q11456
+Physics 2,superconductivity,Q124131,superconductivity,electrical conductivity with exactly zero resistance,https://www.wikidata.org/wiki/Q124131
+Elements of modern physics,quantum mechanics,Q944,quantum mechanics,fundamental theory in physics describing the properties of nature on an atomic scale,https://www.wikidata.org/wiki/Q944
+Elements of modern physics,wave-particle duality,Q193068,wave–particle duality,conclusion that quantum objects behave at times like particles and at times like waves,https://www.wikidata.org/wiki/Q193068
+Elements of modern physics,de broglie wave,Q193907,matter wave,aspect of wave–particle duality,https://www.wikidata.org/wiki/Q193907
+Elements of modern physics,bohr model,Q172948,Bohr model,atomic model introduced by Niels Bohr in 1913,https://www.wikidata.org/wiki/Q172948
+Elements of modern physics,schrödinger equation,Q165498,Schrödinger equation,partial differential equation describing how the quantum state of a non-relativistic physical system changes with time,https://www.wikidata.org/wiki/Q165498
+Elements of modern physics,wave function,Q2362761,wave function,"mathematical description of the quantum state of a system; complex-valued probability amplitude, and the probabilities for the possible results of measurements made on the system can be derived from it",https://www.wikidata.org/wiki/Q2362761
+Elements of modern physics,heisenberg uncertainty principle,Q44746,uncertainty principle,Fundamental principle in quantum physics,https://www.wikidata.org/wiki/Q44746
+Elements of modern physics,atomic physics,Q26383,atomic physics,field of physics studying atoms,https://www.wikidata.org/wiki/Q26383
+Elements of modern physics,hydrogen atom,Q6643508,hydrogen atom,atom of element hydrogen,https://www.wikidata.org/wiki/Q6643508
+Elements of modern physics,zeeman effect,Q201805,Zeeman effect,effect of splitting a spectral line into several components in the presence of a static magnetic field,https://www.wikidata.org/wiki/Q201805
+Elements of modern physics,electron spin,Q13534105,electron magnetic dipole moment,spin of an electron,https://www.wikidata.org/wiki/Q13534105
+Elements of modern physics,pauli exclusion principle,Q131594,Pauli exclusion principle,quantum mechanical principle that two identical fermions cannot occupy the same quantum state simultaneously,https://www.wikidata.org/wiki/Q131594
+Elements of modern physics,laser,Q38867,laser,device which emits light via optical amplification,https://www.wikidata.org/wiki/Q38867
+Elements of modern physics,condensed matter physics,Q214781,condensed matter physics,branch of physics dealing with a property of matter,https://www.wikidata.org/wiki/Q214781
+Elements of modern physics,chemical bond,Q44424,chemical bond,lasting attraction between atoms that enables the formation of chemical compounds,https://www.wikidata.org/wiki/Q44424
+Elements of modern physics,crystal structure,Q895901,crystal structure,unique arrangement of atoms or molecules in a crystalline liquid or solid,https://www.wikidata.org/wiki/Q895901
+Elements of modern physics,semiconductor,Q11456,semiconductor,material that has electrical conductivity intermediate to that of a conductor and an insulator,https://www.wikidata.org/wiki/Q11456
+Elements of modern physics,insulator,Q178150,insulator,"material whose internal electric charges do not flow freely, and which therefore does not conduct an electric current",https://www.wikidata.org/wiki/Q178150
+Elements of modern physics,superconductor,Q16331841,superconductor,material capable of superconduction,https://www.wikidata.org/wiki/Q16331841
+Elements of modern physics,nuclear physics,Q81197,nuclear physics,field of physics that deals with the structure and behavior of atomic nuclei,https://www.wikidata.org/wiki/Q81197
+Elements of modern physics,radioactive decay,Q3332922,radioactive decay,emission of subatomic particles by the decay of an atomic nucleus,https://www.wikidata.org/wiki/Q3332922
+Elements of modern physics,nuclear fission,Q11429,nuclear fission,nuclear reaction splitting an atom into multiple parts,https://www.wikidata.org/wiki/Q11429
+Elements of modern physics,nuclear fusion,Q13082,nuclear fusion,nuclear reaction in which atomic nuclei combine,https://www.wikidata.org/wiki/Q13082
+Elements of modern physics,cosmology,Q338,cosmology,"scientific study of the origin, evolution, and eventual fate of the universe",https://www.wikidata.org/wiki/Q338
+Advanced programming 1,java,Q251,Java,object-oriented programming language,https://www.wikidata.org/wiki/Q251
+Advanced programming 1,data type,Q190087,data type,classification of data in computer science,https://www.wikidata.org/wiki/Q190087
+Advanced programming 1,unicode,Q8819,Unicode,"computing industry standard for the consistent encoding, representation and handling of text expressed in most of the world's writing systems",https://www.wikidata.org/wiki/Q8819
+Advanced programming 1,control statement,,,,
+Advanced programming 1,expression (computer science),Q778379,expression,"combination of functions, variables, etc. in a computer program that returns a value",https://www.wikidata.org/wiki/Q778379
+Advanced programming 1,class (computer science),,,,
+Advanced programming 1,package (java),Q2529678,Java package,"organizes Java classes into namespaces, providing a unique namespace for each type it contains",https://www.wikidata.org/wiki/Q2529678
+Advanced programming 1,method (computer science),Q339466,accounting method,method of amortized analysis,https://www.wikidata.org/wiki/Q339466
+Advanced programming 1,access modifier,Q4672464,access modifier,Keywords in object-oriented programming languages,https://www.wikidata.org/wiki/Q4672464
+Advanced programming 1,static field,Q107644177,static magnetic field,magnetic field that does not change in the time frame considered,https://www.wikidata.org/wiki/Q107644177
+Advanced programming 1,array,Q186152,array data structure,data structure holding elements in a contiguous memory block,https://www.wikidata.org/wiki/Q186152
+Advanced programming 1,container (data structure),Q1643805,container,"software class, data structure, or abstract data type (ADT) whose instances are collections of other objects",https://www.wikidata.org/wiki/Q1643805
+Advanced programming 1,constructor,Q1049476,constructor,special method used for initializing a newly allocated object in object-oriented programming,https://www.wikidata.org/wiki/Q1049476
+Advanced programming 1,cloning,Q120877,cloning,process of producing individual organisms with identical genomes,https://www.wikidata.org/wiki/Q120877
+Advanced programming 1,interface (computing),Q42308944,Common Translation Interface,computing interface,https://www.wikidata.org/wiki/Q42308944
+Advanced programming 1,constant (computer science),Q2067413,thrashing,"phenomenon that when a computer's virtual memory subsystem is in a constant state of paging, rapidly exchanging data in memory for data on disk, to the exclusion of most application-level processing",https://www.wikidata.org/wiki/Q2067413
+Advanced programming 1,inner class,Q7392881,Southern Railway 2-NOL,class of 2-car inner-suburban EMU,https://www.wikidata.org/wiki/Q7392881
+Advanced programming 1,nested class,Q123472450,attribute of a class,"any entity grouped within a class in object-oriented programming (e.g. field, method, property, nested class)",https://www.wikidata.org/wiki/Q123472450
+Advanced programming 1,exception handling,Q471748,exception handling,process of responding to anomalous or exceptional conditions requiring special processing in computer programming,https://www.wikidata.org/wiki/Q471748
+Advanced programming 1,exception,Q65122726,Exception,2019 video game,https://www.wikidata.org/wiki/Q65122726
+Advanced programming 1,generic type,Q1051282,generic programming,way of designing and writing programs where algorithms are written in terms of parametric types enabling easy reuse,https://www.wikidata.org/wiki/Q1051282
+Advanced programming 1,reflection (computer science),,,,
+Advanced programming 1,concurrent programming,Q128392,concurrent computing,form of computing in which several computations logically execute during overlapping time periods,https://www.wikidata.org/wiki/Q128392
+Advanced programming 1,thread (computing),Q213092,thread,smallest sequence of programmed instructions that can be managed independently by a scheduler,https://www.wikidata.org/wiki/Q213092
+Advanced programming 1,daemon thread,Q213092,thread,smallest sequence of programmed instructions that can be managed independently by a scheduler,https://www.wikidata.org/wiki/Q213092
+Advanced programming 1,mutual exclusion,Q1047554,mutual exclusion,"property of concurrency control, which is instituted for the purpose of preventing race conditions",https://www.wikidata.org/wiki/Q1047554
+Advanced programming 1,monitor (synchronization),Q1062162,monitor,"in concurrent programming, an object or module intended to be used safely by more than one thread",https://www.wikidata.org/wiki/Q1062162
+Advanced programming 1,thread synchronization,Q123581323,Cloud thread synchronization,US patent 11169842,https://www.wikidata.org/wiki/Q123581323
+Advanced programming 1,graphical user interface,Q782543,graphical user interface,user interface allowing interaction through graphical icons and visual indicators,https://www.wikidata.org/wiki/Q782543
+Advanced programming 1,composition (computer science),Q13461925,function composition,in computer programming,https://www.wikidata.org/wiki/Q13461925
+Advanced programming 1,inheritance (object-oriented programming),Q212542,inheritance,concept in object-oriented programming,https://www.wikidata.org/wiki/Q212542
+Advanced programming 1,input/output,Q219320,input/output,communication between an information processing system and the outside world,https://www.wikidata.org/wiki/Q219320
+Advanced programming 1,concurrency,Q5159092,concurrency,instance of one physical road bearing two or more different highways,https://www.wikidata.org/wiki/Q5159092
+Advanced programming 1,producer-consumer problem,Q1366130,producer-consumer problem,family of computing problems,https://www.wikidata.org/wiki/Q1366130
+Advanced programming 1,reader-writer problem,Q1146845,Readers-writers problem,Computer science problem in concurrency,https://www.wikidata.org/wiki/Q1146845
+Numerical methods,numerical computation,Q74086777,numerical software,software for numerical computation,https://www.wikidata.org/wiki/Q74086777
+Numerical methods,floating-point representation,Q7051819,normal floating-point number,floating-point representation of a nonzero number without leading zeroes in the significand,https://www.wikidata.org/wiki/Q7051819
+Numerical methods,interval arithmetic,Q1671453,interval arithmetic,method for bounding the errors of numerical computations,https://www.wikidata.org/wiki/Q1671453
+Numerical methods,numerical stability,Q1430640,numerical stability,property of a numerical algorithm which describes how errors and approximations in the input data or intermediate values propagate through the algorithm without diverging its results,https://www.wikidata.org/wiki/Q1430640
+Numerical methods,differential analysis,,,,
+Numerical methods,nonlinear equation,Q4723989,algebraic Riccati equation,type of nonlinear equation that arises in infinite-horizon optimal control problems,https://www.wikidata.org/wiki/Q4723989
+Numerical methods,iterative method,Q2321565,iterative numerical method,numerical method in which the n-th approximation of the solution is obtained on the basis on the (n-1) previous approximations,https://www.wikidata.org/wiki/Q2321565
+Numerical methods,convergence (mathematics),Q1287023,convergence,mathematical concept,https://www.wikidata.org/wiki/Q1287023
+Numerical methods,bisection method,Q866300,bisection method,"The method of finding a root in mathematics, based on repeated division of a segment in half and the subsequent selection of a subinterval in which the root is thought to be located.",https://www.wikidata.org/wiki/Q866300
+Numerical methods,newton's method,Q374195,Newton's method,algorithm for finding a zero of a function,https://www.wikidata.org/wiki/Q374195
+Numerical methods,secant method,Q14915286,secant method,root-finding method,https://www.wikidata.org/wiki/Q14915286
+Numerical methods,steffensen's method,Q7606635,Steffensen's method,Newton-like root-finding algorithm that does not use derivatives,https://www.wikidata.org/wiki/Q7606635
+Numerical methods,brent's method,Q905988,Brent's method,root-finding algorithm,https://www.wikidata.org/wiki/Q905988
+Numerical methods,homotopy,Q746083,homotopy,continuous deformation between two continuous maps,https://www.wikidata.org/wiki/Q746083
+Numerical methods,system of linear equations,Q11203,system of linear equations,collection of linear equations involving the same set of variables,https://www.wikidata.org/wiki/Q11203
+Numerical methods,gaussian elimination,Q2658,Gaussian elimination,algorithm for solving systems of linear equations,https://www.wikidata.org/wiki/Q2658
+Numerical methods,lu decomposition,Q833089,LU decomposition,matrix decomposition,https://www.wikidata.org/wiki/Q833089
+Numerical methods,jacobi method,Q1481893,Jacobi method,iterative method used to solve a linear system of equations,https://www.wikidata.org/wiki/Q1481893
+Numerical methods,gauss-seidel method,Q1069090,Gauss–Seidel method,iterative method used to solve a linear system of equations,https://www.wikidata.org/wiki/Q1069090
+Numerical methods,relaxation method,,,,
+Numerical methods,eigenvalue problem,Q7268359,quadratic eigenvalue problem,mathematical problem,https://www.wikidata.org/wiki/Q7268359
+Numerical methods,power iteration,Q1426504,power iteration,eigenvalue algorithm,https://www.wikidata.org/wiki/Q1426504
+Numerical methods,qr decomposition,Q653242,QR decomposition,matrix decomposition,https://www.wikidata.org/wiki/Q653242
+Numerical methods,singular value decomposition,Q420904,singular value decomposition,matrix decomposition,https://www.wikidata.org/wiki/Q420904
+Numerical methods,interpolation,Q187631,mathematical interpolation,method for constructing new data points between known data points,https://www.wikidata.org/wiki/Q187631
+Numerical methods,polynomial interpolation,Q637347,polynomial interpolation,interpolation of a given data set by the polynomial of lowest possible degree that passes through the points of the dataset,https://www.wikidata.org/wiki/Q637347
+Numerical methods,lagrange polynomial,Q861606,Lagrange polynomial,polynomials used for interpolation,https://www.wikidata.org/wiki/Q861606
+Numerical methods,newton polynomial,Q2746387,Newton polynomial,mathematical expression,https://www.wikidata.org/wiki/Q2746387
+Numerical methods,runge's phenomenon,Q1990319,Runge's phenomenon,problem of oscillation at the edges of an interval when using polynomial interpolation,https://www.wikidata.org/wiki/Q1990319
+Numerical methods,hermite interpolation,Q44451,Hermite interpolation,method for polynomial interpolation over a set of points and corresponding derivatives,https://www.wikidata.org/wiki/Q44451
+Numerical methods,chebyshev nodes,Q1052508,Chebyshev node,"real algebraic numbers, roots of the Chebyshev polynomials of the first kind",https://www.wikidata.org/wiki/Q1052508
+Numerical methods,spline interpolation,Q545002,spline interpolation,mathematical method,https://www.wikidata.org/wiki/Q545002
+Numerical methods,shape-preserving interpolation,,,,
+Numerical methods,numerical differentiation,Q1683292,numerical differentiation,algorithms for estimating the derivative of mathematical functions,https://www.wikidata.org/wiki/Q1683292
+Numerical methods,numerical integration,Q753445,numerical integration,family of algorithms for finding the definite integral of a function,https://www.wikidata.org/wiki/Q753445
+Numerical methods,quadrature,Q28137,quadrature,aspect of a heavenly body in which it makes a right angle with the direction of the Sun,https://www.wikidata.org/wiki/Q28137
+Numerical methods,newton-cotes formulas,Q944241,Newton–Cotes formula,formulas for numerical integration,https://www.wikidata.org/wiki/Q944241
+Numerical methods,romberg's method,Q1078449,Romberg's method,numerical integration method,https://www.wikidata.org/wiki/Q1078449
+Numerical methods,gaussian quadrature,Q767680,Gaussian quadrature,numerical integration,https://www.wikidata.org/wiki/Q767680
+Numerical methods,initial value problem,Q10167591,initial value problem,"ordinary differential equation together with a specified value, called the initial condition, of the unknown function at a given point in the domain of the solution",https://www.wikidata.org/wiki/Q10167591
+Numerical methods,differential equation,Q11214,differential equation,mathematical equation involving derivatives of an unknown function,https://www.wikidata.org/wiki/Q11214
+Numerical methods,local error,Q97796690,local error,the error accumulated in one step of an iterative method,https://www.wikidata.org/wiki/Q97796690
+Numerical methods,global error,Q98343167,global error,the cumulative error in a iterative numerical method,https://www.wikidata.org/wiki/Q98343167
+Numerical methods,multistep method,Q1462003,linear multistep method,"effective tools for solving ordinary equations, whose working principle is as follows: first we choose a starting point, and then take a small step forward to find the next solution point.",https://www.wikidata.org/wiki/Q1462003
+Numerical methods,runge-kutta method,Q725944,Runge–Kutta method,family of implicit and explicit iterative methods,https://www.wikidata.org/wiki/Q725944
+Numerical methods,stability region,,,,
+Numerical methods,static optimization,,,,
+Numerical methods,gradient-free optimization,,,,
+Numerical methods,nelder-mead method,Q1253278,Nelder–Mead method,Numerical optimization algorithm,https://www.wikidata.org/wiki/Q1253278
+Numerical methods,gradient method,Q113840014,policy-gradient method,class of reinforcement learning algorithms,https://www.wikidata.org/wiki/Q113840014
+Numerical methods,steepest descent,Q1199743,gradient descent,optimization algorithm,https://www.wikidata.org/wiki/Q1199743
+Numerical methods,conjugate gradient method,Q17086453,Nonlinear conjugate gradient method,generalization of the conjugate gradient method to nonlinear optimization,https://www.wikidata.org/wiki/Q17086453
+Numerical methods,trust region,Q1535924,Trust region,term used in mathematical optimization,https://www.wikidata.org/wiki/Q1535924
+Numerical methods,approximation theory,Q774123,approximation theory,theory of getting acceptably close inexact mathematical calculations,https://www.wikidata.org/wiki/Q774123
+Numerical methods,least squares approximation,,,,
+Numerical methods,regression analysis,Q208042,regression analysis,set of statistical processes for estimating the relationships among variables,https://www.wikidata.org/wiki/Q208042
+Numerical methods,spline approximation,Q545002,spline interpolation,mathematical method,https://www.wikidata.org/wiki/Q545002
+Numerical methods,multivariable approximation,,,,
+Numerical methods,fixed-point iteration,Q1030759,fixed-point iteration,root-finding algorithm,https://www.wikidata.org/wiki/Q1030759
+Numerical methods,jacobi matrix,Q506041,Jacobian matrix,the matrix of all first-order partial derivatives of a vector-valued function,https://www.wikidata.org/wiki/Q506041
+Numerical methods,boundary value problem,Q1332643,boundary value problem,differential equation together with a set of additional constraints (boundary conditions),https://www.wikidata.org/wiki/Q1332643
+Fundamentals of artificial intelligence,artificial intelligence,Q11660,artificial intelligence,field of computer science that develops and studies intelligent machines; also referring to such software,https://www.wikidata.org/wiki/Q11660
+Fundamentals of artificial intelligence,intelligent system,Q115135904,intelligent system,"system showing signs of artificial intelligence, or claiming to",https://www.wikidata.org/wiki/Q115135904
+Fundamentals of artificial intelligence,knowledge base,Q593744,knowledge base,information repository with multiple applications,https://www.wikidata.org/wiki/Q593744
+Fundamentals of artificial intelligence,intelligent agent,Q1142726,intelligent agent,"agent that perceives its environment, takes actions autonomously in order to achieve goals, and may improve its performance with learning or acquiring knowledge",https://www.wikidata.org/wiki/Q1142726
+Fundamentals of artificial intelligence,symbolic knowledge,,,,
+Fundamentals of artificial intelligence,logic in artificial intelligence,,,,
+Fundamentals of artificial intelligence,state space search,Q2033871,state-space search,class of search algorithms,https://www.wikidata.org/wiki/Q2033871
+Fundamentals of artificial intelligence,heuristic search,Q88775728,informed search algorithm,type of search algorithm in which preliminary information is available (generally heuristic),https://www.wikidata.org/wiki/Q88775728
+Fundamentals of artificial intelligence,prolog,Q163468,Prolog,programming language that uses first order logic,https://www.wikidata.org/wiki/Q163468
+Fundamentals of artificial intelligence,logic programming,Q275603,logic programming,programming paradigm based on formal logic,https://www.wikidata.org/wiki/Q275603
+Fundamentals of artificial intelligence,constraint programming,Q528588,constraint programming,programming paradigm wherein relations between variables are stated in the form of constraints,https://www.wikidata.org/wiki/Q528588
+Fundamentals of artificial intelligence,rule-based system,Q1417149,rule-based system,curated rule set to store and manipulate knowledge and interpret information,https://www.wikidata.org/wiki/Q1417149
+Fundamentals of artificial intelligence,expert system,Q184609,expert system,computer system that emulates the decision-making ability of a human expert,https://www.wikidata.org/wiki/Q184609
+Fundamentals of artificial intelligence,business rule,Q1518244,business rule,"a rule that defines or constrains aspects of business, asserting business structure or to control or influencing the behavior of the business, applying to people, processes, corporate behavior, computing systems",https://www.wikidata.org/wiki/Q1518244
+Fundamentals of artificial intelligence,decision support system,Q330268,decision support system,system that supports business or organizational decision-making processes,https://www.wikidata.org/wiki/Q330268
+Fundamentals of artificial intelligence,probabilistic method,Q3333679,probabilistic method,nonconstructive method for mathematical proofs,https://www.wikidata.org/wiki/Q3333679
+Fundamentals of artificial intelligence,bayesian network,Q812540,Bayesian network,probabilistic graphical model that represents a set of variables and their conditional dependencies via a directed acyclic graph,https://www.wikidata.org/wiki/Q812540
+Fundamentals of artificial intelligence,planning,Q309100,planning,process of determining the activities required to achieve a desired goal,https://www.wikidata.org/wiki/Q309100
+Fundamentals of artificial intelligence,machine learning,Q2539,machine learning,scientific study of algorithms and statistical models that computer systems use to perform tasks without explicit instructions,https://www.wikidata.org/wiki/Q2539
+Fundamentals of artificial intelligence,computational intelligence,Q1122090,computational intelligence,ability of a computer to learn a specific task from data or experimental observation,https://www.wikidata.org/wiki/Q1122090
+Fundamentals of artificial intelligence,neural network,Q192776,artificial neural network,"computational model used in machine learning, based on connected, hierarchical functions",https://www.wikidata.org/wiki/Q192776
+Fundamentals of artificial intelligence,genetic algorithm,Q187787,genetic algorithm,competitive algorithm for searching a problem space,https://www.wikidata.org/wiki/Q187787
+Fundamentals of artificial intelligence,semantic network,Q1045785,semantic network,"directed graph structure with labeled edges serving to encode and represent knowledge, whether knowledge of definitions or assertions",https://www.wikidata.org/wiki/Q1045785
+Fundamentals of artificial intelligence,ontology,Q324254,ontology,specification of a conceptualization in computer science and information science,https://www.wikidata.org/wiki/Q324254
+Databases,relational database,Q192588,relational database,digital database whose organization is based on the relational model of data,https://www.wikidata.org/wiki/Q192588
+Databases,database management system,Q176165,database management system,"software for running databases; computer-software application that interacts with end-users, other applications, and the database itself to capture and analyze data; allows the definition, creation, querying, update, and administration of databases",https://www.wikidata.org/wiki/Q176165
+Databases,client-server architecture,Q146813,client-server model,distributed application structure in computing,https://www.wikidata.org/wiki/Q146813
+Databases,postgresql,Q192490,PostgreSQL,free and open-source relational database management system,https://www.wikidata.org/wiki/Q192490
+Databases,query language,Q54871,SPARQL,RDF query language,https://www.wikidata.org/wiki/Q54871
+Databases,attribute (computer science),Q162886,Euclidean geometry,mathematical system attributed to Euclid,https://www.wikidata.org/wiki/Q162886
+Databases,data type,Q190087,data type,classification of data in computer science,https://www.wikidata.org/wiki/Q190087
+Databases,projection (relational algebra),Q3134666,projection,concept in relational algebra,https://www.wikidata.org/wiki/Q3134666
+Databases,selection (relational algebra),Q7447725,selection,"in relational algebra,  unary operation that denotes a subset of a relation",https://www.wikidata.org/wiki/Q7447725
+Databases,join (sql),Q2003535,JOIN,SQL clause,https://www.wikidata.org/wiki/Q2003535
+Databases,aggregate function,Q4115063,aggregate function,a function summarizing multiple values into one summary statistic,https://www.wikidata.org/wiki/Q4115063
+Databases,subquery,Q5172838,correlated subquery,"in SQL, subquery that uses values from the outer query, at the risk of being slow",https://www.wikidata.org/wiki/Q5172838
+Databases,data manipulation language,Q58673,data manipulation language,"family of syntax elements used for selecting, inserting, deleting and updating data in a database",https://www.wikidata.org/wiki/Q58673
+Databases,entity-relationship model,Q624546,entity-relationship model,describes inter-related things of interest in a specific domain of knowledge;composed of entity types (which classify the things of interest) and specifies relationships that can exist between instances of those entity types,https://www.wikidata.org/wiki/Q624546
+Databases,data model,Q1172480,data model,an abstract model that organizes elements of data and standardizes how they relate to one another and to real world entities.,https://www.wikidata.org/wiki/Q1172480
+Databases,functional dependency,Q597053,functional dependency,"in relational database theory, a constraint between two sets of attributes in a relation from a database",https://www.wikidata.org/wiki/Q597053
+Databases,key (relational database),Q2113197,candidate key,set of columns in a relational database,https://www.wikidata.org/wiki/Q2113197
+Databases,normal form,Q277396,second normal form,database normalization requirement after first normal form,https://www.wikidata.org/wiki/Q277396
+Databases,normalization (database),Q339072,database normalisation,reduction of data redundancy,https://www.wikidata.org/wiki/Q339072
+Databases,data structure,Q175263,data structure,particular way of storing and organizing data in a computer,https://www.wikidata.org/wiki/Q175263
+Databases,sequence (data structure),Q133821883,Python tuple,A data structure that's used to store an ordered sequence of elements.,https://www.wikidata.org/wiki/Q133821883
+Databases,view (sql),Q1329910,view,result set of a stored query on a database,https://www.wikidata.org/wiki/Q1329910
+Databases,trigger (database),Q835769,database trigger,event which is causing an action in a database,https://www.wikidata.org/wiki/Q835769
+Databases,transaction (database),Q111311450,S/MARt DB,database collects information about scaffold/matrix attached regions and the nuclear matrix proteins that are supposed be involved in the interaction of these elements with the nuclear matrix.,https://www.wikidata.org/wiki/Q111311450
+Databases,user management,,,,
+Databases,permission (computer science),,,,
+Formal linguistics and automata,formal language,Q192161,formal language,set of strings of symbols that may be constrained by rules that are specific to it; words whose letters are taken from an alphabet and are well-formed according to a specific set of rules,https://www.wikidata.org/wiki/Q192161
+Formal linguistics and automata,generative grammar,Q36108,generative grammar,theory in linguistics,https://www.wikidata.org/wiki/Q36108
+Formal linguistics and automata,grammatical parsing,Q126084811,BLLIP Parser,BLLIP Parser (or Charniak-Johnson parser) is a statistical natural language parser for analyzing text to determine its grammatical structure,https://www.wikidata.org/wiki/Q126084811
+Formal linguistics and automata,deterministic automaton,Q5265707,deterministic automaton,concept of automata theory in which the outcome of a transition from one state to another is determined by the input,https://www.wikidata.org/wiki/Q5265707
+Formal linguistics and automata,nondeterministic automaton,Q617295,nondeterministic finite automaton,finite-state machine,https://www.wikidata.org/wiki/Q617295
+Formal linguistics and automata,regular language,Q752532,regular language,formal language that can be expressed using a regular expression,https://www.wikidata.org/wiki/Q752532
+Formal linguistics and automata,rabin-scott automaton,,,,
+Formal linguistics and automata,moore automaton,Q6544583,Life-like cellular automaton,cellular automaton based on Moore neighborhoods on a square grid with outer totalistic update rule,https://www.wikidata.org/wiki/Q6544583
+Formal linguistics and automata,mealy automaton,,,,
+Formal linguistics and automata,pumping lemma,,,,
+Formal linguistics and automata,myhill-nerode theorem,Q422187,Myhill–Nerode theorem,theorem,https://www.wikidata.org/wiki/Q422187
+Formal linguistics and automata,regular expression,Q185612,regular expression,sequence of characters that forms a search pattern,https://www.wikidata.org/wiki/Q185612
+Formal linguistics and automata,pushdown automaton,Q751443,pushdown automaton,type of automaton,https://www.wikidata.org/wiki/Q751443
+Formal linguistics and automata,context-free language,Q729271,context-free language,formal language that is a member of the set of languages defined by context-free grammars,https://www.wikidata.org/wiki/Q729271
+Formal linguistics and automata,context-free grammar,Q338047,context-free grammar,type of formal grammar,https://www.wikidata.org/wiki/Q338047
+Formal linguistics and automata,linear-bounded automaton,Q1149323,linear bounded automaton,"Turing machine, in which computation is restricted to the portion of the tape containing the input",https://www.wikidata.org/wiki/Q1149323
+Formal linguistics and automata,turing machine,Q163310,Turing machine,abstract computation model; mathematical model of computation that defines an abstract machine which manipulates symbols on a strip of tape according to a table of rules,https://www.wikidata.org/wiki/Q163310
+Formal linguistics and automata,context-sensitive language,Q1430282,context-sensitive language,formal language that can be defined by a context-sensitive grammar (and equivalently by a noncontracting grammar). Context-sensitive is one of the four types of grammars in the Chomsky hierarchy,https://www.wikidata.org/wiki/Q1430282
+Formal linguistics and automata,cocke-younger-kasami algorithm,Q954821,CYK algorithm,parsing algorithm for context-free grammars,https://www.wikidata.org/wiki/Q954821
+Formal linguistics and automata,earley algorithm,Q1277497,Earley parser,an algorithm for parsing strings that belong to a given context-free language,https://www.wikidata.org/wiki/Q1277497
+Formal linguistics and automata,computational complexity,Q5157286,computational complexity,measure of the amount of resources needed to run an algorithm or solve a computational problem,https://www.wikidata.org/wiki/Q5157286
+Formal linguistics and automata,recursive language,Q1455907,recursive language,recursive subset of the set of all possible finite sequences over the alphabet of the language,https://www.wikidata.org/wiki/Q1455907
+Formal linguistics and automata,recursively enumerable language,Q1073063,recursively enumerable language,"a formal language that can be output (enumerated) by an algorithm (mathematical logic, computability theory)",https://www.wikidata.org/wiki/Q1073063
+Formal linguistics and automata,undecidable problem,Q3502995,undecidable problem,decision problem for which it is impossible to construct an algorithm that always leads to a correct yes-or-no answer,https://www.wikidata.org/wiki/Q3502995
+Formal linguistics and automata,finite automaton,Q1306211,unambiguous finite automaton,"special kind of a nondeterministic finite automaton (NFA). Each deterministic finite automaton (DFA) is an UFA, but not vice versa. DFA, UFA, and NFA recognize exactly the same class of formal languages",https://www.wikidata.org/wiki/Q1306211
+Software Engineering,software engineering,Q80993,software engineering,application on systematic approaches to developing software,https://www.wikidata.org/wiki/Q80993
+Software Engineering,forward engineering,,,,
+Software Engineering,reverse engineering,Q269608,reverse engineering,"process by which a man-made object is deconstructed to reveal its designs, architecture, code or to extract knowledge from the object",https://www.wikidata.org/wiki/Q269608
+Software Engineering,structured analysis,Q119727,structured analysis,"method for analyzing and converting business requirements of a project into functional specifications for its conception, its implementation and its monitoring",https://www.wikidata.org/wiki/Q119727
+Software Engineering,structured design,,,,
+Software Engineering,data flow diagram,Q747385,data-flow diagram,"graphical representation of the ""flow"" of data through an information system",https://www.wikidata.org/wiki/Q747385
+Software Engineering,data model,Q1172480,data model,an abstract model that organizes elements of data and standardizes how they relate to one another and to real world entities.,https://www.wikidata.org/wiki/Q1172480
+Software Engineering,dynamics model,Q7331913,Ricker model,discrete population dynamics model,https://www.wikidata.org/wiki/Q7331913
+Software Engineering,real-time system,Q3988,real-time computing,"study of hardware and software systems that have a ""real-time constraint""",https://www.wikidata.org/wiki/Q3988
+Software Engineering,unified modeling language,Q169411,Unified Modeling Language,software system design modeling tool,https://www.wikidata.org/wiki/Q169411
+Software Engineering,use case,Q613417,use case,list of actions or event steps typically defining the interactions between a user role and a system to achieve a goal,https://www.wikidata.org/wiki/Q613417
+Software Engineering,system scenario,,,,
+Software Engineering,class model,Q1806878,latent class model,concept in statistics,https://www.wikidata.org/wiki/Q1806878
+Software Engineering,object model,Q1116105,object model,"the properties of objects in general in a particular system, or the object-oriented interface through which a program can examine and manipulate",https://www.wikidata.org/wiki/Q1116105
+Software Engineering,software life cycle,Q2904257,software development process,process by which software is developed,https://www.wikidata.org/wiki/Q2904257
+Software Engineering,agile methodology,Q121435044,agile methodology,type of methodology,https://www.wikidata.org/wiki/Q121435044
+Software Engineering,extreme programming,Q209711,extreme programming,software development methodology which intends to improve software quality and responsiveness to changing customer requirements,https://www.wikidata.org/wiki/Q209711
+Software Engineering,requirements engineering,Q376937,requirements engineering,"process of defining, documenting, and maintaining requirements in the engineering design process",https://www.wikidata.org/wiki/Q376937
+Software Engineering,system context,Q446366,system context diagram,engineering diagram displaying high level system-environment relationships,https://www.wikidata.org/wiki/Q446366
+Software Engineering,stakeholder,Q852998,stakeholder,"anyone who has a 'stake' in something, including the outcome of a process or work of an organisation or project. Stakeholders can support the work of organizations including government, trade unions, owners, investors, etc.",https://www.wikidata.org/wiki/Q852998
+Software Engineering,system viewpoint,,,,
+Software Engineering,requirements classification,,,,
+Software Engineering,requirements elicitation,Q838667,requirements elicitation,"practice of collecting the requirements of a system from users, customers and other stakeholders",https://www.wikidata.org/wiki/Q838667
+Software Engineering,requirements analysis,Q187147,requirements analysis,"system design process focusing on analysing, documenting, validating and managing system requirements",https://www.wikidata.org/wiki/Q187147
+Software Engineering,requirements specification,Q1761598,software requirements specification,"functional and non-functional requirements that a designed software needs to fulfil, may include a set of use cases",https://www.wikidata.org/wiki/Q1761598
+Software Engineering,requirements management,Q530038,requirements management,"process of documenting, analyzing, tracing, prioritizing and agreeing on",https://www.wikidata.org/wiki/Q530038
+Software Engineering,capability maturity model integration,Q428361,Capability Maturity Model Integration,evaluation,https://www.wikidata.org/wiki/Q428361
+Software Engineering,system architecture,Q1099695,System Architecture Evolution,core network architecture of 3GPP's LTE wireless communication standard,https://www.wikidata.org/wiki/Q1099695
+Software Engineering,architectural pattern,Q635346,architectural pattern,"a general, reusable solution to a commonly occurring problem in software engineering and architecture",https://www.wikidata.org/wiki/Q635346
+Software Engineering,code design,Q5264356,Design marker,Technique of documenting design choices in source code,https://www.wikidata.org/wiki/Q5264356
+Software Engineering,code smell,Q2295111,code smell,symptom in the source code of a program that possibly indicates a deeper problem,https://www.wikidata.org/wiki/Q2295111
+Software Engineering,refactoring,Q116877,software refactoring,process of restructuring existing computer code without changing its external behavior,https://www.wikidata.org/wiki/Q116877
+Software Engineering,solid,Q11438,solid,solid matter; matter which does not deform easily under pressure,https://www.wikidata.org/wiki/Q11438
+Software Engineering,grasp,Q24771324,Beta-grasp domain superfamily,InterPro Domain,https://www.wikidata.org/wiki/Q24771324
+Software Engineering,dry principle,Q1242407,don't repeat yourself,"software development principle with the goal of reducing repetitive software patterns, and replacing them with abstractions that use data normalization to avoid redundancy",https://www.wikidata.org/wiki/Q1242407
+Software Engineering,kiss principle,Q131560,KISS,"acronym for ""Keep it simple, stupid""; design principle",https://www.wikidata.org/wiki/Q131560
+Software Engineering,software testing,Q188522,software testing,investigation conducted to provide information about the quality of a software product or service under test and enable the business to understand the risks of software implementation,https://www.wikidata.org/wiki/Q188522
+Software Engineering,requirements set,,,,
+Software Engineering,domain model,Q2262868,domain model,conceptual model of the domain in software engineering that incorporates both behaviour and data,https://www.wikidata.org/wiki/Q2262868
+Advanced programming 2,.net framework,Q5289,.NET Framework,software platform developed by Microsoft,https://www.wikidata.org/wiki/Q5289
+Advanced programming 2,c#,Q2370,C#,multi-paradigm (object-oriented) programming language,https://www.wikidata.org/wiki/Q2370
+Advanced programming 2,class (computer programming),Q9143,programming language,language for communicating instructions to a machine,https://www.wikidata.org/wiki/Q9143
+Advanced programming 2,structure (computer science),Q175263,data structure,particular way of storing and organizing data in a computer,https://www.wikidata.org/wiki/Q175263
+Advanced programming 2,interface (computing),Q42308944,Common Translation Interface,computing interface,https://www.wikidata.org/wiki/Q42308944
+Advanced programming 2,delegate (computer science),,,,
+Advanced programming 2,generic programming,Q1051282,generic programming,way of designing and writing programs where algorithms are written in terms of parametric types enabling easy reuse,https://www.wikidata.org/wiki/Q1051282
+Advanced programming 2,anonymous function,Q567612,anonymous function,function definition that is not bound to an identifier,https://www.wikidata.org/wiki/Q567612
+Advanced programming 2,iterator,Q1326388,iterator,"in computing, an object whose methods enables a program to orderly traverse elements having some logical conditions in a given container from a given first element",https://www.wikidata.org/wiki/Q1326388
+Advanced programming 2,linq,Q3241665,Linq,2004 board game,https://www.wikidata.org/wiki/Q3241665
+Advanced programming 2,asynchronous programming,Q4036484,Concurrency and Coordination Runtime,asynchronous programming library,https://www.wikidata.org/wiki/Q4036484
+Advanced programming 2,event (computing),Q3291944,event,computing operation that can be recognized and handled by software,https://www.wikidata.org/wiki/Q3291944
+Advanced programming 2,lambda expression,,,,
+Advanced programming 2,entity framework,Q851939,Entity Framework,object-relational mapping framework for ADO.NET,https://www.wikidata.org/wiki/Q851939
+Advanced programming 2,reactive programming,Q4354073,reactive programming,a programming paradigm based on event-driven architecture for processing data changes in real-time,https://www.wikidata.org/wiki/Q4354073
+Advanced programming 2,stream (computing),,,,
+Advanced programming 2,operator (mathematics),Q131030,operator,mapping from one vector space or module to another in mathematics,https://www.wikidata.org/wiki/Q131030
+Advanced programming 2,subject (philosophy),Q5891,philosophy,"study of the truths and principles of being, schools of thought, knowledge, or conduct",https://www.wikidata.org/wiki/Q5891
+Advanced programming 2,wpf,Q239084,Windows Presentation Foundation,graphical subsystem,https://www.wikidata.org/wiki/Q239084
+Advanced programming 2,uwp,Q21600523,Universal Windows Platform,universal application platform created and developed by Microsoft for Microsoft Windows,https://www.wikidata.org/wiki/Q21600523
+Advanced programming 2,unity (game engine),Q63966,Unity,cross-platform game engine,https://www.wikidata.org/wiki/Q63966
+Computer networks,computer network,Q1301371,computer network,network that allows computers to share resources and communicate with each other,https://www.wikidata.org/wiki/Q1301371
+Computer networks,data transfer,Q1195816,transfer,movement of computer data from one storage medium to another,https://www.wikidata.org/wiki/Q1195816
+Computer networks,network architecture,Q639681,network architecture,design of a communications network,https://www.wikidata.org/wiki/Q639681
+Computer networks,iso-osi model,Q93312,OSI model,model with 7 layers to describe communication systems,https://www.wikidata.org/wiki/Q93312
+Computer networks,network topology,Q145490,network topology,arrangement of the various elements of a computer network; topological structure of a network and may be depicted physically or logically,https://www.wikidata.org/wiki/Q145490
+Computer networks,signal transmission,Q118093,transmission,process of sending and propagating a signal,https://www.wikidata.org/wiki/Q118093
+Computer networks,transmission medium,Q334265,transmission medium,conduit for signal propagation,https://www.wikidata.org/wiki/Q334265
+Computer networks,local area network,Q11381,local area network,computer network that connects devices over a limited area,https://www.wikidata.org/wiki/Q11381
+Computer networks,storage area network,Q237576,storage area network,"network which provides access to consolidated, block level data storage",https://www.wikidata.org/wiki/Q237576
+Computer networks,metropolitan area network,Q182129,metropolitan area network,computer network that interconnects users with computer resources in a geographic area or region.,https://www.wikidata.org/wiki/Q182129
+Computer networks,data link layer,Q194134,data link layer,second layer of the OSI networking model,https://www.wikidata.org/wiki/Q194134
+Computer networks,ethernet,Q79984,Ethernet,"family of wired computer networking technologies commonly used in local area networks (LAN), metropolitan area networks (MAN) and wide area networks (WAN)",https://www.wikidata.org/wiki/Q79984
+Computer networks,ieee 802.3,Q570951,IEEE 802.3,collection of standards for wired Ethernet,https://www.wikidata.org/wiki/Q570951
+Computer networks,csma/cd,Q1045106,Carrier sense multiple access,system allowing transmitters to take turns on a shared media,https://www.wikidata.org/wiki/Q1045106
+Computer networks,mac addressing,Q20484,MAC address,unique identifier assigned to network interfaces for communications on the physical network segment,https://www.wikidata.org/wiki/Q20484
+Computer networks,vlan,Q16452,VLAN,network communications domain that is isolated at the data link layer,https://www.wikidata.org/wiki/Q16452
+Computer networks,ieee 802.1q,Q1535269,IEEE 802.1Q,IEEE networking standard supporting VLANs,https://www.wikidata.org/wiki/Q1535269
+Computer networks,spanning tree protocol,Q852555,Spanning Tree Protocol,network protocol that builds a loop-free logical topology for Ethernet networks,https://www.wikidata.org/wiki/Q852555
+Computer networks,ip addressing,,,,
+Computer networks,arp,Q977081,Arp,"city in Smith County, Texas, United States",https://www.wikidata.org/wiki/Q977081
+Computer networks,ethernet switch,Q2033353,Cisco Catalyst,ethernet switch,https://www.wikidata.org/wiki/Q2033353
+Computer networks,fibre channel,Q376827,Fibre Channel,computer storage networking technology,https://www.wikidata.org/wiki/Q376827
+Computer networks,token ring,Q207971,token ring,technology developed by IBM for local area networks,https://www.wikidata.org/wiki/Q207971
+Computer networks,fddi,Q181382,Fiber Distributed Data Interface,standard for data transmission in a local area network,https://www.wikidata.org/wiki/Q181382
+Computer networks,llc,Q149789,limited liability company,US form of a private limited company,https://www.wikidata.org/wiki/Q149789
+Computer networks,snap,Q27022329,Snap Inc.,American multinational technology company,https://www.wikidata.org/wiki/Q27022329
+Computer networks,internet protocol,Q8795,Internet Protocol,communication protocol that allows connections between networks,https://www.wikidata.org/wiki/Q8795
+Computer networks,ip protocol,Q81414,Internet protocol suite,framework for communication protocols used in IP networking,https://www.wikidata.org/wiki/Q81414
+Computer networks,ip datagram,Q11163,User Datagram Protocol,principal protocol used for transmission of datagrams across an IP network,https://www.wikidata.org/wiki/Q11163
+Computer networks,ip routing,Q5973191,IP forwarding,process used to determine which path a packet or datagram can be sent,https://www.wikidata.org/wiki/Q5973191
+Computer networks,ip packet fragmentation,Q1332338,IP fragmentation,division of datagrams to allow packets to pass through a link with a smaller MTU,https://www.wikidata.org/wiki/Q1332338
+Computer networks,ip encapsulation,Q5973201,IP in IP,Internet protocol,https://www.wikidata.org/wiki/Q5973201
+Computer networks,icmp,Q13162,Internet Control Message Protocol,"core protocol of the Internet Protocol suite, mainly used on IPv4 networks to indicate error messages in network operations",https://www.wikidata.org/wiki/Q13162
+Computer networks,ipv6 protocol,Q11089,IPv6 deployment,degree of adoption of the IPv6 protocol on the Internet,https://www.wikidata.org/wiki/Q11089
+Computer networks,tcp protocol,Q8803,Transmission Control Protocol,principal protocol used to stream data across an IP network,https://www.wikidata.org/wiki/Q8803
+Computer networks,udp protocol,Q7850165,Tsunami UDP Protocol,UDP-based network file transfer protocol,https://www.wikidata.org/wiki/Q7850165
+Computer networks,ipx,Q855158,IPX,protocol mainly used for Novell computer networking,https://www.wikidata.org/wiki/Q855158
+Computer networks,rtp protocol,Q321213,Real-time Transport Protocol,protocol for delivering audio and video over IP networks,https://www.wikidata.org/wiki/Q321213
+Computer networks,multicast,Q899288,multicast,computer networking technique for forwarding transmissions from one sender to multiple receivers,https://www.wikidata.org/wiki/Q899288
+Computer networks,reverse path forwarding,Q2421874,Reverse-Path Forwarding,Multicast routing technique to minimize loops and enhance security,https://www.wikidata.org/wiki/Q2421874
+Computer networks,igmp,Q14149,Internet Group Management Protocol,Primary protocol for establishing multicast group memberships on IPv4 networks. ICMPv6 is used for IPv6 networks.,https://www.wikidata.org/wiki/Q14149
+Computer networks,pim protocol,Q782752,Protocol-Independent Multicast,Multicast routing protocol,https://www.wikidata.org/wiki/Q782752
+Computer networks,router,Q5318,router,device that connects computer networks,https://www.wikidata.org/wiki/Q5318
+Computer networks,access control list,Q338966,access-control list,list associated with a computing system resource that specifies which users or groups are permitted to perform specified operations,https://www.wikidata.org/wiki/Q338966
+Computer networks,dhcp,Q11166,Dynamic Host Configuration Protocol,computer network protocol,https://www.wikidata.org/wiki/Q11166
+Computer networks,snmp,Q184230,Simple Network Management Protocol,series of computer network protocols for managing systems connected to a network,https://www.wikidata.org/wiki/Q184230
+Computer networks,cidr,Q646589,Classless Inter-Domain Routing,method for IP address allocation and routing,https://www.wikidata.org/wiki/Q646589
+Computer networks,routing table,Q290066,routing table,data table stored in a router or a networked computer; lists the routes (and sometimes distances) to particular network destinations,https://www.wikidata.org/wiki/Q290066
+Computer networks,static routing,Q1119410,static routing,use of fixed routes for routing in networks,https://www.wikidata.org/wiki/Q1119410
+Computer networks,dynamic routing protocol,Q28455154,Route redistribution,dynamic routing protocol,https://www.wikidata.org/wiki/Q28455154
+Computer networks,rip,Q207580,Routing Information Protocol,computer network protocol,https://www.wikidata.org/wiki/Q207580
+Computer networks,igrp,Q784844,Interior Gateway Routing Protocol,routing protocol,https://www.wikidata.org/wiki/Q784844
+Computer networks,eigrp,,,,
+Computer networks,ospf,Q220169,Open Shortest Path First,Internet protocol,https://www.wikidata.org/wiki/Q220169
+Computer networks,is-is protocol,Q53755957,Git Wire Protocol,communications protocol which is used by git revision control software,https://www.wikidata.org/wiki/Q53755957
+Computer networks,network address translation,Q11182,network address translation,protocol facilitating connection of one IP address space to another,https://www.wikidata.org/wiki/Q11182
+Computer networks,service level agreement,Q869830,service-level agreement,official commitment between a service provider and a customer,https://www.wikidata.org/wiki/Q869830
+Computer networks,hsrp,Q1630757,Hot Standby Router Protocol,computer network protocol,https://www.wikidata.org/wiki/Q1630757
+Computer networks,vrrp,Q1244243,Virtual Router Redundancy Protocol,an inter-router protocol for the configuration and management of redundancy for virtual routers,https://www.wikidata.org/wiki/Q1244243
+Computer networks,bgp protocol,Q11155,Border Gateway Protocol,protocol for communicating routing information on the Internet,https://www.wikidata.org/wiki/Q11155
+Computer networks,autonomous system,Q749245,autonomous system,collection of connected Internet Protocol (IP) routing prefixes under the control of one or more network operators,https://www.wikidata.org/wiki/Q749245
+Computer networks,multiprotocol label switching,Q677023,Multiprotocol Label Switching,network routing scheme based on labels identifying paths,https://www.wikidata.org/wiki/Q677023
+Computer networks,vpn,Q170963,virtual private network,"virtual network extending a single private network across a public network like the Internet, appearing to users as a private network",https://www.wikidata.org/wiki/Q170963
+Computer networks,physical medium,Q3382010,physical medium attachment sublayer,part of a communications system physical device (PHY),https://www.wikidata.org/wiki/Q3382010
+Computer networks,coaxial cable,Q183389,coaxial cable,type of cable,https://www.wikidata.org/wiki/Q183389
+Computer networks,copper pair,Q115102127,Single Pair Ethernet,Transmission of Ethernet via a pair of copper wires,https://www.wikidata.org/wiki/Q115102127
+Computer networks,fiber optic,Q1529430,fiber-optic communication,method of transmitting information from one place to another by sending pulses of light through an optical fiber,https://www.wikidata.org/wiki/Q1529430
+Computer networks,infrared,Q11388,infrared radiation,electromagnetic radiation with longer wavelengths than those of visible light,https://www.wikidata.org/wiki/Q11388
+Computer networks,microwave,Q127995,microwave,form of electromagnetic radiation,https://www.wikidata.org/wiki/Q127995
+Computer networks,radio wave,Q4262,radio wave,type of electromagnetic radiation,https://www.wikidata.org/wiki/Q4262
+Computer networks,wireless network,Q11375,wireless network,any network at least partly not connected by physical cables of any kind,https://www.wikidata.org/wiki/Q11375
+Computer networks,wi-fi,Q29643,Wi-Fi,"family of wireless network protocols, based on IEEE's 802.11 standards",https://www.wikidata.org/wiki/Q29643
+Computer networks,ieee 802.11,Q193228,IEEE 802.11,set of media access control (MAC) and physical layer (PHY) specifications,https://www.wikidata.org/wiki/Q193228
+Computer networks,bluetooth,Q39531,Bluetooth,short-distance wireless communication protocol,https://www.wikidata.org/wiki/Q39531
+Computer networks,ieee 802.15,Q3267095,IEEE 802.15,set of IEEE standards for wireless personal area networks,https://www.wikidata.org/wiki/Q3267095
+Computer networks,wimax,Q133973,WiMAX,wireless broadband standard,https://www.wikidata.org/wiki/Q133973
+Computer networks,ieee 802.16,Q1149757,IEEE 802.16,series of wireless broadband standards,https://www.wikidata.org/wiki/Q1149757
+Computer networks,zigbee,Q199324,Zigbee,IEEE 802.15.4-based specification for a suite of high-level communication protocols,https://www.wikidata.org/wiki/Q199324
+Computer networks,gsm,Q106647060,GSM,2000 studio album by Milko Kalaidjiev,https://www.wikidata.org/wiki/Q106647060
+Computer networks,gprs,Q79708,General Packet Radio Service,packet oriented mobile data service on 2G and 3G,https://www.wikidata.org/wiki/Q79708
+Computer networks,edge,Q18698690,Microsoft Edge,web browser developed by Microsoft,https://www.wikidata.org/wiki/Q18698690
+Computer networks,umts,Q79686,Universal Mobile Telecommunications System,third generation mobile cellular system for networks,https://www.wikidata.org/wiki/Q79686
+Computer networks,frame relay,Q242506,Frame Relay,wide area network technology,https://www.wikidata.org/wiki/Q242506
+Computer networks,atm,Q381955,ATM,public transport company of Milan,https://www.wikidata.org/wiki/Q381955
+Computer networks,dsl,Q691358,domain-specific language,computer language specialized to a particular application domain,https://www.wikidata.org/wiki/Q691358
+Computer networks,cryptology,Q1430062,cryptology,science that deals with the encryption and decryption of information,https://www.wikidata.org/wiki/Q1430062
+Computer networks,cryptography,Q8789,cryptography,practice and study of secure communication techniques,https://www.wikidata.org/wiki/Q8789
+Computer networks,cryptanalysis,Q897511,cryptanalysis,study of analyzing information systems in order to discover their hidden aspects,https://www.wikidata.org/wiki/Q897511
+Computer networks,key cryptosystem,Q4035603,CEILIDH,public key cryptosystem,https://www.wikidata.org/wiki/Q4035603
+Computer networks,rsa,Q181551,RSA,algorithm for public-key cryptography,https://www.wikidata.org/wiki/Q181551
+Computer networks,secure socket layer,Q1193479,Secure Sockets Layer,obsolete cryptographic protocols for securing data in transit,https://www.wikidata.org/wiki/Q1193479
+Computer networks,x.509,Q1065865,X.509,ITU-T recommendation,https://www.wikidata.org/wiki/Q1065865
+Computer networks,ssh,Q170460,Secure Shell,"cryptographic network protocol for secure data communication, remote shell services or command execution and other secure network services between two networked computers",https://www.wikidata.org/wiki/Q170460
+Computer networks,sftp,Q7444872,sftp,command-line program used as an SSH File Transfer Protocol client,https://www.wikidata.org/wiki/Q7444872
+Computer networks,https,Q44484,HTTPS,extension of the HTTP communications protocol to support TLS encryption,https://www.wikidata.org/wiki/Q44484
+Computer networks,intrusion detection system,Q917189,Host-based intrusion detection system,intrusion detection system,https://www.wikidata.org/wiki/Q917189
+Computer networks,point-to-point protocol,Q215179,Point-to-point protocol,a simple data link layer protocol used between two devices,https://www.wikidata.org/wiki/Q215179
+Computer networks,open shortest path first version 3,,,,
+Computer networks,routing information protocol next generation,,,,
+Computer networks,exterior gateway protocol,Q1385050,Exterior Gateway Protocol,Internet protocol,https://www.wikidata.org/wiki/Q1385050
+Computer networks,interior gateway protocol,Q431028,interior gateway protocol,class of routing protocols,https://www.wikidata.org/wiki/Q431028
+Computer networks,shdsl,,,,
+Computer networks,vdsl,Q823923,VDSL,digital subscriber line technologies,https://www.wikidata.org/wiki/Q823923
+Computer networks,quality of service,Q220501,quality of service,traffic prioritization and measure of network performance,https://www.wikidata.org/wiki/Q220501
+Compilation Theory and Compilers,compiler,Q47506,compiler,computer program that transforms source code into object code,https://www.wikidata.org/wiki/Q47506
+Compilation Theory and Compilers,translator (computer science),Q4462013,translator,computer program that translates from one programming language to another,https://www.wikidata.org/wiki/Q4462013
+Compilation Theory and Compilers,interpreter,Q183065,interpreter,program that executes source code without a separate compilation step,https://www.wikidata.org/wiki/Q183065
+Compilation Theory and Compilers,lexical analysis,Q835922,lexical analysis,computing process of parsing a sequence of characters into a sequence of tokens,https://www.wikidata.org/wiki/Q835922
+Compilation Theory and Compilers,scanner (computer science),Q12504428,fingerprint scanner,electronic device used to capture a digital image of the fingerprint pattern,https://www.wikidata.org/wiki/Q12504428
+Compilation Theory and Compilers,syntactic analysis,Q126087832,MITRE Syntactic Analysis Procedure,MITRE Syntactic Analysis Procedure was a program developed in the 1960s for analyzing English phrase structures,https://www.wikidata.org/wiki/Q126087832
+Compilation Theory and Compilers,grammatical parsing,Q126084811,BLLIP Parser,BLLIP Parser (or Charniak-Johnson parser) is a statistical natural language parser for analyzing text to determine its grammatical structure,https://www.wikidata.org/wiki/Q126084811
+Compilation Theory and Compilers,semantic analysis,Q1806883,Latent semantic analysis,technique in natural language processing,https://www.wikidata.org/wiki/Q1806883
+Compilation Theory and Compilers,top-down parsing,Q15419395,top-down parsing,parsing technique,https://www.wikidata.org/wiki/Q15419395
+Compilation Theory and Compilers,ll grammar,Q16249519,LL grammar,type of a context-free grammar,https://www.wikidata.org/wiki/Q16249519
+Compilation Theory and Compilers,parser,Q12758225,parser,software that interprets a string,https://www.wikidata.org/wiki/Q12758225
+Compilation Theory and Compilers,bottom-up parsing,Q894902,bottom-up parsing,parsing approach that starts from the leaf nodes of a tree and works in upward direction till it reaches the root node,https://www.wikidata.org/wiki/Q894902
+Compilation Theory and Compilers,lr grammar,Q3113341,LR-attributed grammar,special type of attribute grammars allowing the attributes to be evaluated on LR parsing,https://www.wikidata.org/wiki/Q3113341
+Compilation Theory and Compilers,slr parser,Q2709511,Simple LR parser,type of LR parser with small parse tables and a relatively simple parser generator algorithm,https://www.wikidata.org/wiki/Q2709511
+Compilation Theory and Compilers,lalr parser,Q1204392,LALR parser,"look-ahead left-to-right, rightmost derivation parser",https://www.wikidata.org/wiki/Q1204392
+Compilation Theory and Compilers,operator precedence grammar,Q3113343,operator-precedence grammar,type of grammar for formal languages,https://www.wikidata.org/wiki/Q3113343
+Compilation Theory and Compilers,attribute grammar,Q597455,attribute grammar,"formal way to define attributes for the productions of a formal grammar, associating these attributes with values",https://www.wikidata.org/wiki/Q597455
+Compilation Theory and Compilers,s-attributed grammar,,,,
+Compilation Theory and Compilers,l-attributed grammar,,,,
+Compilation Theory and Compilers,code generation,Q1061077,code generation,process by which a compiler's code generator converts some intermediate representation of source code into a form that can be readily executed by a machine,https://www.wikidata.org/wiki/Q1061077
+Compilation Theory and Compilers,code optimization,,,,
+Compilation Theory and Compilers,intermediate code,Q951178,three address code,representation of intermediate code used by compilers,https://www.wikidata.org/wiki/Q951178
+Data Engineering,dataset,Q1172284,data set,"collection of data, publication type",https://www.wikidata.org/wiki/Q1172284
+Data Engineering,data format,Q494823,data format,specification,https://www.wikidata.org/wiki/Q494823
+Data Engineering,data import,Q115645395,data import into OpenStreetMap,process of importing a particular dataset into OpenStreetMap,https://www.wikidata.org/wiki/Q115645395
+Data Engineering,data analysis,Q1988917,data analysis,activity for gaining insight from data,https://www.wikidata.org/wiki/Q1988917
+Data Engineering,data integration,Q386824,data integration,combining data from different sources and providing a unified view,https://www.wikidata.org/wiki/Q386824
+Data Engineering,database,Q8513,database,organized collection of data in computing,https://www.wikidata.org/wiki/Q8513
+Data Engineering,data processing,Q6661985,data processing,"any process that uses a computer program to enter data and summarise, analyse or otherwise convert data into usable information",https://www.wikidata.org/wiki/Q6661985
+Data Engineering,multidimensional data,Q17004569,Bagplot,Multidimensional data visualization,https://www.wikidata.org/wiki/Q17004569
+Data Engineering,geometric data,Q8042297,eXtensible Model Data Format,"format for the geometric data storage of river cross-sections, 2D/3D structured and unstructured meshes, geometric paths through space, and associated time data",https://www.wikidata.org/wiki/Q8042297
+Data Engineering,geographic data,Q350758,geographic data,subclass of geodata as the base for geodata related to the geographic location,https://www.wikidata.org/wiki/Q350758
+Data Engineering,coordinate system,Q11210,coordinate system,system for determining the position of a point,https://www.wikidata.org/wiki/Q11210
+Data Engineering,geospatial data,Q121810372,geospatial data,data geospatially,https://www.wikidata.org/wiki/Q121810372
+Data Engineering,time series,Q186588,time series,set of data indexed in time order,https://www.wikidata.org/wiki/Q186588
+Data Engineering,log data,Q949532,logging,chronological record of computer operations,https://www.wikidata.org/wiki/Q949532
+Data Engineering,query design,,,,
+Data Engineering,data quality,Q1757694,data quality,state of qualitative or quantitative pieces of information,https://www.wikidata.org/wiki/Q1757694
+Machine learning,machine learning,Q2539,machine learning,scientific study of algorithms and statistical models that computer systems use to perform tasks without explicit instructions,https://www.wikidata.org/wiki/Q2539
+Machine learning,classification,Q5962346,classification scheme,"system of descriptive information for an arrangement or division of objects into groups based on characteristics, which the objects have in common",https://www.wikidata.org/wiki/Q5962346
+Machine learning,naive bayes classifier,Q812530,naive Bayes classifier,classification algorithm,https://www.wikidata.org/wiki/Q812530
+Machine learning,k-nearest neighbors algorithm,Q1071612,k-nearest neighbors algorithm,classification algorithm,https://www.wikidata.org/wiki/Q1071612
+Machine learning,logistic regression,Q1132755,logistic regression model,statistical model,https://www.wikidata.org/wiki/Q1132755
+Machine learning,support vector machine,Q282453,support vector machine,set of methods for supervised statistical learning,https://www.wikidata.org/wiki/Q282453
+Machine learning,decision tree,Q831366,decision tree,decision support tool,https://www.wikidata.org/wiki/Q831366
+Machine learning,ensemble method,Q799897,bootstrap aggregating,ensemble method within machine learning,https://www.wikidata.org/wiki/Q799897
+Machine learning,random forest,Q245748,random forest,statistical algorithm that is used to cluster points of data in functional groups,https://www.wikidata.org/wiki/Q245748
+Machine learning,gradient boosting,Q5591907,gradient boosting,machine learning technique,https://www.wikidata.org/wiki/Q5591907
+Machine learning,regression analysis,Q208042,regression analysis,set of statistical processes for estimating the relationships among variables,https://www.wikidata.org/wiki/Q208042
+Machine learning,linear regression,Q10861030,linear regression,statistical approach for modeling the relationship between a scalar dependent variable and one or more explanatory variables,https://www.wikidata.org/wiki/Q10861030
+Machine learning,polynomial regression,Q45343,polynomial regression,statistics concept,https://www.wikidata.org/wiki/Q45343
+Machine learning,cluster analysis,Q622825,cluster analysis,task of grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar (in some sense or another) to each other than to those in other groups (clusters),https://www.wikidata.org/wiki/Q622825
+Machine learning,k-means clustering,Q310401,k-means clustering,Vector quantization algorithm minimizing the sum of squared deviations,https://www.wikidata.org/wiki/Q310401
+Machine learning,dbscan,Q1114630,DBSCAN,data clustering algorithm,https://www.wikidata.org/wiki/Q1114630
+Machine learning,pattern mining,Q120970650,pattern mining,area of research,https://www.wikidata.org/wiki/Q120970650
+Machine learning,principal component analysis,Q2873,principal component analysis,conversion of a set of observations of possibly correlated variables into a set of values of linearly uncorrelated variables called principal components,https://www.wikidata.org/wiki/Q2873
+Machine learning,latent semantic analysis,Q1806883,Latent semantic analysis,technique in natural language processing,https://www.wikidata.org/wiki/Q1806883
+Machine learning,latent dirichlet allocation,Q269236,Latent Dirichlet allocation,generative statistical model that allows sets of observations to be explained by unobserved groups that explain why some parts of the data are similar,https://www.wikidata.org/wiki/Q269236
+Machine learning,neural network,Q192776,artificial neural network,"computational model used in machine learning, based on connected, hierarchical functions",https://www.wikidata.org/wiki/Q192776
+Machine learning,multilayer perceptron,Q2991667,multilayer perceptron,type of feedforward neural network with multiple fully-connected layers,https://www.wikidata.org/wiki/Q2991667
+Machine learning,convolutional neural network,Q17084460,convolutional neural network,regularized type of feed-forward neural network that learns features by itself via filter (or kernel) optimization,https://www.wikidata.org/wiki/Q17084460
+Machine learning,generative adversarial network,Q25104379,generative adversarial network,"deep learning method in which two neural networks compete with each other in a game, learning to generate new data with the same statistics as the training set",https://www.wikidata.org/wiki/Q25104379
+Machine learning,recurrent neural network,Q1457734,recurrent neural network,class of artificial neural network where connections between units form a directed graph along a temporal sequence,https://www.wikidata.org/wiki/Q1457734
+Machine learning,long short-term memory,Q6673524,long short-term memory,artificial recurrent neural network architecture used in deep learning,https://www.wikidata.org/wiki/Q6673524
+Machine learning,autoencoder,Q786435,autoencoder,neural network that learns efficient data encoding in an unsupervised manner,https://www.wikidata.org/wiki/Q786435
+Machine learning,reinforcement learning,Q830687,reinforcement learning,"type of machine learning where an agent learns how to behave in an environment by performing actions and receiving rewards or penalties in return, aiming to maximize the cumulative reward over time",https://www.wikidata.org/wiki/Q830687
+Machine learning,artificial intelligence,Q11660,artificial intelligence,field of computer science that develops and studies intelligent machines; also referring to such software,https://www.wikidata.org/wiki/Q11660
+Software development models,software model,Q372345,Belief–desire–intention software model,software model,https://www.wikidata.org/wiki/Q372345
+Software development models,class diagram,Q664166,class diagram,type of static structure diagram,https://www.wikidata.org/wiki/Q664166
+Software development models,object diagram,Q1760719,Object diagram,diagram showing the structure of objects in a system,https://www.wikidata.org/wiki/Q1760719
+Software development models,method (computer science),Q339466,accounting method,method of amortized analysis,https://www.wikidata.org/wiki/Q339466
+Software development models,attribute,Q1207505,quality,distinguishing feature,https://www.wikidata.org/wiki/Q1207505
+Software development models,verification and validation,Q2919644,verification and validation,"independent procedures that are used together for checking that a product, service, or system meets requirements and specifications and that it fulfills its intended purpose",https://www.wikidata.org/wiki/Q2919644
+Software development models,object constraint language,Q1397689,Object Constraint Language,declarative language,https://www.wikidata.org/wiki/Q1397689
+Software development models,behavioral model,,,,
+Software development models,state machine,Q176452,finite-state machine,mathematical model of computation; abstract machine that can be in exactly one of a finite number of states at any given time,https://www.wikidata.org/wiki/Q176452
+Software development models,sysml,Q2117885,Systems Modeling Language,general-purpose modeling language for systems engineering applications,https://www.wikidata.org/wiki/Q2117885
+Software development models,software design,Q857102,software design,process by which an agent creates a specification of a software artifact,https://www.wikidata.org/wiki/Q857102
+Design studio 1,intelligent system,Q115135904,intelligent system,"system showing signs of artificial intelligence, or claiming to",https://www.wikidata.org/wiki/Q115135904
+Design studio 1,artificial intelligence,Q11660,artificial intelligence,field of computer science that develops and studies intelligent machines; also referring to such software,https://www.wikidata.org/wiki/Q11660
+Design studio 1,design,Q82604,design,creation of a plan or convention for the construction of an object or a system; process of creation; act of creativity and innovation,https://www.wikidata.org/wiki/Q82604
+Design studio 1,validation,Q541014,cross-validation,statistical model validation technique,https://www.wikidata.org/wiki/Q541014
+Internet of Things and Intelligent Embedded Systems,internet of things,Q251212,Internet of things,Internet-like structure connecting everyday physical objects,https://www.wikidata.org/wiki/Q251212
+Internet of Things and Intelligent Embedded Systems,wireless sensor,Q336038,wireless sensor network,group of spatially dispersed and dedicated sensors for monitoring and recording,https://www.wikidata.org/wiki/Q336038
+Internet of Things and Intelligent Embedded Systems,operating system,Q9135,operating system,software that manages computer hardware resources,https://www.wikidata.org/wiki/Q9135
+Internet of Things and Intelligent Embedded Systems,software,Q7397,software,non-tangible executable component of a computer,https://www.wikidata.org/wiki/Q7397
+Internet of Things and Intelligent Embedded Systems,architecture,Q12271,architecture,"process of planning, designing and construction",https://www.wikidata.org/wiki/Q12271
+Internet of Things and Intelligent Embedded Systems,communication protocol,Q132364,communication protocol,system for exchanging messages between computing systems,https://www.wikidata.org/wiki/Q132364
+Internet of Things and Intelligent Embedded Systems,ipv6,Q2551624,IPv6,version 6 of the Internet Protocol,https://www.wikidata.org/wiki/Q2551624
+Internet of Things and Intelligent Embedded Systems,bluetooth,Q39531,Bluetooth,short-distance wireless communication protocol,https://www.wikidata.org/wiki/Q39531
+Internet of Things and Intelligent Embedded Systems,data processing,Q6661985,data processing,"any process that uses a computer program to enter data and summarise, analyse or otherwise convert data into usable information",https://www.wikidata.org/wiki/Q6661985
+Internet of Things and Intelligent Embedded Systems,cloud computing,Q483639,cloud computing,"form of Internet-based computing, whereby shared resources, software and information are provided to computers and other devices",https://www.wikidata.org/wiki/Q483639
+Internet of Things and Intelligent Embedded Systems,big data,Q858810,big data,"information assets characterized by such a high volume, velocity, and variety to require specific technology and analytical methods for its transformation into value",https://www.wikidata.org/wiki/Q858810
+Internet of Things and Intelligent Embedded Systems,security,Q2526135,security,"freedom from, or resilience against, potential harm caused by hostile forces, circumstances or disturbances",https://www.wikidata.org/wiki/Q2526135
+Internet of Things and Intelligent Embedded Systems,privacy,Q188728,privacy,"ability or right of an individual or group to seclude themselves, or information about themselves",https://www.wikidata.org/wiki/Q188728
+Discrete system simulation,complex system,Q854457,complex system,system composed of many interacting components,https://www.wikidata.org/wiki/Q854457
+Discrete system simulation,discrete event simulation,Q574814,discrete event simulation,type of simulation,https://www.wikidata.org/wiki/Q574814
+Discrete system simulation,modeling,Q1116876,scientific modeling,scientific activity,https://www.wikidata.org/wiki/Q1116876
+Discrete system simulation,simulation,Q1610017,simulation video game,video game genre,https://www.wikidata.org/wiki/Q1610017
+Discrete system simulation,cellular automaton,Q189156,cellular automaton,"discrete model studied in computability theory, mathematics, physics, complexity science, theoretical biology and microstructure modeling",https://www.wikidata.org/wiki/Q189156
+Discrete system simulation,agent-based modeling,Q392811,agent-based model,type of computational models,https://www.wikidata.org/wiki/Q392811
+Discrete system simulation,multi-agent system,Q529909,multi-agent system,built of multiple interacting agents,https://www.wikidata.org/wiki/Q529909
+Discrete system simulation,model calibration,Q95753510,model calibration,concept in quantitative sciences,https://www.wikidata.org/wiki/Q95753510
+Discrete system simulation,model validation,Q541014,cross-validation,statistical model validation technique,https://www.wikidata.org/wiki/Q541014
+Discrete system simulation,queuing system,Q110626677,Qiwii,Indonesian Online Queuing System,https://www.wikidata.org/wiki/Q110626677
+Discrete system simulation,molecular dynamics,Q901663,molecular dynamics simulation,method of computer simulation of molecular interaction,https://www.wikidata.org/wiki/Q901663
+Web application programming,web application,Q189210,web application,application that uses a web browser as a client,https://www.wikidata.org/wiki/Q189210
+Web application programming,client–server model,Q146813,client-server model,distributed application structure in computing,https://www.wikidata.org/wiki/Q146813
+Web application programming,http,Q8777,HTTP,"application protocol for distributed, collaborative, hypermedia information systems",https://www.wikidata.org/wiki/Q8777
+Web application programming,http session,Q191018,Session Initiation Protocol,voice-over-IP communications protocol,https://www.wikidata.org/wiki/Q191018
+Web application programming,single-page application,Q1990286,single-page application,web application based on a single web page and client-side logics,https://www.wikidata.org/wiki/Q1990286
+Web application programming,xmlhttprequest,Q117049220,xmlhttprequest,JavaScript library,https://www.wikidata.org/wiki/Q117049220
+Web application programming,ajax,Q81888,AFC Ajax,Dutch association football team,https://www.wikidata.org/wiki/Q81888
+Web application programming,html5,Q2053,HTML5,fifth and current version of the hypertext markup language,https://www.wikidata.org/wiki/Q2053
+Web application programming,css3,Q46441,Cascading Style Sheets,declarative language for styling web pages,https://www.wikidata.org/wiki/Q46441
+Web application programming,javascript,Q2005,JavaScript,high-level programming language,https://www.wikidata.org/wiki/Q2005
+Web application programming,flexbox,Q17049185,CSS Flex Box Layout,CSS3 web layout model,https://www.wikidata.org/wiki/Q17049185
+Web application programming,css grid layout,Q42320210,CSS grid layout,CSS properties allowing to create complex responsive web design layouts,https://www.wikidata.org/wiki/Q42320210
+Web application programming,cascading style sheets,Q46441,Cascading Style Sheets,declarative language for styling web pages,https://www.wikidata.org/wiki/Q46441
+Web application programming,box model,Q895501,CSS box model,web design concept,https://www.wikidata.org/wiki/Q895501
+Web application programming,selector (web technology),,,,
+Web application programming,pseudo-class,Q117050164,postcss-dir-pseudo-class,JavaScript library,https://www.wikidata.org/wiki/Q117050164
+Web application programming,bem methodology,,,,
+Web application programming,ecmascript,Q259138,ECMAScript,general-purpose programming language which JavaScript and other languages are based,https://www.wikidata.org/wiki/Q259138
+Web application programming,typescript,Q978185,TypeScript,"programming language, superset of JavaScript that compiles to JavaScript",https://www.wikidata.org/wiki/Q978185
+Web application programming,responsive web design,Q420295,responsive web design,approach to web design for making web pages render well on a variety of devices,https://www.wikidata.org/wiki/Q420295
+Web application programming,media query,Q116951400,postcss-media-query-parser,JavaScript library,https://www.wikidata.org/wiki/Q116951400
+Web application programming,bootstrap,Q893195,Bootstrap,web design front-end framework,https://www.wikidata.org/wiki/Q893195
+Web application programming,angular,Q28925578,Angular,web application framework,https://www.wikidata.org/wiki/Q28925578
+Web application programming,react,Q19399674,React,JavaScript library for building user interfaces,https://www.wikidata.org/wiki/Q19399674
+Web application programming,vue.js,Q24589705,Vue.js,JavaScript framework,https://www.wikidata.org/wiki/Q24589705
+Web application programming,mean stack,Q16977938,MEAN,JavaScript software stack,https://www.wikidata.org/wiki/Q16977938
+Web application programming,node.js,Q756100,Node.js,JavaScript runtime environment,https://www.wikidata.org/wiki/Q756100
+Web application programming,express.js,Q16878131,Express.js,JavaScript server-side/backend web framework for node.js,https://www.wikidata.org/wiki/Q16878131
+Web application programming,mongoose,Q23121,banded mongoose,species of mongoose,https://www.wikidata.org/wiki/Q23121
+Web application programming,crud,Q132452028,Crud,American rock band,https://www.wikidata.org/wiki/Q132452028
+Web application programming,reactive programming,Q4354073,reactive programming,a programming paradigm based on event-driven architecture for processing data changes in real-time,https://www.wikidata.org/wiki/Q4354073
+Web application programming,rxjs,Q95961420,rxjs,Reactive Extensions for modern JavaScript,https://www.wikidata.org/wiki/Q95961420
+Web application programming,flux architecture,Q213218,FLASK,"the Flux Advanced Security Kernel, an operating system security architecture",https://www.wikidata.org/wiki/Q213218
+Web application programming,redux,Q28957057,Redux,javaScript state container software library,https://www.wikidata.org/wiki/Q28957057
+Web application programming,authorization,Q788590,authorization,"function of specifying access rights and privileges to resources, which is related to information security and computer security in general and to access control in particular",https://www.wikidata.org/wiki/Q788590
+Web application programming,authentication,Q212108,authentication,"act of confirming the truth of an attribute of a datum or entity, often used as part of access control",https://www.wikidata.org/wiki/Q212108
+Operating systems,operating system,Q9135,operating system,software that manages computer hardware resources,https://www.wikidata.org/wiki/Q9135
+Operating systems,kernel (operating system),Q9662,kernel,Core of a computer operating system,https://www.wikidata.org/wiki/Q9662
+Operating systems,microkernel,Q726378,microkernel,kernel that provides fewer services than a traditional kernel,https://www.wikidata.org/wiki/Q726378
+Operating systems,process (computing),Q205663,process,particular execution of a computer program,https://www.wikidata.org/wiki/Q205663
+Operating systems,resource (computer science),Q121339750,Atika Alhajiyel,"Computer Science Student, Pen Resource University",https://www.wikidata.org/wiki/Q121339750
+Operating systems,thread (computing),Q213092,thread,smallest sequence of programmed instructions that can be managed independently by a scheduler,https://www.wikidata.org/wiki/Q213092
+Operating systems,multithreading,Q1064412,hardware multithreading,ability of a central processing unit (CPU) or a single core in a multi-core processor to execute multiple processes or threads concurrently,https://www.wikidata.org/wiki/Q1064412
+Operating systems,concurrent programming,Q128392,concurrent computing,form of computing in which several computations logically execute during overlapping time periods,https://www.wikidata.org/wiki/Q128392
+Operating systems,process synchronization,Q16977865,Frame synchronization,process of synchronizing display pixel scanning to a synchronization source,https://www.wikidata.org/wiki/Q16977865
+Operating systems,atomic instruction,Q128562,compare-and-swap,atomic instruction used in multithreading,https://www.wikidata.org/wiki/Q128562
+Operating systems,interleaving,Q17092530,interleaving,technique for improving the speed of access to blocks on disk storage,https://www.wikidata.org/wiki/Q17092530
+Operating systems,mutual exclusion,Q1047554,mutual exclusion,"property of concurrency control, which is instituted for the purpose of preventing race conditions",https://www.wikidata.org/wiki/Q1047554
+Operating systems,peterson's algorithm,Q903721,Peterson's algorithm,concurrent programming algorithm for mutual exclusion,https://www.wikidata.org/wiki/Q903721
+Operating systems,lamport's algorithm,Q2632524,Lamport's bakery algorithm,computer algorithm intended to improve the safety in the usage of shared resources among multiple threads,https://www.wikidata.org/wiki/Q2632524
+Operating systems,semaphore (programming),Q221682,semaphore,"variable that is changed (e.g., incremented, decremented, toggled) depending on programmer-defined conditions, used to control access to a common resource by multiple processes in a concurrent system",https://www.wikidata.org/wiki/Q221682
+Operating systems,posix,Q14658,POSIX,family of IEEE standards for compatibility between operating systems,https://www.wikidata.org/wiki/Q14658
+Operating systems,lock (computer science),Q1427251,lock,synchronization mechanism for enforcing limits on concurrent access to a resource,https://www.wikidata.org/wiki/Q1427251
+Operating systems,condition variable,Q18382796,boundary condition,prescribed state of one or multiple variables of a system during its evolution,https://www.wikidata.org/wiki/Q18382796
+Operating systems,monitor (synchronization),Q1062162,monitor,"in concurrent programming, an object or module intended to be used safely by more than one thread",https://www.wikidata.org/wiki/Q1062162
+Operating systems,critical region,Q322273,critical region,mathematical term,https://www.wikidata.org/wiki/Q322273
+Operating systems,producer-consumer problem,Q1366130,producer-consumer problem,family of computing problems,https://www.wikidata.org/wiki/Q1366130
+Operating systems,readers-writers problem,Q1146845,Readers-writers problem,Computer science problem in concurrency,https://www.wikidata.org/wiki/Q1146845
+Operating systems,deadlock,Q623276,deadlock,state in which members are blocking each other,https://www.wikidata.org/wiki/Q623276
+Operating systems,deadlock prevention,Q4060699,Deadlock prevention algorithms,technique used in computer science,https://www.wikidata.org/wiki/Q4060699
+Operating systems,deadlock avoidance,Q386678,banker's algorithm,resource allocation and deadlock avoidance algorithm,https://www.wikidata.org/wiki/Q386678
+Operating systems,banker's algorithm,Q386678,banker's algorithm,resource allocation and deadlock avoidance algorithm,https://www.wikidata.org/wiki/Q386678
+Operating systems,deadlock detection,Q4148051,wait-for graph,directed graph used for deadlock detection,https://www.wikidata.org/wiki/Q4148051
+Operating systems,memory management,Q2308807,memory management,"computer resource management of memory, involving allocation and deallocation",https://www.wikidata.org/wiki/Q2308807
+Operating systems,memory allocation,Q1001112,Buddy memory allocation,memory allocation algorithm,https://www.wikidata.org/wiki/Q1001112
+Operating systems,address translation,Q11182,network address translation,protocol facilitating connection of one IP address space to another,https://www.wikidata.org/wiki/Q11182
+Operating systems,paging,Q656083,paging,memory management scheme by which a computer stores and retrieves data from secondary storage for use in main memory,https://www.wikidata.org/wiki/Q656083
+Operating systems,segmentation,Q363057,market segmentation,process of dividing a broad consumer market into sub-groups with shared characteristics,https://www.wikidata.org/wiki/Q363057
+Operating systems,internal fragmentation,Q20825793,internal fragmentation,waisting of memory within an allocated region,https://www.wikidata.org/wiki/Q20825793
+Operating systems,external fragmentation,Q70747878,external fragmentation,interspersing of free and allocated memory,https://www.wikidata.org/wiki/Q70747878
+Operating systems,memory protection,Q163585,memory protection,"way to control memory access rights on a computer, and is a part of most modern instruction set architectures and operating systems",https://www.wikidata.org/wiki/Q163585
+Operating systems,virtual memory,Q189401,virtual memory,operating system level memory management technique,https://www.wikidata.org/wiki/Q189401
+Operating systems,page fault,Q1928607,page fault,when a running program accesses a memory page that is not currently mapped by the MMU into the virtual address space of a process,https://www.wikidata.org/wiki/Q1928607
+Operating systems,page replacement algorithm,Q1330967,page replacement algorithm,"algorithm in an OS that decides which memory pages to page out (swap out, write to disk) when a requested page is not in memory (page fault) and a free page cannot be used to satisfy the allocation (because there are too few or none)",https://www.wikidata.org/wiki/Q1330967
+Operating systems,linker (computing),Q523796,linker,"computer system program which produces loadable and executable programs from object files or libraries, compiled and assembled separately",https://www.wikidata.org/wiki/Q523796
+Operating systems,loader (computing),Q650550,loader,part of an operating system that is responsible for loading programs and libraries,https://www.wikidata.org/wiki/Q650550
+Operating systems,static linking,Q3276556,static library,"set of routines, external functions and variables in computer science",https://www.wikidata.org/wiki/Q3276556
+Operating systems,dynamic linking,Q132189682,Dynamic library,software library used via dynamic linking,https://www.wikidata.org/wiki/Q132189682
+Operating systems,file system,Q174989,file system,concrete format or program for storing files and directories on a data storage device,https://www.wikidata.org/wiki/Q174989
+Operating systems,directory (computing),Q201456,directory,"in computing, a file system cataloging structure which contains references to other computer files, and possibly other directories",https://www.wikidata.org/wiki/Q201456
+Operating systems,device driver,Q1033951,device driver,computer program that operates or controls a particular type of device,https://www.wikidata.org/wiki/Q1033951
+Digital image processing,image processing,Q327008,image processing,form of signal processing for which the input is an image and the output is either an image or a set of characteristics or parameters related to the image,https://www.wikidata.org/wiki/Q327008
+Digital image processing,image analysis,Q860755,image analysis,extraction of information from images via digital image processing techniques,https://www.wikidata.org/wiki/Q860755
+Digital image processing,data compression,Q2493,data compression,process of encoding information using fewer bits than the original representation,https://www.wikidata.org/wiki/Q2493
+Legal aspects and company organization,business activity,Q642541,business activity monitoring,"enterprise solution providing real time information about the status and results of various operations, processes, and transactions",https://www.wikidata.org/wiki/Q642541
+Legal aspects and company organization,entrepreneurship,Q3908516,entrepreneurship,creation or extraction of economic value,https://www.wikidata.org/wiki/Q3908516
+Legal aspects and company organization,partnership,Q728646,partnership,arrangement in which parties agree to cooperate to advance their mutual interests,https://www.wikidata.org/wiki/Q728646
+Legal aspects and company organization,joint-stock company,Q134161,joint-stock company,business entity which is owned by shareholders,https://www.wikidata.org/wiki/Q134161
+Legal aspects and company organization,limited liability company,Q149789,limited liability company,US form of a private limited company,https://www.wikidata.org/wiki/Q149789
+Legal aspects and company organization,business plan,Q208034,business plan,"formal written document containing business goals, the methods on how these goals can be attained, and the time frame within which these goals need to be achieved",https://www.wikidata.org/wiki/Q208034
+Legal aspects and company organization,taxation,Q8161,tax,"mandatory financial charge or other type of levy imposed on a taxpayer (an individual or legal entity) by a governmental organization to collectively fund government spending, public expenditures, or to regulate and reduce negative externalities",https://www.wikidata.org/wiki/Q8161
+Legal aspects and company organization,tax system,Q1468865,tax system,method to collect taxes,https://www.wikidata.org/wiki/Q1468865
+Legal aspects and company organization,value added tax,Q128635,value-added tax,form of consumption tax,https://www.wikidata.org/wiki/Q128635
+Legal aspects and company organization,employment contract,Q605519,First Employment Contract,employment contract,https://www.wikidata.org/wiki/Q605519
+Legal aspects and company organization,enterprise management,Q455726,Web-Based Enterprise Management,systems managament standards,https://www.wikidata.org/wiki/Q455726
+Legal aspects and company organization,civil code,Q165728,Bürgerliches Gesetzbuch,civil code of Germany,https://www.wikidata.org/wiki/Q165728
+Legal aspects and company organization,commercial law,Q219186,commercial law,body of law that applies to persons and businesses engaged in commerce,https://www.wikidata.org/wiki/Q219186
+Professional practice,occupational health and safety,Q629029,occupational health and safety,"area concerned with the safety, health and welfare of people at occupation",https://www.wikidata.org/wiki/Q629029
+Professional practice,organizational structure,Q759524,organizational structure,"in an organisation, defines how activities such as task allocation and supervision are directed towards the achievement of its aims",https://www.wikidata.org/wiki/Q759524
+Professional practice,information system,Q121182,information system,"combination of information, resources, activities and people that support tasks in an organization; group of components that interact to produce information",https://www.wikidata.org/wiki/Q121182
+Professional practice,software development cycle,Q2904257,software development process,process by which software is developed,https://www.wikidata.org/wiki/Q2904257
+Professional practice,formal specification,Q1437424,formal specification,mathematically based techniques whose purpose are to help with the implementation of systems and software,https://www.wikidata.org/wiki/Q1437424
+Professional practice,software validation,Q5159956,conference room pilot,in software validation,https://www.wikidata.org/wiki/Q5159956
+Professional practice,software testing,Q188522,software testing,investigation conducted to provide information about the quality of a software product or service under test and enable the business to understand the risks of software implementation,https://www.wikidata.org/wiki/Q188522
+Professional practice,software implementation,Q4684561,software adoption,software implementation,https://www.wikidata.org/wiki/Q4684561
+Professional practice,software maintenance,Q940053,software maintenance,modification of a software product after delivery,https://www.wikidata.org/wiki/Q940053
+Professional practice,economics,Q8134,economics,"social science that studies the production, distribution, and consumption of goods and services",https://www.wikidata.org/wiki/Q8134
+Professional practice,management,Q2920921,management,"administration of an organization, including activities to set the strategy of an organization and coordinate employees to accomplish its objectives",https://www.wikidata.org/wiki/Q2920921
+Professional practice,marketing,Q39809,marketing,"study and process of promoting, distributing, and selling products or services to customers",https://www.wikidata.org/wiki/Q39809
+Copyright and Patent Law,copyright law,Q67011165,copyright law,area of law,https://www.wikidata.org/wiki/Q67011165
+Copyright and Patent Law,copyright,Q1297822,copyright,legal concept in common law regulating rights related to original creative work,https://www.wikidata.org/wiki/Q1297822
+Copyright and Patent Law,license agreement,Q725920,end-user license agreement,contract between the licensor and purchaser of a piece of software,https://www.wikidata.org/wiki/Q725920
+Copyright and Patent Law,personal data protection,Q61072436,Personal Data Protection Authority,Turkish Data Protection Authority,https://www.wikidata.org/wiki/Q61072436
+Copyright and Patent Law,e-commerce,Q484847,e-commerce,type of business industry usually conducted over the Internet,https://www.wikidata.org/wiki/Q484847
+Copyright and Patent Law,industrial property,Q2750057,industrial property,intellectual property applied to industry,https://www.wikidata.org/wiki/Q2750057
+Copyright and Patent Law,invention,Q14208553,invention,"unique or novel device, method, composition or process",https://www.wikidata.org/wiki/Q14208553
+Copyright and Patent Law,trademark,Q167270,trademark,trade identifier of products or services,https://www.wikidata.org/wiki/Q167270
+Theory of Computation,theory of computation,Q844718,theory of computation,subfield of computer science,https://www.wikidata.org/wiki/Q844718
+Theory of Computation,recursive function,Q284164,μ-recursive function,one of several equivalent definitions of a computable function,https://www.wikidata.org/wiki/Q284164
+Theory of Computation,lambda calculus,Q242028,lambda calculus,formal system in mathematical logic,https://www.wikidata.org/wiki/Q242028
+Theory of Computation,church-rosser theorem,Q1308502,Church–Rosser theorem,"theorem that, when applying reduction rules to terms in some variants of the lambda calculus, the ordering in which the reductions are chosen does not make a difference to the eventual result",https://www.wikidata.org/wiki/Q1308502
+Theory of Computation,turing machine,Q163310,Turing machine,abstract computation model; mathematical model of computation that defines an abstract machine which manipulates symbols on a strip of tape according to a table of rules,https://www.wikidata.org/wiki/Q163310
+Theory of Computation,decision problem,Q3262192,decision problem,yes/no problem in computer science,https://www.wikidata.org/wiki/Q3262192
+Theory of Computation,halting problem,Q622849,halting problem,problem of determining whether a given program will finish running or continue forever,https://www.wikidata.org/wiki/Q622849
+Theory of Computation,rice's theorem,Q1893717,Rice's theorem,theorem in computability theory,https://www.wikidata.org/wiki/Q1893717
+Theory of Computation,first-order logic,Q4055684,first-order logic,"collection of formal systems used in mathematics, philosophy, linguistics, and computer science",https://www.wikidata.org/wiki/Q4055684
+Theory of Computation,gödel's incompleteness theorems,Q200787,Gödel's incompleteness theorems,theorem that a wide class of logical systems cannot be both consistent and complete,https://www.wikidata.org/wiki/Q200787
+Software Engineering Team Project,software engineering,Q80993,software engineering,application on systematic approaches to developing software,https://www.wikidata.org/wiki/Q80993
+Software Engineering Team Project,requirements engineering,Q376937,requirements engineering,"process of defining, documenting, and maintaining requirements in the engineering design process",https://www.wikidata.org/wiki/Q376937
+Software Engineering Team Project,software design,Q857102,software design,process by which an agent creates a specification of a software artifact,https://www.wikidata.org/wiki/Q857102
+Software Engineering Team Project,software implementation,Q4684561,software adoption,software implementation,https://www.wikidata.org/wiki/Q4684561
+Software Engineering Team Project,software integration,,,,
+Software Engineering Team Project,software testing,Q188522,software testing,investigation conducted to provide information about the quality of a software product or service under test and enable the business to understand the risks of software implementation,https://www.wikidata.org/wiki/Q188522
+Software Engineering Team Project,software life cycle,Q2904257,software development process,process by which software is developed,https://www.wikidata.org/wiki/Q2904257
+Software Engineering Team Project,software architecture,Q846636,software architecture,high level structures of a software system,https://www.wikidata.org/wiki/Q846636
+Software Engineering Team Project,software configuration management,Q613566,software configuration management,task of tracking and controlling changes in the software,https://www.wikidata.org/wiki/Q613566
+Design Studio 2,design,Q82604,design,creation of a plan or convention for the construction of an object or a system; process of creation; act of creativity and innovation,https://www.wikidata.org/wiki/Q82604
+Design Studio 2,validation,Q541014,cross-validation,statistical model validation technique,https://www.wikidata.org/wiki/Q541014
+Engineering diploma workshop,thesis,Q1266946,thesis,a scholarly work submitted as a requirement to obtain an academic degree; Use Q187685 for PhD thesis,https://www.wikidata.org/wiki/Q1266946
+Engineering diploma workshop,presentation (communication),Q604733,presentation,process of presenting a topic to an audience,https://www.wikidata.org/wiki/Q604733
+Engineering diploma workshop,engineering,Q11023,engineering,applied science,https://www.wikidata.org/wiki/Q11023
+Engineering diploma workshop,discussion,Q168210,Internet forum,online discussion site,https://www.wikidata.org/wiki/Q168210
+Graduation project,thesis,Q1266946,thesis,a scholarly work submitted as a requirement to obtain an academic degree; Use Q187685 for PhD thesis,https://www.wikidata.org/wiki/Q1266946
+Graduation project,experiment,Q101965,experiment,"scientific procedure carried out to support, refute, or validate a hypothesis",https://www.wikidata.org/wiki/Q101965
+Graduation project,implementation,Q245962,implementation,"realization of an application, or execution of a plan, idea, model, design, specification, standard, algorithm, or policy",https://www.wikidata.org/wiki/Q245962

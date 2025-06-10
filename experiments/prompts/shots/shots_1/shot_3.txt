@@ -1,0 +1,13 @@
+### Example 3:
+Course Title: Constraint Programming
+Program content description:
+"""
+Introduction: introduction to constraint programming; elementary review of the problems and applications of constraint programming. 
+Algebraic and logical foundations of defining constraints. Backtracking
+Depth-First Search strategy and its modifications.
+Types and definition of constraints; overview of selected predefined global constraints.
+MiniZinc language - modeling real problems
+"""
+Output:
+constraint programming; backtracking; Depth-First Search; MiniZinc; constraint (mathematics)
+

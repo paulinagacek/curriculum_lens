@@ -1,0 +1,23 @@
+### Example 2:
+Course Title: Fundamentals of data science
+Program content description:
+"""
+Hands-on illustration selected problems of data analysis:
+- Outlier detection
+- Data dimensionality reduction.
+- Cluster analysis.
+- Classification.
+- Recommender systems and text mining.
+Theoretical foundations of data science:
+- Introduction to Data Science - history and methodological background.
+- Typical workflow of data analysis.
+- Data preprocessing - data reduction, cleaning, handling missing elements.
+- Unsupervised learning - outlier detection and cluster analysis.
+- Classification and regression.
+- Recommender systems and text mining.
+- Big Data - a brief overview of issues and computational methods.
+Group projects aimed at familiarizing with real-world data science problems.
+"""
+
+Output:
+data analysis; outlier detection; dimensionality reduction; cluster analysis; classification; recommender system; text mining; data science; data preprocessing; unsupervised learning; big data

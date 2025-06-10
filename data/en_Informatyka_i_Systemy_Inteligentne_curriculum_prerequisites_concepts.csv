@@ -1,0 +1,25 @@
+course_name,prerequisites_concepts
+Linear Algebra and Analytic Geometry,"['geometric figure', 'elementary functions', 'polynomial', 'polynomial root', 'complex number']"
+Logic for IT specialists,"['set algebra', 'relational algebra', 'graph theory']"
+Introduction to Unix Systems,['programming basics']
+Physics 1,['differential calculus']
+Discrete mathematics,"['function (mathematics)', 'relation (mathematics)']"
+Programming Basics 2,"['c (programming language)', 'syntax', 'semantics', 'variable (programming)', 'function (mathematics)', 'compilation', 'linking (computing)', 'pointer (computer programming)', 'data type', 'structure (computer science)']"
+Algorithms and data structures,"['logic', 'set theory', 'matrix (mathematics)', 'graph (mathematics)', 'logarithm']"
+Operational research,"['matrix calculus', 'discrete mathematics', 'mathematical analysis']"
+Elements of modern physics,"['classical physics', 'mathematical analysis', 'probability theory']"
+Advanced programming 1,"['object-oriented programming', 'programming']"
+Fundamentals of artificial intelligence,"['logic', 'algebra', 'graph theory', 'declarative programming', 'python programming language', 'programming']"
+Databases,"['set algebra', 'relational algebra', 'logic', 'operating system']"
+Formal linguistics and automata,"['programming language', 'compilation', 'translation (computer science)', 'logic', 'set theory', 'relation (mathematics)', 'computational complexity']"
+Software Engineering,"['programming paradigm', 'programming process']"
+Advanced programming 2,['object-oriented programming']
+Compilation Theory and Compilers,"['generative grammar', 'parsing', 'automaton', 'tree (data structure)', 'graph (data structure)', 'logic']"
+Data Engineering,"['programming', 'database system']"
+Machine learning,"['probability theory', 'statistics', 'linear algebra', 'python programming']"
+Software development models,"['programming paradigm', 'requirements engineering', 'systems analysis', 'use case model']"
+Design studio 1,"['software analysis', 'software design', 'programming skill']"
+Internet of Things and Intelligent Embedded Systems,['computer network']
+Theory of Computation,"['logic', 'set theory']"
+Software Engineering Team Project,"['software analysis', 'software design', 'software development model', 'programming skill']"
+Design Studio 2,"['software analysis', 'software design', 'programming skill']"

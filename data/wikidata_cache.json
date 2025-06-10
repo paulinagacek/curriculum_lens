@@ -1,0 +1,5202 @@
+{
+  "linear algebra": {
+    "qid": "Q82571",
+    "label": "linear algebra",
+    "description": "branch of mathematics that studies vector spaces and linear transformations"
+  },
+  "matrix calculus": {
+    "qid": "Q29167",
+    "label": "matrix calculus",
+    "description": "specialized notation for multivariable calculus"
+  },
+  "analytic geometry": {
+    "qid": "Q134787",
+    "label": "analytic geometry",
+    "description": "study of geometry using a coordinate system"
+  },
+  "matrix theory": {
+    "qid": "Q2256206",
+    "label": "matrix theory",
+    "description": "area of mathematics, part of linear algebra"
+  },
+  "function (mathematics)": {
+    "qid": "Q11348",
+    "label": "function",
+    "description": "association of a single output to each input"
+  },
+  "injection (mathematics)": {
+    "qid": "Q182003",
+    "label": "injection",
+    "description": "mathematical function that preserves distinctness"
+  },
+  "surjection": {
+    "qid": "Q229102",
+    "label": "surjective function",
+    "description": "function such that every element of the codomain has a preimage"
+  },
+  "bijection": {
+    "qid": "Q180907",
+    "label": "bijection",
+    "description": "mathematical function which is a one-to-one mapping of sets"
+  },
+  "mathematical induction": {
+    "qid": "Q178377",
+    "label": "mathematical induction",
+    "description": "form of mathematical proof"
+  },
+  "real function": {
+    "qid": "Q5189500",
+    "label": "real-valued function",
+    "description": "function whose range is a subset of the real numbers"
+  },
+  "number sequence": {
+    "qid": "Q4516355",
+    "label": "number sequence",
+    "description": "mathematical datatype"
+  },
+  "limit (mathematics)": {
+    "qid": "Q177239",
+    "label": "limit",
+    "description": "value that a function (or sequence) approaches as the argument (or index) approaches some value"
+  },
+  "convergence (mathematics)": {
+    "qid": "Q1287023",
+    "label": "convergence",
+    "description": "mathematical concept"
+  },
+  "cauchy sequence": {
+    "qid": "Q217847",
+    "label": "cauchy sequence",
+    "description": "sequence whose elements become arbitrarily close to each other"
+  },
+  "infinitesimal": {
+    "qid": "Q193885",
+    "label": "infinitesimal",
+    "description": "nonzero positive ‘number’ smaller than any positive real number, formalizable in a number of ways (surreals, hyperreals etc.)"
+  },
+  "continuity (mathematics)": {
+    "qid": "Q12030090",
+    "label": "continuity",
+    "description": "lack of interruption or disconnection; the quality of being continuous in space or time"
+  },
+  "derivative": {
+    "qid": "Q29175",
+    "label": "derivative",
+    "description": "instantaneous rate of change (mathematics)"
+  },
+  "differential (calculus)": {
+    "qid": "Q149999",
+    "label": "differential calculus",
+    "description": "subfield of calculus"
+  },
+  "differentiation": {
+    "qid": "Q29175",
+    "label": "derivative",
+    "description": "instantaneous rate of change (mathematics)"
+  },
+  "mean value theorem": {
+    "qid": "Q3984001",
+    "label": "Cauchy's mean-value theorem",
+    "description": "theorem"
+  },
+  "rolle's theorem": {
+    "qid": "Q193286",
+    "label": "Rolle's theorem",
+    "description": "on stationary points between two equal values of a real differentiable function"
+  },
+  "l'hôpital's rule": {
+    "qid": "Q190557",
+    "label": "L'Hôpital's rule",
+    "description": "rule that uses derivatives to help evaluate limits involving indeterminate forms"
+  },
+  "extremum": {
+    "qid": "Q845060",
+    "label": "maxima and minima",
+    "description": "largest and smallest value taken by a function in a given range"
+  },
+  "taylor's theorem": {
+    "qid": "Q1137206",
+    "label": "Taylor's theorem",
+    "description": "approximation of a function by a truncated power series"
+  },
+  "concavity": {
+    "qid": "Q52927916",
+    "label": "concavity",
+    "description": "geometric property"
+  },
+  "convexity": {
+    "qid": "Q5533980",
+    "label": "geodesic convexity",
+    "description": "natural generalization of convexity for sets and functions to Riemannian manifolds"
+  },
+  "point of inflection": {
+    "qid": "Q212794",
+    "label": "inflection point",
+    "description": "point on a continuously differentiable plane curve at which the curve crosses its tangent, that is, the curve changes from being concave to convex, or vice versa"
+  },
+  "asymptote": {
+    "qid": "Q179436",
+    "label": "asymptote",
+    "description": "regarding a curve, a line such that the distance between the curve and the line approaches 0 as x→∞ or y→∞"
+  },
+  "integral": {
+    "qid": "Q80091",
+    "label": "integral",
+    "description": "operation in calculus"
+  },
+  "integration by parts": {
+    "qid": "Q18615173",
+    "label": "Integration by Parts",
+    "description": "1201st strip of the webcomic xkcd"
+  },
+  "rational function": {
+    "qid": "Q41237",
+    "label": "rational function",
+    "description": "ratio of polynomial functions"
+  },
+  "riemann integral": {
+    "qid": "Q697181",
+    "label": "Riemann integral",
+    "description": "basic type of integral in elementary calculus"
+  },
+  "monotonic function": {
+    "qid": "Q194404",
+    "label": "monotonic function",
+    "description": "function between ordered sets that preserves or reverses the given order"
+  },
+  "series (mathematics)": {
+    "qid": "Q464100",
+    "label": "harmonic series",
+    "description": "infinite series of the reciprocals of the positive integers"
+  },
+  "convergence test": {
+    "qid": "Q479834",
+    "label": "Abel's test",
+    "description": "convergence test"
+  },
+  "cauchy product": {
+    "qid": "Q1051404",
+    "label": "Cauchy product",
+    "description": "concept in mathematics"
+  },
+  "uniform convergence": {
+    "qid": "Q1411887",
+    "label": "uniform convergence",
+    "description": "mode of convergence of a function sequence"
+  },
+  "power series": {
+    "qid": "Q206925",
+    "label": "power series",
+    "description": "infinite sum of monomials"
+  },
+  "analytic function": {
+    "qid": "Q215084",
+    "label": "analytic function",
+    "description": "function that is locally given by a convergent power series"
+  },
+  "orthogonal series": {
+    "qid": "Q7104524",
+    "label": "Orthogonal",
+    "description": "novel series by Greg Egan"
+  },
+  "fourier series": {
+    "qid": "Q179467",
+    "label": "Fourier series",
+    "description": "decomposition of periodic functions into sums of simpler sinusoidal forms"
+  },
+  "bessel's inequality": {
+    "qid": "Q794042",
+    "label": "Bessel's inequality",
+    "description": "theorem"
+  },
+  "parseval's identity": {
+    "qid": "Q944238",
+    "label": "Parseval's identity",
+    "description": "mathematical concept"
+  },
+  "differentiability": {
+    "qid": "Q2138760",
+    "label": "differentiability class",
+    "description": "classification of functions according to the properties of their derivatives"
+  },
+  "frechet derivative": {
+    "qid": "Q1305350",
+    "label": "Fréchet derivative",
+    "description": "a derivative defined on normed spaces"
+  },
+  "gradient": {
+    "qid": "Q173582",
+    "label": "gradient",
+    "description": "multi-variable generalization of the derivative"
+  },
+  "partial derivative": {
+    "qid": "Q186475",
+    "label": "partial derivative",
+    "description": "derivative of a function of several variables with respect to one variable, with the others held constant"
+  },
+  "jacobi matrix": {
+    "qid": "Q506041",
+    "label": "Jacobian matrix",
+    "description": "the matrix of all first-order partial derivatives of a vector-valued function"
+  },
+  "implicit function theorem": {
+    "qid": "Q848375",
+    "label": "implicit function theorem",
+    "description": "theorem that, under a mild condition on the partial derivatives, the set of zeros of a system of equations is locally the graph of a function"
+  },
+  "schwarz's theorem": {
+    "qid": "Q3984032",
+    "label": "Pohlke's theorem",
+    "description": "theorem in descriptive geometry"
+  },
+  "lagrange multiplier": {
+    "qid": "Q598870",
+    "label": "Lagrange multiplier",
+    "description": "a method to solve constrained optimization problems"
+  },
+  "double integral": {
+    "qid": "Q21279440",
+    "label": "double integral symbol",
+    "description": "mathematical symbol"
+  },
+  "jordan measure": {
+    "qid": "Q1703597",
+    "label": "Jordan measure",
+    "description": "an extension of the notion of size (length, area, volume) to shapes more complicated than, for example, a triangle, disk, or parallelepiped"
+  },
+  "iterated integral": {
+    "qid": "Q6094400",
+    "label": "iterated integral",
+    "description": "type of integral of functions of multiple variables"
+  },
+  "polar coordinate system": {
+    "qid": "Q62494",
+    "label": "polar coordinate system",
+    "description": "two-dimensional coordinate system where each point is determined by a distance from reference point and an angle from a reference direction"
+  },
+  "spherical coordinate system": {
+    "qid": "Q203218",
+    "label": "spherical coordinate system",
+    "description": "coordinate system based around angle and distance from the origin"
+  },
+  "cylindrical coordinate system": {
+    "qid": "Q211851",
+    "label": "cylindrical coordinate system",
+    "description": "three-dimensional orthogonal coordinate system"
+  },
+  "line integral": {
+    "qid": "Q467699",
+    "label": "line integral",
+    "description": "definite integral of a scalar or vector field along a path"
+  },
+  "green's theorem": {
+    "qid": "Q321237",
+    "label": "Green's theorem",
+    "description": "theorem"
+  },
+  "surface integral": {
+    "qid": "Q598146",
+    "label": "surface integral",
+    "description": "generalization of a multiple integral to (possibly)-curved surfaces"
+  },
+  "gauss-ostrogradski theorem": {
+    "qid": "Q338886",
+    "label": "divergence theorem",
+    "description": "generalization of the fundamental theorem in vector calculus"
+  },
+  "stokes' theorem": {
+    "qid": "Q467756",
+    "label": "Stokes' theorem",
+    "description": "theorem in vector calculus"
+  },
+  "computer science": {
+    "qid": "Q21198",
+    "label": "computer science",
+    "description": "study of computation"
+  },
+  "algorithm": {
+    "qid": "Q8366",
+    "label": "algorithm",
+    "description": "sequence of instructions to perform a task"
+  },
+  "computational complexity": {
+    "qid": "Q5157286",
+    "label": "computational complexity",
+    "description": "measure of the amount of resources needed to run an algorithm or solve a computational problem"
+  },
+  "formal language": {
+    "qid": "Q192161",
+    "label": "formal language",
+    "description": "set of strings of symbols that may be constrained by rules that are specific to it; words whose letters are taken from an alphabet and are well-formed according to a specific set of rules"
+  },
+  "formal grammar": {
+    "qid": "Q373045",
+    "label": "formal grammar",
+    "description": "structure of a formal language"
+  },
+  "chomsky hierarchy": {
+    "qid": "Q190913",
+    "label": "Chomsky hierarchy",
+    "description": "containment hierarchy of classes of formal grammars"
+  },
+  "grammatical parsing": {
+    "qid": "Q126084811",
+    "label": "BLLIP Parser",
+    "description": "BLLIP Parser (or Charniak-Johnson parser) is a statistical natural language parser for analyzing text to determine its grammatical structure"
+  },
+  "compiler": {
+    "qid": "Q47506",
+    "label": "compiler",
+    "description": "computer program that transforms source code into object code"
+  },
+  "programming paradigm": {
+    "qid": "Q188267",
+    "label": "programming paradigm",
+    "description": "category of programming languages according to what methodology of designing and implementing programs their features support"
+  },
+  "information theory": {
+    "qid": "Q131222",
+    "label": "information theory",
+    "description": "mathematical theory from the field of probability theory and statistics"
+  },
+  "entropy": {
+    "qid": "Q204570",
+    "label": "information entropy",
+    "description": "expected value of the amount of information delivered by a message"
+  },
+  "data compression": {
+    "qid": "Q2493",
+    "label": "data compression",
+    "description": "process of encoding information using fewer bits than the original representation"
+  },
+  "shannon coding": {
+    "qid": "Q11740845",
+    "label": "Shannon coding",
+    "description": "Shannon coding"
+  },
+  "fano coding": {
+    "qid": "Q2645",
+    "label": "Shannon–Fano coding",
+    "description": "technique for constructing a prefix code"
+  },
+  "huffman coding": {
+    "qid": "Q2647",
+    "label": "Huffman coding",
+    "description": "entropy encoding algorithm used for lossless data compression"
+  },
+  "channel capacity": {
+    "qid": "Q106505959",
+    "label": "channel capacity per character",
+    "description": "maximum of the character mean transinformation content"
+  },
+  "kolmogorov complexity": {
+    "qid": "Q1456811",
+    "label": "Kolmogorov complexity",
+    "description": "measure of algorithmic complexity"
+  },
+  "computer network": {
+    "qid": "Q1301371",
+    "label": "computer network",
+    "description": "network that allows computers to share resources and communicate with each other"
+  },
+  "network topology": {
+    "qid": "Q145490",
+    "label": "network topology",
+    "description": "arrangement of the various elements of a computer network; topological structure of a network and may be depicted physically or logically"
+  },
+  "ethernet": {
+    "qid": "Q79984",
+    "label": "Ethernet",
+    "description": "family of wired computer networking technologies commonly used in local area networks (LAN), metropolitan area networks (MAN) and wide area networks (WAN)"
+  },
+  "wifi": {
+    "qid": "Q29643",
+    "label": "Wi-Fi",
+    "description": "family of wireless network protocols, based on IEEE's 802.11 standards"
+  },
+  "bluetooth": {
+    "qid": "Q39531",
+    "label": "Bluetooth",
+    "description": "short-distance wireless communication protocol"
+  },
+  "osi model": {
+    "qid": "Q93312",
+    "label": "OSI model",
+    "description": "model with 7 layers to describe communication systems"
+  },
+  "network protocol": {
+    "qid": "Q15836568",
+    "label": "computer network protocol",
+    "description": "communications protocol used by data networks"
+  },
+  "application programming": {
+    "qid": "Q165194",
+    "label": "application programming interface",
+    "description": "software interface between computers and/or programs"
+  },
+  "modeling": {
+    "qid": "Q1116876",
+    "label": "scientific modeling",
+    "description": "scientific activity"
+  },
+  "simulation": {
+    "qid": "Q1610017",
+    "label": "simulation video game",
+    "description": "video game genre"
+  },
+  "embedded system": {
+    "qid": "Q193040",
+    "label": "embedded system",
+    "description": "computer system with a dedicated function within a larger mechanical or electrical system."
+  },
+  "ubiquitous computing": {
+    "qid": "Q541265",
+    "label": "ubiquitous computing",
+    "description": "concept in software engineering and computer science"
+  },
+  "multimedia system": {
+    "qid": "Q380671",
+    "label": "XMMS",
+    "description": "Winamp-like musicplayer for *nix"
+  },
+  "regular language": {
+    "qid": "Q752532",
+    "label": "regular language",
+    "description": "formal language that can be expressed using a regular expression"
+  },
+  "context-free language": {
+    "qid": "Q729271",
+    "label": "context-free language",
+    "description": "formal language that is a member of the set of languages defined by context-free grammars"
+  },
+  "logic": {
+    "qid": "Q8078",
+    "label": "logic",
+    "description": "study of correct reasoning"
+  },
+  "syntax": {
+    "qid": "Q37437",
+    "label": "syntax",
+    "description": "linguistic field that studies the inner structure of sentences"
+  },
+  "semantics": {
+    "qid": "Q39645",
+    "label": "semantics",
+    "description": "study of meaning of linguistic forms (words, phrases, etc.)"
+  },
+  "interpretation": {
+    "qid": "Q210439",
+    "label": "interpretation",
+    "description": "facilitating of oral or sign-language communication between users of different languages"
+  },
+  "model (logic)": {
+    "qid": "Q17067742",
+    "label": "logic model",
+    "description": "method of depicting causal relationships"
+  },
+  "deduction": {
+    "qid": "Q484284",
+    "label": "deductive reasoning",
+    "description": "method of reasoning by which premises understood to be true produce logically certain conclusions"
+  },
+  "logical consequence": {
+    "qid": "Q374182",
+    "label": "logical consequence",
+    "description": "fundamental concept in logic"
+  },
+  "hypothesis": {
+    "qid": "Q41719",
+    "label": "hypothesis",
+    "description": "proposed explanation for an observation, phenomenon, or scientific problem"
+  },
+  "theorem": {
+    "qid": "Q65943",
+    "label": "theorem",
+    "description": "in mathematics, a statement that has been proved"
+  },
+  "tautology": {
+    "qid": "Q209555",
+    "label": "tautology",
+    "description": "logical formula which is true in every possible interpretation"
+  },
+  "inference": {
+    "qid": "Q408386",
+    "label": "inference",
+    "description": "act or process of deriving logical conclusions from premises known or assumed to be true"
+  },
+  "abduction": {
+    "qid": "Q143716",
+    "label": "Abduction",
+    "description": "2011 film directed by John Singleton"
+  },
+  "induction": {
+    "qid": "Q178377",
+    "label": "mathematical induction",
+    "description": "form of mathematical proof"
+  },
+  "propositional calculus": {
+    "qid": "Q200694",
+    "label": "propositional calculus",
+    "description": "branch of logic concerned with the study of propositions (whether they are true or false) that are formed by other propositions with the use of logical connectives, and how their value depends on the truth value of their components"
+  },
+  "conjunctive normal form": {
+    "qid": "Q846564",
+    "label": "conjunctive normal form",
+    "description": "concept in Boolean logic"
+  },
+  "disjunctive normal form": {
+    "qid": "Q903789",
+    "label": "disjunctive normal form",
+    "description": "concept in Boolean logic"
+  },
+  "negation normal form": {
+    "qid": "Q1640479",
+    "label": "negation normal form",
+    "description": "term"
+  },
+  "implicant": {
+    "qid": "Q1291626",
+    "label": "Implicant",
+    "description": "\"covering\" of one or more minterms in a sum of products of a boolean function in Boolean logic"
+  },
+  "rule of inference": {
+    "qid": "Q1068763",
+    "label": "rule of inference",
+    "description": "systematic logical process capable of deriving a conclusion from hypotheses"
+  },
+  "decision tree": {
+    "qid": "Q831366",
+    "label": "decision tree",
+    "description": "decision support tool"
+  },
+  "ordered binary decision diagram": {
+    "qid": "Q864155",
+    "label": "binary decision diagram",
+    "description": "data structure"
+  },
+  "satisfiability": {
+    "qid": "Q875276",
+    "label": "boolean satisfiability problem",
+    "description": "problem of determining if a Boolean formula could be made true"
+  },
+  "sat problem": {
+    "qid": "Q875276",
+    "label": "boolean satisfiability problem",
+    "description": "problem of determining if a Boolean formula could be made true"
+  },
+  "predicate calculus": {
+    "qid": "Q4055684",
+    "label": "first-order logic",
+    "description": "collection of formal systems used in mathematics, philosophy, linguistics, and computer science"
+  },
+  "attribute logic": {
+    "qid": "Q123751977",
+    "label": "attribute blocks",
+    "description": "blocks of varying size, thickness, color, and shape used to teach logic"
+  },
+  "decision table": {
+    "qid": "Q747762",
+    "label": "decision table",
+    "description": "concise visual representation for specifying which actions to perform depending on given conditions"
+  },
+  "rule-based system": {
+    "qid": "Q1417149",
+    "label": "rule-based system",
+    "description": "curated rule set to store and manipulate knowledge and interpret information"
+  },
+  "automatic theorem proving": {
+    "qid": "Q7912960",
+    "label": "Vampire theorem prover",
+    "description": "automatic theorem prover"
+  },
+  "resolution (logic)": {
+    "qid": "Q1051925",
+    "label": "resolution",
+    "description": "in logic, rule of inference"
+  },
+  "substitution (logic)": {
+    "qid": "Q1522579",
+    "label": "substitution",
+    "description": "concept in logic; syntactic transformation on formal expressions"
+  },
+  "unification (computer science)": {
+    "qid": "Q609057",
+    "label": "unification",
+    "description": "algorithmic process of solving equations between symbolic expressions"
+  },
+  "skolemization": {
+    "qid": "Q64224457",
+    "label": "skolemization",
+    "description": "method for obtaining Skolem normal form"
+  },
+  "logical programming": {
+    "qid": "Q120971454",
+    "label": "inductive logical programming",
+    "description": "area of research"
+  },
+  "prolog": {
+    "qid": "Q163468",
+    "label": "Prolog",
+    "description": "programming language that uses first order logic"
+  },
+  "multi-valued logic": {
+    "qid": "Q185502",
+    "label": "many-valued logic",
+    "description": "propositional calculus in which there are more than two truth values"
+  },
+  "fuzzy logic": {
+    "qid": "Q224821",
+    "label": "fuzzy logic",
+    "description": "system for reasoning about vagueness"
+  },
+  "modal logic": {
+    "qid": "Q210841",
+    "label": "modal logic",
+    "description": "formal logic able to express concepts such as necessity, possibility, provability, obligation, knowledge etc."
+  },
+  "temporal logic": {
+    "qid": "Q781833",
+    "label": "temporal logic",
+    "description": "system for representing and reasoning about time"
+  },
+  "quantifier": {
+    "qid": "Q592911",
+    "label": "quantifier",
+    "description": "logical operator specifying how many entities in the domain of discourse that satisfy an open formula"
+  },
+  "predicate": {
+    "qid": "Q179080",
+    "label": "predicate",
+    "description": "sentence constituent"
+  },
+  "first-order logic": {
+    "qid": "Q4055684",
+    "label": "first-order logic",
+    "description": "collection of formal systems used in mathematics, philosophy, linguistics, and computer science"
+  },
+  "c": {
+    "qid": "Q15777",
+    "label": "C",
+    "description": "general-purpose programming language"
+  },
+  "variable (programming)": {
+    "qid": "Q25203375",
+    "label": "control variable",
+    "description": "regulates the flow of control of a program"
+  },
+  "variable scope": {
+    "qid": "Q1143344",
+    "label": "global variable",
+    "description": "variable in a computer program that is visible throughout the program, unless shadowed"
+  },
+  "pointer (computer programming)": {
+    "qid": "Q118155",
+    "label": "pointer",
+    "description": "type which stores memory addresses in a computer program"
+  },
+  "operator (programming)": {
+    "qid": "Q1206110",
+    "label": "program operator",
+    "description": "construct used in computer programming, often associated to a mathematical operation"
+  },
+  "control flow": {
+    "qid": "Q868299",
+    "label": "control flow",
+    "description": "order in which individual statements, instructions or function calls of an imperative program are executed or evaluated"
+  },
+  "function (programming)": {
+    "qid": "Q5426980",
+    "label": "FP84",
+    "description": "programming language to support the function-level paradigm"
+  },
+  "recursion": {
+    "qid": "Q179976",
+    "label": "recursion",
+    "description": "process of repeating items in a self-similar way"
+  },
+  "array data structure": {
+    "qid": "Q186152",
+    "label": "array data structure",
+    "description": "data structure holding elements in a contiguous memory block"
+  },
+  "string (computer science)": {
+    "qid": "Q184754",
+    "label": "string",
+    "description": "data type representing a finite sequence of encoded characters"
+  },
+  "structure (computer science)": {
+    "qid": "Q175263",
+    "label": "data structure",
+    "description": "particular way of storing and organizing data in a computer"
+  },
+  "dynamic memory allocation": {
+    "qid": "Q1061927",
+    "label": "dynamic memory allocation",
+    "description": "the allocation of memory storage for use in a computer program during runtime"
+  },
+  "list": {
+    "qid": "Q12139612",
+    "label": "list",
+    "description": "set of discrete items of information"
+  },
+  "tree data structure": {
+    "qid": "Q223655",
+    "label": "tree",
+    "description": "abstract data type"
+  },
+  "library (computing)": {
+    "qid": "Q188860",
+    "label": "software library",
+    "description": "collection of non-volatile resources used by computer programs, often for software development"
+  },
+  "shell": {
+    "qid": "Q154950",
+    "label": "Shell",
+    "description": "British multinational oil and gas company"
+  },
+  "bash": {
+    "qid": "Q189248",
+    "label": "GNU Bash",
+    "description": "GNU Project implementation of the standard Unix shell"
+  },
+  "regular expression": {
+    "qid": "Q185612",
+    "label": "regular expression",
+    "description": "sequence of characters that forms a search pattern"
+  },
+  "data processing": {
+    "qid": "Q6661985",
+    "label": "data processing",
+    "description": "any process that uses a computer program to enter data and summarise, analyse or otherwise convert data into usable information"
+  },
+  "networking": {
+    "qid": "Q3220391",
+    "label": "social networking service",
+    "description": "online platform that facilitates the building of social relations"
+  },
+  "vi": {
+    "qid": "Q214743",
+    "label": "vi",
+    "description": "keyboard-oriented text editor"
+  },
+  "emacs": {
+    "qid": "Q1252773",
+    "label": "GNU Emacs",
+    "description": "GNU version of the Emacs text editor"
+  },
+  "make": {
+    "qid": "Q300867",
+    "label": "make",
+    "description": "standard UNIX utility and programming language for build automation"
+  },
+  "programming": {
+    "qid": "Q80006",
+    "label": "computer programming",
+    "description": "the process of designing and building an executable computer program to accomplish a specific computing result or to perform a specific task"
+  },
+  "process (computing)": {
+    "qid": "Q205663",
+    "label": "process",
+    "description": "particular execution of a computer program"
+  },
+  "thread (computing)": {
+    "qid": "Q213092",
+    "label": "thread",
+    "description": "smallest sequence of programmed instructions that can be managed independently by a scheduler"
+  },
+  "debugging": {
+    "qid": "Q845566",
+    "label": "debugging",
+    "description": "process of finding and resolving defects or problems within a computer program"
+  },
+  "version control": {
+    "qid": "Q189439",
+    "label": "version control",
+    "description": "activity of managing the versions of one or more files"
+  },
+  "file system": {
+    "qid": "Q174989",
+    "label": "file system",
+    "description": "concrete format or program for storing files and directories on a data storage device"
+  },
+  "process management": {
+    "qid": "Q14167904",
+    "label": "process management",
+    "description": "ensemble of activities of planning and monitoring the performance of a process"
+  },
+  "inter-process communication": {
+    "qid": "Q751436",
+    "label": "inter-process communication",
+    "description": "mechanisms an operating system provides to allow the processes to manage shared data"
+  },
+  "combinational circuit": {
+    "qid": "Q76505",
+    "label": "combinational logic",
+    "description": "type of digital logic which is implemented by boolean circuits"
+  },
+  "logic gate": {
+    "qid": "Q170451",
+    "label": "logic gate",
+    "description": "computational equipment, physical or theoretical, that performs a boolean logic function"
+  },
+  "arithmetic circuit": {
+    "qid": "Q121565213",
+    "label": "Arithmetic circuit",
+    "description": "US patent 11327716"
+  },
+  "encoder": {
+    "qid": "Q5392830",
+    "label": "encoder",
+    "description": "encoder in digital electronics, a one-hot to binary converter"
+  },
+  "decoder": {
+    "qid": "Q745243",
+    "label": "decoder",
+    "description": "device which reverses the operation of an encoder"
+  },
+  "multiplexer": {
+    "qid": "Q189434",
+    "label": "multiplexer",
+    "description": "electronic circuit that selects one of its several input signals and forwards it into a single output line"
+  },
+  "demultiplexer": {
+    "qid": "Q5256428",
+    "label": "demultiplexer",
+    "description": "type of software"
+  },
+  "rom": {
+    "qid": "Q160710",
+    "label": "read-only memory",
+    "description": "non-volatile memory used in computers and other electronic devices; class of storage medium used in computers and other electronic devices"
+  },
+  "flip-flop": {
+    "qid": "Q183406",
+    "label": "flip-flop",
+    "description": "circuit that has two stable states and can be used to store state information"
+  },
+  "register": {
+    "qid": "Q286576",
+    "label": "register",
+    "description": "form of language used for a particular purpose or in a particular communicative situation"
+  },
+  "counter": {
+    "qid": "Q247299",
+    "label": "counter",
+    "description": "device which stores the number of times a particular event or process has occurred"
+  },
+  "ram": {
+    "qid": "Q5295",
+    "label": "random-access memory",
+    "description": "form of computer data storage"
+  },
+  "vhdl": {
+    "qid": "Q209455",
+    "label": "VHDL",
+    "description": "Hardware Description Language"
+  },
+  "fpga": {
+    "qid": "Q190411",
+    "label": "field-programmable gate array",
+    "description": "integrated circuit designed to be configured by a customer or a designer after manufacturing"
+  },
+  "electronic schematic": {
+    "qid": "Q29000872",
+    "label": "schematic diagram",
+    "description": "style of circuit diagrams, shows the components and interconnections of the circuit using standardized symbolic representations"
+  },
+  "alu": {
+    "qid": "Q447277",
+    "label": "Alu",
+    "description": "mountain"
+  },
+  "computer architecture": {
+    "qid": "Q173212",
+    "label": "computer architecture",
+    "description": "set of rules and methods that describe the functionality, organization and implementation of computer systems"
+  },
+  "parallel processing": {
+    "qid": "Q7134969",
+    "label": "Parallel Processing",
+    "description": "Parallel processing in digital signal processing"
+  },
+  "latex": {
+    "qid": "Q5310",
+    "label": "LaTeX",
+    "description": "document markup language"
+  },
+  "document class": {
+    "qid": "Q107478770",
+    "label": "document genre",
+    "description": "type or class of documents"
+  },
+  "bibliography": {
+    "qid": "Q134995",
+    "label": "bibliography",
+    "description": "academic discipline that studies books"
+  },
+  "version control system": {
+    "qid": "Q3257930",
+    "label": "version control system",
+    "description": "system to store and manage changes in the source code for a given software or in other media"
+  },
+  "git": {
+    "qid": "Q186055",
+    "label": "Git",
+    "description": "distributed version control system"
+  },
+  "subversion": {
+    "qid": "Q46794",
+    "label": "Apache Subversion",
+    "description": "advanced version control system"
+  },
+  "knowledge base": {
+    "qid": "Q593744",
+    "label": "knowledge base",
+    "description": "information repository with multiple applications"
+  },
+  "wiki": {
+    "qid": "Q171",
+    "label": "wiki",
+    "description": "type of website that visitors can edit"
+  },
+  "kanban": {
+    "qid": "Q18979",
+    "label": "kanban",
+    "description": "scheduling system / stock replenishment for lean manufacturing and just-in-time manufacturing (JIT)"
+  },
+  "scrum": {
+    "qid": "Q460387",
+    "label": "scrum",
+    "description": "Agile software development framework"
+  },
+  "physics": {
+    "qid": "Q413",
+    "label": "physics",
+    "description": "study of matter and its motion, along with related concepts such as energy and force"
+  },
+  "differential calculus": {
+    "qid": "Q149999",
+    "label": "differential calculus",
+    "description": "subfield of calculus"
+  },
+  "integral calculus": {
+    "qid": "Q150008",
+    "label": "integral calculus",
+    "description": "subfield of calculus"
+  },
+  "vector calculus": {
+    "qid": "Q200802",
+    "label": "vector calculus",
+    "description": "calculus of vector-valued functions"
+  },
+  "si unit": {
+    "qid": "Q61610698",
+    "label": "SI unit",
+    "description": "unit in the International System of Units"
+  },
+  "scalar (physics)": {
+    "qid": "Q181175",
+    "label": "scalar quantity",
+    "description": "quantity represented by a scalar: quantity having no direction"
+  },
+  "vector (physics)": {
+    "qid": "Q13471665",
+    "label": "vector",
+    "description": "element of a vector space"
+  },
+  "kinematics": {
+    "qid": "Q11476",
+    "label": "kinematics",
+    "description": "branch of physics describing the motion of objects or groups of objects without considering its cause"
+  },
+  "curvilinear motion": {
+    "qid": "Q6025295",
+    "label": "curvilinear motion",
+    "description": "motion of an object in a curved path"
+  },
+  "position vector": {
+    "qid": "Q192388",
+    "label": "position vector",
+    "description": "vector representing the position of a point with respect to a given origin and axes"
+  },
+  "displacement (vector)": {
+    "qid": "Q190291",
+    "label": "displacement",
+    "description": "vector that is the shortest distance from the initial to the final position of a point P"
+  },
+  "velocity": {
+    "qid": "Q11465",
+    "label": "velocity",
+    "description": "rate of change of the position of an object as a function of time, and the direction of that change"
+  },
+  "acceleration": {
+    "qid": "Q11376",
+    "label": "acceleration",
+    "description": "rate at which the magnitude and/or direction of velocity changes with time"
+  },
+  "circular motion": {
+    "qid": "Q715746",
+    "label": "circular motion",
+    "description": "object movement along a circular path"
+  },
+  "free fall": {
+    "qid": "Q2597841",
+    "label": "Free Fall",
+    "description": "amusement ride at Attractiepark Slagharen"
+  },
+  "dynamics": {
+    "qid": "Q128030",
+    "label": "dynamics",
+    "description": "branch of mechanics studying forces and their effect on motion"
+  },
+  "newton's laws of motion": {
+    "qid": "Q38433",
+    "label": "Newton's laws of motion",
+    "description": "classical formulation of Mechanics by Isaac Newton"
+  },
+  "mass": {
+    "qid": "Q11423",
+    "label": "mass",
+    "description": "property of matter to resist changes of the state of motion and to attract other bodies"
+  },
+  "weight": {
+    "qid": "Q620876",
+    "label": "human body weight",
+    "description": "person's mass or weight"
+  },
+  "friction": {
+    "qid": "Q82580",
+    "label": "friction",
+    "description": "force resisting the relative motion of solid surfaces, fluid layers, and material elements sliding against each other"
+  },
+  "inertial frame of reference": {
+    "qid": "Q192735",
+    "label": "inertial frame of reference",
+    "description": "frame of reference not undergoing acceleration"
+  },
+  "non-inertial frame of reference": {
+    "qid": "Q829564",
+    "label": "non-inertial reference frame",
+    "description": "frame of reference"
+  },
+  "centrifugal force": {
+    "qid": "Q30950932",
+    "label": "Centrifugal Force",
+    "description": "2016 studio album by Faith Yang"
+  },
+  "coriolis effect": {
+    "qid": "Q169973",
+    "label": "Coriolis force",
+    "description": "apparent or fictitious force on objects moving within a reference frame that rotates with respect to an inertial frame"
+  },
+  "work (physics)": {
+    "qid": "Q42213",
+    "label": "work",
+    "description": "energy transferred to an object via the application of force on it through a displacement"
+  },
+  "power (physics)": {
+    "qid": "Q25342",
+    "label": "power",
+    "description": "rate at which energy is transferred, used, or transformed"
+  },
+  "energy": {
+    "qid": "Q11379",
+    "label": "energy",
+    "description": "quantitative property of a physical system, recognizable in the performance of work and in the form of heat and light"
+  },
+  "kinetic energy": {
+    "qid": "Q46276",
+    "label": "kinetic energy",
+    "description": "energy of a moving physical body"
+  },
+  "potential energy": {
+    "qid": "Q155640",
+    "label": "potential energy",
+    "description": "energy held by an object because of its position relative to other objects or stresses within itself, rather than its velocity"
+  },
+  "conservative force": {
+    "qid": "Q822938",
+    "label": "conservative force",
+    "description": "force with the property that the work done in moving a particle between two points is independent of the path taken"
+  },
+  "principle of conservation of energy": {
+    "qid": "Q121362934",
+    "label": "Conservation Principle of Energy",
+    "description": "thematic unit of the Physics curriculum in basic education in Uruguay"
+  },
+  "center of mass": {
+    "qid": "Q2945123",
+    "label": "center of mass",
+    "description": "unique point where the weighted relative position of a distributed mass sums to zero"
+  },
+  "gravity": {
+    "qid": "Q11412",
+    "label": "gravity",
+    "description": "fundamental interaction affecting all matter"
+  },
+  "gravitational field": {
+    "qid": "Q558066",
+    "label": "gravitational field",
+    "description": "direction and intensity of gravity in every point of space"
+  },
+  "gravitational potential": {
+    "qid": "Q1544012",
+    "label": "gravitational potential",
+    "description": "scalar potential that describes a gravitational field"
+  },
+  "gauss's law": {
+    "qid": "Q173356",
+    "label": "Gauss's law",
+    "description": "foundational law of electromagnetism"
+  },
+  "kepler's laws of planetary motion": {
+    "qid": "Q122928282",
+    "label": "Kepler's first law",
+    "description": "physica law that planetary orbits are ellipses with the Sun at one focus"
+  },
+  "gravitational acceleration": {
+    "qid": "Q30006",
+    "label": "gravitational acceleration",
+    "description": "acceleration of an object caused by gravity"
+  },
+  "rigid body dynamics": {
+    "qid": "Q2037529",
+    "label": "rigid body dynamics",
+    "description": "study of systems of undeformable bodies under applied forces and how they change with time"
+  },
+  "moment of inertia": {
+    "qid": "Q165618",
+    "label": "moment of inertia",
+    "description": "scalar measure of the rotational inertia with respect to a fixed axis of rotation"
+  },
+  "steiner's theorem": {
+    "qid": "Q1186134",
+    "label": "Poncelet–Steiner theorem",
+    "description": "theorem"
+  },
+  "vibration": {
+    "qid": "Q3695508",
+    "label": "vibration",
+    "description": "mechanical phenomenon whereby oscillations occur about an equilibrium point; precisely used to describe mechanical oscillation"
+  },
+  "harmonic oscillator": {
+    "qid": "Q190070",
+    "label": "harmonic oscillator",
+    "description": "physical system that responds to a restoring force inversely proportional to displacement"
+  },
+  "stress (mechanics)": {
+    "qid": "Q206175",
+    "label": "mechanical stress",
+    "description": "physical quantity that expresses internal forces in a continuous material"
+  },
+  "strain (mechanics)": {
+    "qid": "Q1990546",
+    "label": "linear strain",
+    "description": "relative change of length with respect the original length"
+  },
+  "hooke's law": {
+    "qid": "Q170282",
+    "label": "Hooke's law",
+    "description": "empirical physical law of mechanics that the force on a spring is proportional to its displacement"
+  },
+  "damped oscillation": {
+    "qid": "Q17088349",
+    "label": "Vacuum Rabi oscillation",
+    "description": "damped oscillation in quantum optics"
+  },
+  "resonance": {
+    "qid": "Q898756",
+    "label": "surface plasmon resonance",
+    "description": "physical phenomenon of electron resonance"
+  },
+  "pendulum": {
+    "qid": "Q20702",
+    "label": "pendulum",
+    "description": "suspended weight capable of swinging freely from a pivot"
+  },
+  "mechanical wave": {
+    "qid": "Q1132631",
+    "label": "mechanical wave",
+    "description": "wave which is an oscillation of matter"
+  },
+  "wave equation": {
+    "qid": "Q193846",
+    "label": "wave equation",
+    "description": "second-order linear differential equation important in physics"
+  },
+  "standing wave": {
+    "qid": "Q123300",
+    "label": "standing wave",
+    "description": "wave that remains in a constant position"
+  },
+  "acoustics": {
+    "qid": "Q82811",
+    "label": "acoustics",
+    "description": "science that deals with the study of all mechanical waves in gases, liquids, and solids including vibration, sound, ultrasound and infrasound"
+  },
+  "doppler effect": {
+    "qid": "Q76436",
+    "label": "Doppler effect",
+    "description": "frequency change of a wave for observer relative to its source"
+  },
+  "hydrostatics": {
+    "qid": "Q177807",
+    "label": "hydrostatics",
+    "description": "branch of fluid mechanics that studies fluids at rest"
+  },
+  "hydrodynamics": {
+    "qid": "Q12016129",
+    "label": "hydrodynamics",
+    "description": "study of fluids in motion"
+  },
+  "pressure": {
+    "qid": "Q39552",
+    "label": "pressure",
+    "description": "force applied over an area"
+  },
+  "pascal's law": {
+    "qid": "Q190760",
+    "label": "Pascal's law",
+    "description": "principle in fluid mechanics"
+  },
+  "archimedes' principle": {
+    "qid": "Q181404",
+    "label": "Archimedes' principle",
+    "description": "law of physics fundamental to fluid mechanics"
+  },
+  "bernoulli's principle": {
+    "qid": "Q181328",
+    "label": "Bernoulli's principle",
+    "description": "principle relating to fluid dynamics"
+  },
+  "viscosity": {
+    "qid": "Q128709",
+    "label": "viscosity",
+    "description": "resistance of a fluid to shear deformation"
+  },
+  "kinetic theory of gases": {
+    "qid": "Q200286",
+    "label": "kinetic theory",
+    "description": "mathematical model explaining macroscopic properties of gases in microscopic terms"
+  },
+  "thermodynamics": {
+    "qid": "Q11473",
+    "label": "thermodynamics",
+    "description": "branch of physics concerned with heat, work, temperature, and thermal or internal energy"
+  },
+  "internal energy": {
+    "qid": "Q180241",
+    "label": "internal energy",
+    "description": "energy contained in a system, excluding energy due to its position as a body in external force fields or its overall motion"
+  },
+  "equation of state": {
+    "qid": "Q214967",
+    "label": "equation of state",
+    "description": "equation describing the state of matter under a given set of physical conditions"
+  },
+  "maxwell distribution": {
+    "qid": "Q634965",
+    "label": "Maxwell–Boltzmann distribution",
+    "description": "specific probability distribution function, important in physics"
+  },
+  "specific heat capacity": {
+    "qid": "Q487756",
+    "label": "specific heat capacity",
+    "description": "intensive quantity, heat capacity per mass"
+  },
+  "molar heat capacity": {
+    "qid": "Q2937190",
+    "label": "molar heat capacity",
+    "description": "intensive quantity, heat capacity per amount of substance"
+  },
+  "equipartition theorem": {
+    "qid": "Q255996",
+    "label": "equipartition theorem",
+    "description": "theorem"
+  },
+  "probability theory": {
+    "qid": "Q5862903",
+    "label": "probability theory",
+    "description": "branch of mathematics concerning probability"
+  },
+  "statistics": {
+    "qid": "Q12483",
+    "label": "statistics",
+    "description": "study of the collection, analysis, interpretation, and presentation of data"
+  },
+  "descriptive statistics": {
+    "qid": "Q380344",
+    "label": "descriptive statistics",
+    "description": "field of quantitative research"
+  },
+  "data analysis": {
+    "qid": "Q1988917",
+    "label": "data analysis",
+    "description": "activity for gaining insight from data"
+  },
+  "data visualization": {
+    "qid": "Q6504956",
+    "label": "data visualization",
+    "description": "creation and study of the visual representation of data"
+  },
+  "probability": {
+    "qid": "Q9492",
+    "label": "probability",
+    "description": "measure of the expectation that an event will occur or a statement is true"
+  },
+  "bayes' rule": {
+    "qid": "Q182505",
+    "label": "Bayes' theorem",
+    "description": "theorem describing the probability of an event based on prior knowledge of conditions that might be related to the event"
+  },
+  "random variable": {
+    "qid": "Q176623",
+    "label": "random variable",
+    "description": "variable representing a random phenomenon"
+  },
+  "normal distribution": {
+    "qid": "Q133871",
+    "label": "normal distribution",
+    "description": "probability distribution"
+  },
+  "marginal distribution": {
+    "qid": "Q670653",
+    "label": "marginal probability distribution",
+    "description": "probability distribution of a subset (the \"marginal variables\") of a collection of random variables"
+  },
+  "probabilistic model": {
+    "qid": "Q7120322",
+    "label": "PRISM model checker",
+    "description": "probabilistic model checker"
+  },
+  "statistical inference": {
+    "qid": "Q938438",
+    "label": "statistical inference",
+    "description": "process of deducing properties of an underlying probability distribution by analysis of data"
+  },
+  "point estimation": {
+    "qid": "Q1192065",
+    "label": "point estimation",
+    "description": "parameter estimation via sample statistics"
+  },
+  "interval estimation": {
+    "qid": "Q3300636",
+    "label": "interval estimator",
+    "description": "interval bounded by an upper and a lower limit statistic"
+  },
+  "statistical hypothesis testing": {
+    "qid": "Q210832",
+    "label": "statistical test",
+    "description": "method of statistical inference"
+  },
+  "nonparametric test": {
+    "qid": "Q118899086",
+    "label": "Brunner Munzel Test",
+    "description": "nonparametric test"
+  },
+  "rank method": {
+    "qid": "Q124434704",
+    "label": "Rank-index method",
+    "description": "Class of apportionment methods"
+  },
+  "analysis of variance": {
+    "qid": "Q42297",
+    "label": "analysis of variance",
+    "description": "collection of statistical models used to analyze the differences between group means and their associated procedures"
+  },
+  "multivariate statistics": {
+    "qid": "Q1952580",
+    "label": "multivariate statistics",
+    "description": "simultaneous observation and analysis of more than one outcome variable"
+  },
+  "discriminant analysis": {
+    "qid": "Q15136973",
+    "label": "discriminant analysis",
+    "description": "classification procedure"
+  },
+  "dimensionality reduction": {
+    "qid": "Q16000077",
+    "label": "dimensionality reduction",
+    "description": "process of reducing the number of random variables under consideration"
+  },
+  "monte carlo method": {
+    "qid": "Q232207",
+    "label": "Monte Carlo method",
+    "description": "broad class of computational algorithms using random sampling to obtain numerical results"
+  },
+  "random number generator": {
+    "qid": "Q5166606",
+    "label": "Convolution random number generator",
+    "description": "non-uniform number generator"
+  },
+  "bootstrap method": {
+    "qid": "Q301990",
+    "label": "bootstrapping",
+    "description": "statistical method"
+  },
+  "relation (mathematics)": {
+    "qid": "Q203066",
+    "label": "relation",
+    "description": "property that assigns truth values to k-tuples of individuals"
+  },
+  "graph theory": {
+    "qid": "Q131476",
+    "label": "graph theory",
+    "description": "study of graphs, which are mathematical structures used to model pairwise relations between objects"
+  },
+  "combinatorics": {
+    "qid": "Q76592",
+    "label": "combinatorics",
+    "description": "branch of discrete mathematics"
+  },
+  "algebraic structure": {
+    "qid": "Q205464",
+    "label": "algebraic structure",
+    "description": "set equipped with one or more finitary operations defined on it"
+  },
+  "recurrence relation": {
+    "qid": "Q740970",
+    "label": "recurrence relation",
+    "description": "sequence or array in which each further term is defined as a function of the preceding terms"
+  },
+  "graph (data structure)": {
+    "qid": "Q3045702",
+    "label": "e-graph",
+    "description": "graph data structure"
+  },
+  "subgraph": {
+    "qid": "Q7631151",
+    "label": "subgraph",
+    "description": "graph formed from a subset of the vertices and edges of another graph"
+  },
+  "graph isomorphism": {
+    "qid": "Q303100",
+    "label": "graph isomorphism",
+    "description": "bijection between the vertex set of two graphs"
+  },
+  "adjacency matrix": {
+    "qid": "Q727035",
+    "label": "adjacency matrix",
+    "description": "square matrix used to represent a graph or network"
+  },
+  "incidence matrix": {
+    "qid": "Q939272",
+    "label": "incidence matrix",
+    "description": "matrix that shows the relationship between two classes of objects"
+  },
+  "path (graph theory)": {
+    "qid": "Q1415372",
+    "label": "path",
+    "description": "sequence of edges connecting a sequence of vertices in a graph, with no repeating vertices"
+  },
+  "cycle (graph theory)": {
+    "qid": "Q245595",
+    "label": "cycle",
+    "description": "in graph theory, non-empty trail in which only the first and last vertices are equal"
+  },
+  "tree (graph theory)": {
+    "qid": "Q272735",
+    "label": "tree",
+    "description": "undirected, connected and acyclic graph"
+  },
+  "cayley's formula": {
+    "qid": "Q859176",
+    "label": "Cayley's formula",
+    "description": "result in graph theory"
+  },
+  "connectivity (graph theory)": {
+    "qid": "Q72897900",
+    "label": "graph connectivity",
+    "description": "any measure of how connected a graph is"
+  },
+  "connected component": {
+    "qid": "Q91050456",
+    "label": "connected component",
+    "description": "topological space"
+  },
+  "spanning tree": {
+    "qid": "Q831672",
+    "label": "spanning tree",
+    "description": "subgraph of an undirected graph G that is a tree which includes all of the vertices of G"
+  },
+  "hamiltonian graph": {
+    "qid": "Q18011235",
+    "label": "Hamiltonian graph",
+    "description": "graph containing a Hamiltonian cycle"
+  },
+  "hamiltonian cycle": {
+    "qid": "Q9197353",
+    "label": "Hamiltonian cycle",
+    "description": "Hamiltonian path that is a cycle"
+  },
+  "hamiltonian path": {
+    "qid": "Q273037",
+    "label": "Hamiltonian path",
+    "description": "path in a graph that visits each vertex exactly once"
+  },
+  "eulerian graph": {
+    "qid": "Q9275357",
+    "label": "Eulerian graph",
+    "description": "graph containing an Eulerian cycle"
+  },
+  "eulerian cycle": {
+    "qid": "Q11691793",
+    "label": "Eulerian cycle",
+    "description": "cycle in a finite graph which visits every edge exactly once"
+  },
+  "eulerian path": {
+    "qid": "Q624580",
+    "label": "Eulerian path",
+    "description": "trail in a graph which visits every edge exactly once"
+  },
+  "matching (graph theory)": {
+    "qid": "Q1065144",
+    "label": "matching",
+    "description": "set of edges without common vertices"
+  },
+  "bipartite graph": {
+    "qid": "Q174733",
+    "label": "bipartite graph",
+    "description": "graph whose vertices can be divided into two disjoint and independent sets"
+  },
+  "perfect matching": {
+    "qid": "Q99567093",
+    "label": "perfect matching",
+    "description": "matching that covers every vertex of the graph"
+  },
+  "vertex coloring": {
+    "qid": "Q124246880",
+    "label": "vertex coloring",
+    "description": "coloring of a graph's vertices"
+  },
+  "edge coloring": {
+    "qid": "Q1050972",
+    "label": "edge coloring",
+    "description": "an assignment of colors to the edges of a graph so that no two edges that share an endpoint have the same color as each other"
+  },
+  "brooks' theorem": {
+    "qid": "Q512897",
+    "label": "Brooks' theorem",
+    "description": "theorem that, with two classes of exceptions, vertex-coloring a graph needs a number of colors at most equal to its maximum degree"
+  },
+  "vizing's theorem": {
+    "qid": "Q2226822",
+    "label": "Vizing's theorem",
+    "description": "theorem in graph coloring"
+  },
+  "independent set (graph theory)": {
+    "qid": "Q1060343",
+    "label": "independent set",
+    "description": "set of vertices in a graph, no two of which are adjacent"
+  },
+  "clique (graph theory)": {
+    "qid": "Q761631",
+    "label": "clique",
+    "description": "subset of the vertices of a node-link graph that are all adjacent to each other"
+  },
+  "ramsey's theorem": {
+    "qid": "Q918099",
+    "label": "Ramsey's theorem",
+    "description": "combinatorics theorem that any edge labeling of a sufficiently large complete graph contains monochromatic cliques"
+  },
+  "turán's theorem": {
+    "qid": "Q1047749",
+    "label": "Turán's theorem",
+    "description": "theorem bounding the number of edges in a graph that has no large cliques"
+  },
+  "planar graph": {
+    "qid": "Q547823",
+    "label": "planar graph",
+    "description": "graph that can be embedded in the plane"
+  },
+  "dual graph": {
+    "qid": "Q2294516",
+    "label": "dual graph",
+    "description": "graph representing faces of another graph"
+  },
+  "euler's formula": {
+    "qid": "Q184871",
+    "label": "Euler's formula",
+    "description": "mathematical formula in complex analysis that establishes the fundamental relationship between the trigonometric functions and the complex exponential function"
+  },
+  "kuratowski's theorem": {
+    "qid": "Q837902",
+    "label": "Kuratowski's theorem",
+    "description": "a finite graph is planar iff it does not contain a subgraph that is a subdivision of K₅ or K₃,₃"
+  },
+  "directed graph": {
+    "qid": "Q1137726",
+    "label": "directed graph",
+    "description": "graph with oriented edges"
+  },
+  "network (graph theory)": {
+    "qid": "Q141488",
+    "label": "graph",
+    "description": "mathematical structure made of vertices connected in pairs by edges"
+  },
+  "flow network": {
+    "qid": "Q1412924",
+    "label": "flow network",
+    "description": "directed graph where each edge has a capacity and each edge receives a flow"
+  },
+  "cut (graph theory)": {
+    "qid": "Q1626444",
+    "label": "cut",
+    "description": "in graph theory, partition of the vertices in two sets"
+  },
+  "maximum flow minimum cut theorem": {
+    "qid": "Q608294",
+    "label": "Max-flow min-cut theorem",
+    "description": "theorem in optimization theory"
+  },
+  "object-oriented programming": {
+    "qid": "Q79872",
+    "label": "object-oriented programming",
+    "description": "programming paradigm based on the concept of objects"
+  },
+  "class (computer programming)": {
+    "qid": "Q9143",
+    "label": "programming language",
+    "description": "language for communicating instructions to a machine"
+  },
+  "association (object-oriented programming)": {
+    "qid": "Q7072792",
+    "label": "OOPSTAD",
+    "description": "smalltalk Application Developers Association"
+  },
+  "aggregation (object-oriented programming)": {
+    "qid": "Q17173292",
+    "label": "aggregation",
+    "description": "in programming, a way to regroup object that generalize composition"
+  },
+  "composition (computer science)": {
+    "qid": "Q13461925",
+    "label": "function composition",
+    "description": "in computer programming"
+  },
+  "inheritance (object-oriented programming)": {
+    "qid": "Q212542",
+    "label": "inheritance",
+    "description": "concept in object-oriented programming"
+  },
+  "multiple inheritance": {
+    "qid": "Q1070739",
+    "label": "multiple inheritance",
+    "description": "inheritance with more than one parent class"
+  },
+  "attribute (computer programming)": {
+    "qid": "Q123472450",
+    "label": "attribute of a class",
+    "description": "any entity grouped within a class in object-oriented programming (e.g. field, method, property, nested class)"
+  },
+  "method (computer programming)": {
+    "qid": "Q122875642",
+    "label": "class method",
+    "description": "special type of method in some programming languages called on a class rather than an instance (polymorphic on subclasses)"
+  },
+  "constructor (computer science)": {
+    "qid": "Q1049476",
+    "label": "constructor",
+    "description": "special method used for initializing a newly allocated object in object-oriented programming"
+  },
+  "destructor": {
+    "qid": "Q735151",
+    "label": "destructor",
+    "description": "special method in object-oriented programming which is called deterministically to perform cleanup just before the object is deallocated"
+  },
+  "reference (computer science)": {
+    "qid": "Q1334113",
+    "label": "reference data type",
+    "description": "value that gives indirect access to e.g. a variable or register"
+  },
+  "inline function": {
+    "qid": "Q1189936",
+    "label": "inline function",
+    "description": "function in C or C++ subject to inline expansion"
+  },
+  "static method": {
+    "qid": "Q129510964",
+    "label": "static method",
+    "description": "non-polymorphic subroutine grouped with a class that does not access instance data"
+  },
+  "static variable": {
+    "qid": "Q1896011",
+    "label": "static variable",
+    "description": "in computer languages, a variable that has been allocated statically so that its lifetime is the entire run of the program (as opposed to shorter-lived automatic variables and dynamically allocated variables)"
+  },
+  "inner class": {
+    "qid": "Q7392881",
+    "label": "Southern Railway 2-NOL",
+    "description": "class of 2-car inner-suburban EMU"
+  },
+  "enumeration": {
+    "qid": "Q12139612",
+    "label": "list",
+    "description": "set of discrete items of information"
+  },
+  "access specifier": {
+    "qid": "Q338966",
+    "label": "access-control list",
+    "description": "list associated with a computing system resource that specifies which users or groups are permitted to perform specified operations"
+  },
+  "virtual function": {
+    "qid": "Q1500644",
+    "label": "Virtual function",
+    "description": "inheritable and overridable function or method for which dynamic dispatch is facilitated"
+  },
+  "abstract class": {
+    "qid": "Q122375923",
+    "label": "abstract class",
+    "description": "a class that cannot be directly instantiated"
+  },
+  "interface (computer science)": {
+    "qid": "Q23808",
+    "label": "computer interface",
+    "description": "concept of computer science; point of interaction between two things"
+  },
+  "function overloading": {
+    "qid": "Q1091461",
+    "label": "function overloading",
+    "description": "in computer programming, creation of multiple function implementations with the same name"
+  },
+  "operator overloading": {
+    "qid": "Q332629",
+    "label": "operator overloading",
+    "description": "type of polymorphism in some programming languages where operators have different implementations depending on their arguments"
+  },
+  "assignment operator": {
+    "qid": "Q2468917",
+    "label": "assignment operator",
+    "description": "operator used in C++"
+  },
+  "copy constructor": {
+    "qid": "Q11163184",
+    "label": "copy constructor",
+    "description": "constructor that initializes an object by copying the state of another object of the same type"
+  },
+  "type casting": {
+    "qid": "Q7860897",
+    "label": "type casting",
+    "description": "technique for casting individual letters for use in printing presses"
+  },
+  "run-time type information": {
+    "qid": "Q684223",
+    "label": "run-time type information",
+    "description": "C++ mechanism that exposes information about an object's data type at runtime"
+  },
+  "exception handling": {
+    "qid": "Q471748",
+    "label": "exception handling",
+    "description": "process of responding to anomalous or exceptional conditions requiring special processing in computer programming"
+  },
+  "container (data structure)": {
+    "qid": "Q1643805",
+    "label": "container",
+    "description": "software class, data structure, or abstract data type (ADT) whose instances are collections of other objects"
+  },
+  "iterator": {
+    "qid": "Q1326388",
+    "label": "iterator",
+    "description": "in computing, an object whose methods enables a program to orderly traverse elements having some logical conditions in a given container from a given first element"
+  },
+  "template (c++)": {
+    "qid": "Q1411845",
+    "label": "template",
+    "description": "feature in the C++ programming language"
+  },
+  "standard library": {
+    "qid": "Q1199356",
+    "label": "standard library",
+    "description": "library made available across implementations of a programming language"
+  },
+  "function object": {
+    "qid": "Q2072111",
+    "label": "function object",
+    "description": "programming construct allowing an object to be invoked or called as if it were an ordinary function, usually with the same syntax"
+  },
+  "input/output": {
+    "qid": "Q219320",
+    "label": "input/output",
+    "description": "communication between an information processing system and the outside world"
+  },
+  "data structure": {
+    "qid": "Q175263",
+    "label": "data structure",
+    "description": "particular way of storing and organizing data in a computer"
+  },
+  "divide and conquer algorithm": {
+    "qid": "Q671298",
+    "label": "divide-and-conquer algorithm",
+    "description": "algorithm design paradigm based on multi-branched recursion"
+  },
+  "dynamic programming": {
+    "qid": "Q380679",
+    "label": "dynamic programming",
+    "description": "problem optimization method that simplifies a complicated problem by decomposing it into simpler subproblems recursively"
+  },
+  "greedy algorithm": {
+    "qid": "Q504353",
+    "label": "greedy algorithm",
+    "description": "algorithm that makes locally optimal choices in a sequence of steps with the goal of reaching a global optimum"
+  },
+  "heuristic": {
+    "qid": "Q201413",
+    "label": "heuristic",
+    "description": "problem-solving method that is sufficient for quick, short-term solutions/approximations"
+  },
+  "array": {
+    "qid": "Q186152",
+    "label": "array data structure",
+    "description": "data structure holding elements in a contiguous memory block"
+  },
+  "queue": {
+    "qid": "Q220543",
+    "label": "queue",
+    "description": "abstract data type"
+  },
+  "stack (abstract data type)": {
+    "qid": "Q177929",
+    "label": "stack",
+    "description": "abstract data type"
+  },
+  "binary search algorithm": {
+    "qid": "Q243754",
+    "label": "binary search algorithm",
+    "description": "search algorithm in sorted lists that operates by decreasing the search space by half each pass"
+  },
+  "time complexity": {
+    "qid": "Q2393193",
+    "label": "time complexity",
+    "description": "estimate of time taken for running an algorithm"
+  },
+  "memory complexity": {
+    "qid": "Q2098905",
+    "label": "space complexity",
+    "description": "amount of memory space that an algorithm uses as a function of the input's size"
+  },
+  "np-completeness": {
+    "qid": "Q7624684",
+    "label": "strong NP-completeness",
+    "description": "property of computational problems that is a special case of NP-completeness"
+  },
+  "undecidability": {
+    "qid": "Q3502995",
+    "label": "undecidable problem",
+    "description": "decision problem for which it is impossible to construct an algorithm that always leads to a correct yes-or-no answer"
+  },
+  "sorting algorithm": {
+    "qid": "Q181593",
+    "label": "sorting algorithm",
+    "description": "algorithm that puts elements of a list in a certain order"
+  },
+  "shellsort": {
+    "qid": "Q848955",
+    "label": "shellsort",
+    "description": "in-place comparison sorting algorithm invented by D. Shell"
+  },
+  "quicksort": {
+    "qid": "Q486598",
+    "label": "quicksort",
+    "description": "divide and conquer sorting algorithm"
+  },
+  "merge sort": {
+    "qid": "Q189057",
+    "label": "merge sort",
+    "description": "worst-case optimal stable divide and conquer comparison sorting algorithm"
+  },
+  "heapsort": {
+    "qid": "Q474095",
+    "label": "heapsort",
+    "description": "worst-case optimal in-place comparison sorting algorithm based on the heap data structure"
+  },
+  "heap (data structure)": {
+    "qid": "Q274089",
+    "label": "heap",
+    "description": "tree-based data structure in computer science"
+  },
+  "priority queue": {
+    "qid": "Q629283",
+    "label": "priority queue",
+    "description": "abstract data type in computer science"
+  },
+  "external sorting": {
+    "qid": "Q209687",
+    "label": "external sorting",
+    "description": "class of sorting algorithms that can handle massive amounts of data"
+  },
+  "hash table": {
+    "qid": "Q207440",
+    "label": "hash table",
+    "description": "associates data values with key values - a lookup table"
+  },
+  "tree (data structure)": {
+    "qid": "Q223655",
+    "label": "tree",
+    "description": "abstract data type"
+  },
+  "binary tree": {
+    "qid": "Q380172",
+    "label": "binary tree",
+    "description": "tree data structure in which each node has at most two children"
+  },
+  "avl tree": {
+    "qid": "Q300159",
+    "label": "AVL tree",
+    "description": "one kind of self-balancing binary search tree"
+  },
+  "binary search tree": {
+    "qid": "Q623818",
+    "label": "binary search tree",
+    "description": "data structure in tree form with 0, 1, or 2 children per node, sorted for fast lookup"
+  },
+  "red-black tree": {
+    "qid": "Q506496",
+    "label": "red–black tree",
+    "description": "self-balancing binary search tree data structure"
+  },
+  "splay tree": {
+    "qid": "Q80729",
+    "label": "splay tree",
+    "description": "self-adjusting binary search tree with the additional property that recently accessed elements are quick to access again"
+  },
+  "b-tree": {
+    "qid": "Q677051",
+    "label": "B-tree",
+    "description": "a self-balancing, tree-based data structure, that allows read/write access in logarithmic time"
+  },
+  "binomial heap": {
+    "qid": "Q864032",
+    "label": "binomial heap",
+    "description": "priority queue made from heap-ordered trees with power-of-two sizes"
+  },
+  "fibonacci heap": {
+    "qid": "Q1410737",
+    "label": "Fibonacci heap",
+    "description": "heap data structure made of a forest of trees"
+  },
+  "disjoint-set data structure": {
+    "qid": "Q1259393",
+    "label": "disjoint-set data structure",
+    "description": "data structure that keeps track of a set of elements partitioned into a number of disjoint (nonoverlapping) subsets"
+  },
+  "graph algorithm": {
+    "qid": "Q30503704",
+    "label": "graph algorithm",
+    "description": "type of algorithm"
+  },
+  "breadth-first search": {
+    "qid": "Q325904",
+    "label": "breadth-first search",
+    "description": "algorithm for searching the nodes of a graph in order by their hop count from a starting node"
+  },
+  "depth-first search": {
+    "qid": "Q816319",
+    "label": "depth-first search",
+    "description": "algorithm for traversing or searching tree or graph data structures"
+  },
+  "minimum spanning tree": {
+    "qid": "Q240464",
+    "label": "minimum spanning tree",
+    "description": "data structure, subgraph of a weighted graph"
+  },
+  "shortest path problem": {
+    "qid": "Q1058754",
+    "label": "shortest path problem",
+    "description": "problem of finding a path between two vertices (or nodes) in a graph such that the sum of the weights of its constituent edges is minimized"
+  },
+  "graph coloring": {
+    "qid": "Q504843",
+    "label": "graph coloring",
+    "description": "assignment of colors to elements of a graph subject to certain constraints"
+  },
+  "text algorithm": {
+    "qid": "Q374040",
+    "label": "string-searching algorithm",
+    "description": "algorithm which searches for patterns within strings"
+  },
+  "pattern matching": {
+    "qid": "Q1503724",
+    "label": "pattern matching",
+    "description": "programming language construct for processing data conditionally on its structure"
+  },
+  "knuth-morris-pratt algorithm": {
+    "qid": "Q45285",
+    "label": "Knuth–Morris–Pratt algorithm",
+    "description": "string searching algorithm"
+  },
+  "boyer-moore algorithm": {
+    "qid": "Q895984",
+    "label": "Boyer–Moore string search algorithm",
+    "description": "string searching algorithm"
+  },
+  "rabin-karp algorithm": {
+    "qid": "Q1384131",
+    "label": "Rabin–Karp algorithm",
+    "description": "string searching algorithm"
+  },
+  "computer graphics": {
+    "qid": "Q150971",
+    "label": "computer graphics",
+    "description": "sub-field of computer science"
+  },
+  "raster graphics": {
+    "qid": "Q182270",
+    "label": "raster graphics",
+    "description": "dot matrix data structure, representing a generally rectangular grid of pixels, or points of color, viewable via a monitor, paper, or other display medium"
+  },
+  "vector graphics": {
+    "qid": "Q2078",
+    "label": "SVG",
+    "description": "open standard for two-dimensional vector graphics"
+  },
+  "color model": {
+    "qid": "Q25212643",
+    "label": "HSV",
+    "description": "color model"
+  },
+  "rgb color model": {
+    "qid": "Q166194",
+    "label": "RGB color model",
+    "description": "additive color model based on combining red, green, and blue"
+  },
+  "cmyk color model": {
+    "qid": "Q166432",
+    "label": "CMYK color model",
+    "description": "subtractive color model, used in color printing"
+  },
+  "hsl color model": {
+    "qid": "Q14032191",
+    "label": "HSL",
+    "description": "color model"
+  },
+  "hsv color model": {
+    "qid": "Q25212643",
+    "label": "HSV",
+    "description": "color model"
+  },
+  "lossless compression": {
+    "qid": "Q55542",
+    "label": "lossless compression",
+    "description": "data compression approach allowing perfect reconstruction of the original data"
+  },
+  "rle": {
+    "qid": "Q2797",
+    "label": "run-length encoding",
+    "description": "simple form of data compression in which runs of data (sequences in which the same data value occurs in many consecutive data elements) are stored as a single data value and count"
+  },
+  "lzw": {
+    "qid": "Q2681",
+    "label": "Lempel–Ziv–Welch",
+    "description": "universal lossless data compression algorithm"
+  },
+  "jpeg": {
+    "qid": "Q2195",
+    "label": "JPEG",
+    "description": "conflation of multiple topics including compression algorithms, various file formats, standards/technical specifications and a non-profit organisation"
+  },
+  "color palette": {
+    "qid": "Q131935563",
+    "label": "Color Palette",
+    "description": "Color palette"
+  },
+  "bitmap": {
+    "qid": "Q192869",
+    "label": "Windows Bitmap",
+    "description": "Windows Bitmap image file format family"
+  },
+  "image interlacing": {
+    "qid": "Q1666173",
+    "label": "interlacing",
+    "description": "method of incrementally displaying raster graphics"
+  },
+  "digital image processing": {
+    "qid": "Q1070689",
+    "label": "digital image processing",
+    "description": "processing of digitally-represented images with algorithms"
+  },
+  "arithmetic operation": {
+    "qid": "Q32043",
+    "label": "addition",
+    "description": "arithmetic operation"
+  },
+  "histogram": {
+    "qid": "Q185020",
+    "label": "histogram",
+    "description": "graphical representation of the bucketed distribution of numerical data"
+  },
+  "image filtering": {
+    "qid": "Q55080235",
+    "label": "geometric mean filter",
+    "description": "image filtering process meant to smooth and reduce noise of an image"
+  },
+  "3d computer graphics": {
+    "qid": "Q189177",
+    "label": "3D computer graphics",
+    "description": "graphics that use a three-dimensional representation of geometric data"
+  },
+  "vector object": {
+    "qid": "Q121717760",
+    "label": "Vector object interaction",
+    "description": "US patent 11301125"
+  },
+  "scene lighting": {
+    "qid": "Q1823479",
+    "label": "lighting designer",
+    "description": "person responsible for lighting on a stage"
+  },
+  "texture mapping": {
+    "qid": "Q752176",
+    "label": "texture mapping",
+    "description": "method of defining surface detail on a computer-generated graphic or 3D model"
+  },
+  "bump mapping": {
+    "qid": "Q851953",
+    "label": "bump mapping",
+    "description": "texturing technique for bumps/wrinkles in computer graphics"
+  },
+  "rendering (computer graphics)": {
+    "qid": "Q176953",
+    "label": "rendering",
+    "description": "process of generating an image from a model"
+  },
+  "phong shading model": {
+    "qid": "Q884409",
+    "label": "Blinn–Phong shading model",
+    "description": "shading algorithm in computer graphics"
+  },
+  "flat shading": {
+    "qid": "Q1191981",
+    "label": "shading",
+    "description": "depicting depth through varying levels of darkness"
+  },
+  "gouraud shading": {
+    "qid": "Q141529",
+    "label": "Gouraud shading",
+    "description": "shading algorithm invented by the computer scientist Henri Gouraud"
+  },
+  "ray tracing": {
+    "qid": "Q619942",
+    "label": "ray tracing",
+    "description": "rendering algorithm that works by sending out many virtual rays of light"
+  },
+  "radiosity": {
+    "qid": "Q1068239",
+    "label": "radiosity",
+    "description": "computer graphics rendering method using diffuse reflection"
+  },
+  "computer animation": {
+    "qid": "Q1401416",
+    "label": "computer animation",
+    "description": "art of creating moving images using computers"
+  },
+  "opengl": {
+    "qid": "Q178570",
+    "label": "OpenGL",
+    "description": "cross-platform graphics API"
+  },
+  "intelligent system": {
+    "qid": "Q115135904",
+    "label": "intelligent system",
+    "description": "system showing signs of artificial intelligence, or claiming to"
+  },
+  "machine learning": {
+    "qid": "Q2539",
+    "label": "machine learning",
+    "description": "scientific study of algorithms and statistical models that computer systems use to perform tasks without explicit instructions"
+  },
+  "neural network": {
+    "qid": "Q192776",
+    "label": "artificial neural network",
+    "description": "computational model used in machine learning, based on connected, hierarchical functions"
+  },
+  "deep learning": {
+    "qid": "Q197536",
+    "label": "deep learning",
+    "description": "branch of machine learning"
+  },
+  "multi-agent system": {
+    "qid": "Q529909",
+    "label": "multi-agent system",
+    "description": "built of multiple interacting agents"
+  },
+  "game theory": {
+    "qid": "Q44455",
+    "label": "game theory",
+    "description": "branch of mathematics focused on strategic decision making"
+  },
+  "operational research": {
+    "qid": "Q7097752",
+    "label": "Operational Research Society",
+    "description": "international learned society for operational research"
+  },
+  "linear programming": {
+    "qid": "Q202843",
+    "label": "linear programming",
+    "description": "programming method to achieve the best outcome in a mathematical model"
+  },
+  "simplex method": {
+    "qid": "Q134164",
+    "label": "simplex algorithm",
+    "description": "algorithm"
+  },
+  "duality": {
+    "qid": "Q1755512",
+    "label": "duality",
+    "description": "translates mathematical concepts into other concepts, in a one-to-one fashion"
+  },
+  "allocation problem": {
+    "qid": "Q105425064",
+    "label": "Proportional item allocation",
+    "description": "fair item allocation problem"
+  },
+  "network programming": {
+    "qid": "Q3403011",
+    "label": "computer network programming",
+    "description": "writing computer programs with networking capability"
+  },
+  "ranking": {
+    "qid": "Q526719",
+    "label": "ranking",
+    "description": "process of ordering items in a set by criteria"
+  },
+  "integer programming": {
+    "qid": "Q6042592",
+    "label": "Integer programming",
+    "description": "pure or mixed integer programing"
+  },
+  "electrostatics": {
+    "qid": "Q26336",
+    "label": "electrostatics",
+    "description": "study of stationary electric charges"
+  },
+  "electric field": {
+    "qid": "Q46221",
+    "label": "electric field",
+    "description": "spatial distribution of vectors representing the force applied to a charged test particle"
+  },
+  "electric potential": {
+    "qid": "Q55451",
+    "label": "electric potential",
+    "description": "line integral of the electric field"
+  },
+  "electric dipole": {
+    "qid": "Q88587002",
+    "label": "electric dipole",
+    "description": "constellation of two very close opposite electrical charges"
+  },
+  "capacitor": {
+    "qid": "Q5322",
+    "label": "capacitor",
+    "description": "passive, two-terminal electronic component that stores electrical energy in an electric field"
+  },
+  "electric field energy": {
+    "qid": "Q105317421",
+    "label": "Joule electrothermal number",
+    "description": "quotient of Joule heat and electric field energy in a plasma"
+  },
+  "dielectric": {
+    "qid": "Q184996",
+    "label": "dielectric",
+    "description": "electrically poorly conducting or non-conducting, non-metallic substance in which charge carriers are generally not free to move"
+  },
+  "piezoelectricity": {
+    "qid": "Q183759",
+    "label": "piezoelectricity",
+    "description": "electric charge generated in certain solids due to mechanical stress"
+  },
+  "direct current": {
+    "qid": "Q159241",
+    "label": "direct current",
+    "description": "unidirectional flow of electric charge"
+  },
+  "ohm's law": {
+    "qid": "Q41591",
+    "label": "Ohm's law",
+    "description": "relationship between voltage and current across an ideal resistor"
+  },
+  "electromotive force": {
+    "qid": "Q185329",
+    "label": "electromotive force",
+    "description": "scalar physical quantity homogeneous to a voltage, expressing the modulus of the force exerted on a charge in an electric field"
+  },
+  "electrical conductivity": {
+    "qid": "Q4593291",
+    "label": "electrical conductivity",
+    "description": "physical quantity and property of material describing how readily a given material allows the flow of electric current"
+  },
+  "kirchhoff's circuit laws": {
+    "qid": "Q187672",
+    "label": "Kirchhoff's circuit laws",
+    "description": "relations between currents and voltages on sections of any electrical circuit"
+  },
+  "rc circuit": {
+    "qid": "Q939318",
+    "label": "RC circuit",
+    "description": "electric circuit composed of resistors and capacitors driven by a voltage or current source"
+  },
+  "rlc circuit": {
+    "qid": "Q323477",
+    "label": "RLC circuit",
+    "description": "resistor inductor capacitor circuit"
+  },
+  "magnetic field": {
+    "qid": "Q10043471",
+    "label": "Sun's magnetic field",
+    "description": "stellar magnetic field of the Sun"
+  },
+  "lorentz force": {
+    "qid": "Q172137",
+    "label": "Lorentz force",
+    "description": "force exerted on a charge in electromagnetic field"
+  },
+  "hall effect": {
+    "qid": "Q1047822",
+    "label": "quantum Hall effect",
+    "description": "a quantum-mechanical version of the Hall effect"
+  },
+  "ampere's law": {
+    "qid": "Q2359410",
+    "label": "Ampère's force law",
+    "description": "physical law"
+  },
+  "biot-savart law": {
+    "qid": "Q171340",
+    "label": "Biot-Savart law",
+    "description": "important law of classical magnetism"
+  },
+  "faraday's law of induction": {
+    "qid": "Q181465",
+    "label": "Faraday's law of induction",
+    "description": "basic law of electromagnetism of magnetic fields inducing a potential difference"
+  },
+  "lenz's law": {
+    "qid": "Q192288",
+    "label": "Lenz's law",
+    "description": "electromagnetic phenomena where changing magnetic fields induce currents with opposing fields"
+  },
+  "inductance": {
+    "qid": "Q177897",
+    "label": "inductance",
+    "description": "property of electrical conductors to oppose changes in current flow"
+  },
+  "rl circuit": {
+    "qid": "Q1836061",
+    "label": "RL circuit",
+    "description": "consisting of a resistance and an inductance"
+  },
+  "magnetism": {
+    "qid": "Q3294789",
+    "label": "magnetism",
+    "description": "class of physical phenomena"
+  },
+  "maxwell's equations": {
+    "qid": "Q51501",
+    "label": "Maxwell's equations",
+    "description": "set of partial differential equations that describe how electric and magnetic fields are generated and altered by each other and by charges and currents"
+  },
+  "electromagnetic wave": {
+    "qid": "Q11386",
+    "label": "electromagnetic wave",
+    "description": "synchronized oscillations of electric and magnetic fields"
+  },
+  "divergence": {
+    "qid": "Q189000",
+    "label": "divergence",
+    "description": "vector differential operator measuring the source or sink at a given point"
+  },
+  "curl (mathematics)": {
+    "qid": "Q206310",
+    "label": "curl",
+    "description": "differential operator describing the rotation at a point in a 3D vector field"
+  },
+  "displacement current": {
+    "qid": "Q853178",
+    "label": "displacement current",
+    "description": "electromagnetism"
+  },
+  "poynting vector": {
+    "qid": "Q504186",
+    "label": "Poynting vector",
+    "description": "measure of directional energy flux"
+  },
+  "geometrical optics": {
+    "qid": "Q467980",
+    "label": "geometrical optics",
+    "description": "model of optics describing light as geometric rays"
+  },
+  "wave optics": {
+    "qid": "Q942347",
+    "label": "physical optics",
+    "description": "branch of optics that studies interference, diffraction, polarization"
+  },
+  "fermat's principle": {
+    "qid": "Q331041",
+    "label": "Fermat's principle",
+    "description": "principle of least time"
+  },
+  "diffraction": {
+    "qid": "Q133900",
+    "label": "diffraction",
+    "description": "various phenomena that occur when a wave encounters an obstacle or a slit"
+  },
+  "diffraction grating": {
+    "qid": "Q653294",
+    "label": "diffraction grating",
+    "description": "optical system diffracting light into several components based on interference"
+  },
+  "x-ray": {
+    "qid": "Q34777",
+    "label": "X-ray",
+    "description": "electromagnetic radiation of wavelength ranging from 10 pm to 10 nm"
+  },
+  "x-ray diffraction": {
+    "qid": "Q12101244",
+    "label": "X-ray diffraction",
+    "description": "physical phenomenon"
+  },
+  "bragg's law": {
+    "qid": "Q847354",
+    "label": "Bragg's law",
+    "description": "gives the angles for coherent and incoherent scattering from a crystal lattice"
+  },
+  "polarization (waves)": {
+    "qid": "Q193760",
+    "label": "polarization",
+    "description": "property of waves that can oscillate with more than one orientation"
+  },
+  "birefringence": {
+    "qid": "Q108779",
+    "label": "birefringence",
+    "description": "optical phenomenon"
+  },
+  "theory of relativity": {
+    "qid": "Q43514",
+    "label": "theory of relativity",
+    "description": "two interrelated physics theories by Albert Einstein"
+  },
+  "lorentz transformation": {
+    "qid": "Q217255",
+    "label": "Lorentz transformation",
+    "description": "space-time coordinates transformation that conserves the form of electromagnetism laws"
+  },
+  "length contraction": {
+    "qid": "Q836595",
+    "label": "length contraction",
+    "description": "the contraction of length in the direction of propagation"
+  },
+  "time dilation": {
+    "qid": "Q185918",
+    "label": "time dilation",
+    "description": "measured time difference as explained by relativity theory"
+  },
+  "relativistic mass": {
+    "qid": "Q719048",
+    "label": "mass in special relativity",
+    "description": "concept that incorporates the general understandings from the laws of motion of special relativity along with its concept of mass–energy equivalence"
+  },
+  "thermal radiation": {
+    "qid": "Q192593",
+    "label": "thermal radiation",
+    "description": "electromagnetic radiation generated by the thermal motion of charged particles in matter"
+  },
+  "photoelectric effect": {
+    "qid": "Q83213",
+    "label": "photoelectric effect",
+    "description": "emission of electrons when light hits a material"
+  },
+  "compton scattering": {
+    "qid": "Q25424022",
+    "label": "Compton scattering",
+    "description": "scattering of a photon off of a charged particle"
+  },
+  "bohr model": {
+    "qid": "Q172948",
+    "label": "Bohr model",
+    "description": "atomic model introduced by Niels Bohr in 1913"
+  },
+  "matter wave": {
+    "qid": "Q193907",
+    "label": "matter wave",
+    "description": "aspect of wave–particle duality"
+  },
+  "schrodinger equation": {
+    "qid": "Q165498",
+    "label": "Schrödinger equation",
+    "description": "partial differential equation describing how the quantum state of a non-relativistic physical system changes with time"
+  },
+  "de broglie hypothesis": {
+    "qid": "Q118358976",
+    "label": "de Broglie hypothesis",
+    "description": "1924 thesis on the wave behaviour of matter"
+  },
+  "heisenberg uncertainty principle": {
+    "qid": "Q44746",
+    "label": "uncertainty principle",
+    "description": "Fundamental principle in quantum physics"
+  },
+  "wave function": {
+    "qid": "Q2362761",
+    "label": "wave function",
+    "description": "mathematical description of the quantum state of a system; complex-valued probability amplitude, and the probabilities for the possible results of measurements made on the system can be derived from it"
+  },
+  "atomic physics": {
+    "qid": "Q26383",
+    "label": "atomic physics",
+    "description": "field of physics studying atoms"
+  },
+  "laser": {
+    "qid": "Q38867",
+    "label": "laser",
+    "description": "device which emits light via optical amplification"
+  },
+  "population inversion": {
+    "qid": "Q126904",
+    "label": "population inversion",
+    "description": "state of a physical system in which more members are in higher, excited energy states than in lower, unexcited states"
+  },
+  "solid-state physics": {
+    "qid": "Q715396",
+    "label": "solid-state physics",
+    "description": "branch of physics of matter in the solid state"
+  },
+  "chemical bond": {
+    "qid": "Q44424",
+    "label": "chemical bond",
+    "description": "lasting attraction between atoms that enables the formation of chemical compounds"
+  },
+  "crystal lattice": {
+    "qid": "Q105451063",
+    "label": "fundamental lattice vector",
+    "description": "fundamental translation vector for a crystal lattice"
+  },
+  "effective mass": {
+    "qid": "Q1064434",
+    "label": "effective mass",
+    "description": "the mass that it seems to have when responding to forces, or the mass that it seems to have when interacting with other identical particles in a thermal distribution"
+  },
+  "semiconductor": {
+    "qid": "Q11456",
+    "label": "semiconductor",
+    "description": "material that has electrical conductivity intermediate to that of a conductor and an insulator"
+  },
+  "superconductivity": {
+    "qid": "Q124131",
+    "label": "superconductivity",
+    "description": "electrical conductivity with exactly zero resistance"
+  },
+  "quantum mechanics": {
+    "qid": "Q944",
+    "label": "quantum mechanics",
+    "description": "fundamental theory in physics describing the properties of nature on an atomic scale"
+  },
+  "wave-particle duality": {
+    "qid": "Q193068",
+    "label": "wave–particle duality",
+    "description": "conclusion that quantum objects behave at times like particles and at times like waves"
+  },
+  "de broglie wave": {
+    "qid": "Q193907",
+    "label": "matter wave",
+    "description": "aspect of wave–particle duality"
+  },
+  "schrödinger equation": {
+    "qid": "Q165498",
+    "label": "Schrödinger equation",
+    "description": "partial differential equation describing how the quantum state of a non-relativistic physical system changes with time"
+  },
+  "hydrogen atom": {
+    "qid": "Q6643508",
+    "label": "hydrogen atom",
+    "description": "atom of element hydrogen"
+  },
+  "zeeman effect": {
+    "qid": "Q201805",
+    "label": "Zeeman effect",
+    "description": "effect of splitting a spectral line into several components in the presence of a static magnetic field"
+  },
+  "electron spin": {
+    "qid": "Q13534105",
+    "label": "electron magnetic dipole moment",
+    "description": "spin of an electron"
+  },
+  "pauli exclusion principle": {
+    "qid": "Q131594",
+    "label": "Pauli exclusion principle",
+    "description": "quantum mechanical principle that two identical fermions cannot occupy the same quantum state simultaneously"
+  },
+  "condensed matter physics": {
+    "qid": "Q214781",
+    "label": "condensed matter physics",
+    "description": "branch of physics dealing with a property of matter"
+  },
+  "crystal structure": {
+    "qid": "Q895901",
+    "label": "crystal structure",
+    "description": "unique arrangement of atoms or molecules in a crystalline liquid or solid"
+  },
+  "insulator": {
+    "qid": "Q178150",
+    "label": "insulator",
+    "description": "material whose internal electric charges do not flow freely, and which therefore does not conduct an electric current"
+  },
+  "superconductor": {
+    "qid": "Q16331841",
+    "label": "superconductor",
+    "description": "material capable of superconduction"
+  },
+  "nuclear physics": {
+    "qid": "Q81197",
+    "label": "nuclear physics",
+    "description": "field of physics that deals with the structure and behavior of atomic nuclei"
+  },
+  "radioactive decay": {
+    "qid": "Q3332922",
+    "label": "radioactive decay",
+    "description": "emission of subatomic particles by the decay of an atomic nucleus"
+  },
+  "nuclear fission": {
+    "qid": "Q11429",
+    "label": "nuclear fission",
+    "description": "nuclear reaction splitting an atom into multiple parts"
+  },
+  "nuclear fusion": {
+    "qid": "Q13082",
+    "label": "nuclear fusion",
+    "description": "nuclear reaction in which atomic nuclei combine"
+  },
+  "cosmology": {
+    "qid": "Q338",
+    "label": "cosmology",
+    "description": "scientific study of the origin, evolution, and eventual fate of the universe"
+  },
+  "java": {
+    "qid": "Q251",
+    "label": "Java",
+    "description": "object-oriented programming language"
+  },
+  "data type": {
+    "qid": "Q190087",
+    "label": "data type",
+    "description": "classification of data in computer science"
+  },
+  "unicode": {
+    "qid": "Q8819",
+    "label": "Unicode",
+    "description": "computing industry standard for the consistent encoding, representation and handling of text expressed in most of the world's writing systems"
+  },
+  "expression (computer science)": {
+    "qid": "Q778379",
+    "label": "expression",
+    "description": "combination of functions, variables, etc. in a computer program that returns a value"
+  },
+  "package (java)": {
+    "qid": "Q2529678",
+    "label": "Java package",
+    "description": "organizes Java classes into namespaces, providing a unique namespace for each type it contains"
+  },
+  "method (computer science)": {
+    "qid": "Q339466",
+    "label": "accounting method",
+    "description": "method of amortized analysis"
+  },
+  "access modifier": {
+    "qid": "Q4672464",
+    "label": "access modifier",
+    "description": "Keywords in object-oriented programming languages"
+  },
+  "static field": {
+    "qid": "Q107644177",
+    "label": "static magnetic field",
+    "description": "magnetic field that does not change in the time frame considered"
+  },
+  "constructor": {
+    "qid": "Q1049476",
+    "label": "constructor",
+    "description": "special method used for initializing a newly allocated object in object-oriented programming"
+  },
+  "cloning": {
+    "qid": "Q120877",
+    "label": "cloning",
+    "description": "process of producing individual organisms with identical genomes"
+  },
+  "interface (computing)": {
+    "qid": "Q42308944",
+    "label": "Common Translation Interface",
+    "description": "computing interface"
+  },
+  "constant (computer science)": {
+    "qid": "Q2067413",
+    "label": "thrashing",
+    "description": "phenomenon that when a computer's virtual memory subsystem is in a constant state of paging, rapidly exchanging data in memory for data on disk, to the exclusion of most application-level processing"
+  },
+  "nested class": {
+    "qid": "Q123472450",
+    "label": "attribute of a class",
+    "description": "any entity grouped within a class in object-oriented programming (e.g. field, method, property, nested class)"
+  },
+  "exception": {
+    "qid": "Q65122726",
+    "label": "Exception",
+    "description": "2019 video game"
+  },
+  "generic type": {
+    "qid": "Q1051282",
+    "label": "generic programming",
+    "description": "way of designing and writing programs where algorithms are written in terms of parametric types enabling easy reuse"
+  },
+  "concurrent programming": {
+    "qid": "Q128392",
+    "label": "concurrent computing",
+    "description": "form of computing in which several computations logically execute during overlapping time periods"
+  },
+  "daemon thread": {
+    "qid": "Q213092",
+    "label": "thread",
+    "description": "smallest sequence of programmed instructions that can be managed independently by a scheduler"
+  },
+  "mutual exclusion": {
+    "qid": "Q1047554",
+    "label": "mutual exclusion",
+    "description": "property of concurrency control, which is instituted for the purpose of preventing race conditions"
+  },
+  "monitor (synchronization)": {
+    "qid": "Q1062162",
+    "label": "monitor",
+    "description": "in concurrent programming, an object or module intended to be used safely by more than one thread"
+  },
+  "thread synchronization": {
+    "qid": "Q123581323",
+    "label": "Cloud thread synchronization",
+    "description": "US patent 11169842"
+  },
+  "graphical user interface": {
+    "qid": "Q782543",
+    "label": "graphical user interface",
+    "description": "user interface allowing interaction through graphical icons and visual indicators"
+  },
+  "concurrency": {
+    "qid": "Q5159092",
+    "label": "concurrency",
+    "description": "instance of one physical road bearing two or more different highways"
+  },
+  "producer-consumer problem": {
+    "qid": "Q1366130",
+    "label": "producer-consumer problem",
+    "description": "family of computing problems"
+  },
+  "reader-writer problem": {
+    "qid": "Q1146845",
+    "label": "Readers-writers problem",
+    "description": "Computer science problem in concurrency"
+  },
+  "numerical computation": {
+    "qid": "Q74086777",
+    "label": "numerical software",
+    "description": "software for numerical computation"
+  },
+  "floating-point representation": {
+    "qid": "Q7051819",
+    "label": "normal floating-point number",
+    "description": "floating-point representation of a nonzero number without leading zeroes in the significand"
+  },
+  "interval arithmetic": {
+    "qid": "Q1671453",
+    "label": "interval arithmetic",
+    "description": "method for bounding the errors of numerical computations"
+  },
+  "numerical stability": {
+    "qid": "Q1430640",
+    "label": "numerical stability",
+    "description": "property of a numerical algorithm which describes how errors and approximations in the input data or intermediate values propagate through the algorithm without diverging its results"
+  },
+  "nonlinear equation": {
+    "qid": "Q4723989",
+    "label": "algebraic Riccati equation",
+    "description": "type of nonlinear equation that arises in infinite-horizon optimal control problems"
+  },
+  "iterative method": {
+    "qid": "Q2321565",
+    "label": "iterative numerical method",
+    "description": "numerical method in which the n-th approximation of the solution is obtained on the basis on the (n-1) previous approximations"
+  },
+  "bisection method": {
+    "qid": "Q866300",
+    "label": "bisection method",
+    "description": "The method of finding a root in mathematics, based on repeated division of a segment in half and the subsequent selection of a subinterval in which the root is thought to be located."
+  },
+  "newton's method": {
+    "qid": "Q374195",
+    "label": "Newton's method",
+    "description": "algorithm for finding a zero of a function"
+  },
+  "secant method": {
+    "qid": "Q14915286",
+    "label": "secant method",
+    "description": "root-finding method"
+  },
+  "steffensen's method": {
+    "qid": "Q7606635",
+    "label": "Steffensen's method",
+    "description": "Newton-like root-finding algorithm that does not use derivatives"
+  },
+  "brent's method": {
+    "qid": "Q905988",
+    "label": "Brent's method",
+    "description": "root-finding algorithm"
+  },
+  "homotopy": {
+    "qid": "Q746083",
+    "label": "homotopy",
+    "description": "continuous deformation between two continuous maps"
+  },
+  "system of linear equations": {
+    "qid": "Q11203",
+    "label": "system of linear equations",
+    "description": "collection of linear equations involving the same set of variables"
+  },
+  "gaussian elimination": {
+    "qid": "Q2658",
+    "label": "Gaussian elimination",
+    "description": "algorithm for solving systems of linear equations"
+  },
+  "lu decomposition": {
+    "qid": "Q833089",
+    "label": "LU decomposition",
+    "description": "matrix decomposition"
+  },
+  "jacobi method": {
+    "qid": "Q1481893",
+    "label": "Jacobi method",
+    "description": "iterative method used to solve a linear system of equations"
+  },
+  "gauss-seidel method": {
+    "qid": "Q1069090",
+    "label": "Gauss–Seidel method",
+    "description": "iterative method used to solve a linear system of equations"
+  },
+  "eigenvalue problem": {
+    "qid": "Q7268359",
+    "label": "quadratic eigenvalue problem",
+    "description": "mathematical problem"
+  },
+  "power iteration": {
+    "qid": "Q1426504",
+    "label": "power iteration",
+    "description": "eigenvalue algorithm"
+  },
+  "qr decomposition": {
+    "qid": "Q653242",
+    "label": "QR decomposition",
+    "description": "matrix decomposition"
+  },
+  "singular value decomposition": {
+    "qid": "Q420904",
+    "label": "singular value decomposition",
+    "description": "matrix decomposition"
+  },
+  "interpolation": {
+    "qid": "Q187631",
+    "label": "mathematical interpolation",
+    "description": "method for constructing new data points between known data points"
+  },
+  "polynomial interpolation": {
+    "qid": "Q637347",
+    "label": "polynomial interpolation",
+    "description": "interpolation of a given data set by the polynomial of lowest possible degree that passes through the points of the dataset"
+  },
+  "lagrange polynomial": {
+    "qid": "Q861606",
+    "label": "Lagrange polynomial",
+    "description": "polynomials used for interpolation"
+  },
+  "newton polynomial": {
+    "qid": "Q2746387",
+    "label": "Newton polynomial",
+    "description": "mathematical expression"
+  },
+  "runge's phenomenon": {
+    "qid": "Q1990319",
+    "label": "Runge's phenomenon",
+    "description": "problem of oscillation at the edges of an interval when using polynomial interpolation"
+  },
+  "hermite interpolation": {
+    "qid": "Q44451",
+    "label": "Hermite interpolation",
+    "description": "method for polynomial interpolation over a set of points and corresponding derivatives"
+  },
+  "chebyshev nodes": {
+    "qid": "Q1052508",
+    "label": "Chebyshev node",
+    "description": "real algebraic numbers, roots of the Chebyshev polynomials of the first kind"
+  },
+  "spline interpolation": {
+    "qid": "Q545002",
+    "label": "spline interpolation",
+    "description": "mathematical method"
+  },
+  "numerical differentiation": {
+    "qid": "Q1683292",
+    "label": "numerical differentiation",
+    "description": "algorithms for estimating the derivative of mathematical functions"
+  },
+  "numerical integration": {
+    "qid": "Q753445",
+    "label": "numerical integration",
+    "description": "family of algorithms for finding the definite integral of a function"
+  },
+  "quadrature": {
+    "qid": "Q28137",
+    "label": "quadrature",
+    "description": "aspect of a heavenly body in which it makes a right angle with the direction of the Sun"
+  },
+  "newton-cotes formulas": {
+    "qid": "Q944241",
+    "label": "Newton–Cotes formula",
+    "description": "formulas for numerical integration"
+  },
+  "romberg's method": {
+    "qid": "Q1078449",
+    "label": "Romberg's method",
+    "description": "numerical integration method"
+  },
+  "gaussian quadrature": {
+    "qid": "Q767680",
+    "label": "Gaussian quadrature",
+    "description": "numerical integration"
+  },
+  "initial value problem": {
+    "qid": "Q10167591",
+    "label": "initial value problem",
+    "description": "ordinary differential equation together with a specified value, called the initial condition, of the unknown function at a given point in the domain of the solution"
+  },
+  "differential equation": {
+    "qid": "Q11214",
+    "label": "differential equation",
+    "description": "mathematical equation involving derivatives of an unknown function"
+  },
+  "local error": {
+    "qid": "Q97796690",
+    "label": "local error",
+    "description": "the error accumulated in one step of an iterative method"
+  },
+  "global error": {
+    "qid": "Q98343167",
+    "label": "global error",
+    "description": "the cumulative error in a iterative numerical method"
+  },
+  "multistep method": {
+    "qid": "Q1462003",
+    "label": "linear multistep method",
+    "description": "effective tools for solving ordinary equations, whose working principle is as follows: first we choose a starting point, and then take a small step forward to find the next solution point."
+  },
+  "runge-kutta method": {
+    "qid": "Q725944",
+    "label": "Runge–Kutta method",
+    "description": "family of implicit and explicit iterative methods"
+  },
+  "nelder-mead method": {
+    "qid": "Q1253278",
+    "label": "Nelder–Mead method",
+    "description": "Numerical optimization algorithm"
+  },
+  "gradient method": {
+    "qid": "Q113840014",
+    "label": "policy-gradient method",
+    "description": "class of reinforcement learning algorithms"
+  },
+  "steepest descent": {
+    "qid": "Q1199743",
+    "label": "gradient descent",
+    "description": "optimization algorithm"
+  },
+  "conjugate gradient method": {
+    "qid": "Q17086453",
+    "label": "Nonlinear conjugate gradient method",
+    "description": "generalization of the conjugate gradient method to nonlinear optimization"
+  },
+  "trust region": {
+    "qid": "Q1535924",
+    "label": "Trust region",
+    "description": "term used in mathematical optimization"
+  },
+  "approximation theory": {
+    "qid": "Q774123",
+    "label": "approximation theory",
+    "description": "theory of getting acceptably close inexact mathematical calculations"
+  },
+  "regression analysis": {
+    "qid": "Q208042",
+    "label": "regression analysis",
+    "description": "set of statistical processes for estimating the relationships among variables"
+  },
+  "spline approximation": {
+    "qid": "Q545002",
+    "label": "spline interpolation",
+    "description": "mathematical method"
+  },
+  "fixed-point iteration": {
+    "qid": "Q1030759",
+    "label": "fixed-point iteration",
+    "description": "root-finding algorithm"
+  },
+  "boundary value problem": {
+    "qid": "Q1332643",
+    "label": "boundary value problem",
+    "description": "differential equation together with a set of additional constraints (boundary conditions)"
+  },
+  "artificial intelligence": {
+    "qid": "Q11660",
+    "label": "artificial intelligence",
+    "description": "field of computer science that develops and studies intelligent machines; also referring to such software"
+  },
+  "intelligent agent": {
+    "qid": "Q1142726",
+    "label": "intelligent agent",
+    "description": "agent that perceives its environment, takes actions autonomously in order to achieve goals, and may improve its performance with learning or acquiring knowledge"
+  },
+  "state space search": {
+    "qid": "Q2033871",
+    "label": "state-space search",
+    "description": "class of search algorithms"
+  },
+  "heuristic search": {
+    "qid": "Q88775728",
+    "label": "informed search algorithm",
+    "description": "type of search algorithm in which preliminary information is available (generally heuristic)"
+  },
+  "logic programming": {
+    "qid": "Q275603",
+    "label": "logic programming",
+    "description": "programming paradigm based on formal logic"
+  },
+  "constraint programming": {
+    "qid": "Q528588",
+    "label": "constraint programming",
+    "description": "programming paradigm wherein relations between variables are stated in the form of constraints"
+  },
+  "expert system": {
+    "qid": "Q184609",
+    "label": "expert system",
+    "description": "computer system that emulates the decision-making ability of a human expert"
+  },
+  "business rule": {
+    "qid": "Q1518244",
+    "label": "business rule",
+    "description": "a rule that defines or constrains aspects of business, asserting business structure or to control or influencing the behavior of the business, applying to people, processes, corporate behavior, computing systems"
+  },
+  "decision support system": {
+    "qid": "Q330268",
+    "label": "decision support system",
+    "description": "system that supports business or organizational decision-making processes"
+  },
+  "probabilistic method": {
+    "qid": "Q3333679",
+    "label": "probabilistic method",
+    "description": "nonconstructive method for mathematical proofs"
+  },
+  "bayesian network": {
+    "qid": "Q812540",
+    "label": "Bayesian network",
+    "description": "probabilistic graphical model that represents a set of variables and their conditional dependencies via a directed acyclic graph"
+  },
+  "planning": {
+    "qid": "Q309100",
+    "label": "planning",
+    "description": "process of determining the activities required to achieve a desired goal"
+  },
+  "computational intelligence": {
+    "qid": "Q1122090",
+    "label": "computational intelligence",
+    "description": "ability of a computer to learn a specific task from data or experimental observation"
+  },
+  "genetic algorithm": {
+    "qid": "Q187787",
+    "label": "genetic algorithm",
+    "description": "competitive algorithm for searching a problem space"
+  },
+  "semantic network": {
+    "qid": "Q1045785",
+    "label": "semantic network",
+    "description": "directed graph structure with labeled edges serving to encode and represent knowledge, whether knowledge of definitions or assertions"
+  },
+  "ontology": {
+    "qid": "Q324254",
+    "label": "ontology",
+    "description": "specification of a conceptualization in computer science and information science"
+  },
+  "relational database": {
+    "qid": "Q192588",
+    "label": "relational database",
+    "description": "digital database whose organization is based on the relational model of data"
+  },
+  "database management system": {
+    "qid": "Q176165",
+    "label": "database management system",
+    "description": "software for running databases; computer-software application that interacts with end-users, other applications, and the database itself to capture and analyze data; allows the definition, creation, querying, update, and administration of databases"
+  },
+  "client-server architecture": {
+    "qid": "Q146813",
+    "label": "client-server model",
+    "description": "distributed application structure in computing"
+  },
+  "postgresql": {
+    "qid": "Q192490",
+    "label": "PostgreSQL",
+    "description": "free and open-source relational database management system"
+  },
+  "query language": {
+    "qid": "Q54871",
+    "label": "SPARQL",
+    "description": "RDF query language"
+  },
+  "attribute (computer science)": {
+    "qid": "Q162886",
+    "label": "Euclidean geometry",
+    "description": "mathematical system attributed to Euclid"
+  },
+  "projection (relational algebra)": {
+    "qid": "Q3134666",
+    "label": "projection",
+    "description": "concept in relational algebra"
+  },
+  "selection (relational algebra)": {
+    "qid": "Q7447725",
+    "label": "selection",
+    "description": "in relational algebra,  unary operation that denotes a subset of a relation"
+  },
+  "join (sql)": {
+    "qid": "Q2003535",
+    "label": "JOIN",
+    "description": "SQL clause"
+  },
+  "aggregate function": {
+    "qid": "Q4115063",
+    "label": "aggregate function",
+    "description": "a function summarizing multiple values into one summary statistic"
+  },
+  "subquery": {
+    "qid": "Q5172838",
+    "label": "correlated subquery",
+    "description": "in SQL, subquery that uses values from the outer query, at the risk of being slow"
+  },
+  "data manipulation language": {
+    "qid": "Q58673",
+    "label": "data manipulation language",
+    "description": "family of syntax elements used for selecting, inserting, deleting and updating data in a database"
+  },
+  "entity-relationship model": {
+    "qid": "Q624546",
+    "label": "entity-relationship model",
+    "description": "describes inter-related things of interest in a specific domain of knowledge;composed of entity types (which classify the things of interest) and specifies relationships that can exist between instances of those entity types"
+  },
+  "data model": {
+    "qid": "Q1172480",
+    "label": "data model",
+    "description": "an abstract model that organizes elements of data and standardizes how they relate to one another and to real world entities."
+  },
+  "functional dependency": {
+    "qid": "Q597053",
+    "label": "functional dependency",
+    "description": "in relational database theory, a constraint between two sets of attributes in a relation from a database"
+  },
+  "key (relational database)": {
+    "qid": "Q2113197",
+    "label": "candidate key",
+    "description": "set of columns in a relational database"
+  },
+  "normal form": {
+    "qid": "Q277396",
+    "label": "second normal form",
+    "description": "database normalization requirement after first normal form"
+  },
+  "normalization (database)": {
+    "qid": "Q339072",
+    "label": "database normalisation",
+    "description": "reduction of data redundancy"
+  },
+  "sequence (data structure)": {
+    "qid": "Q133821883",
+    "label": "Python tuple",
+    "description": "A data structure that's used to store an ordered sequence of elements."
+  },
+  "view (sql)": {
+    "qid": "Q1329910",
+    "label": "view",
+    "description": "result set of a stored query on a database"
+  },
+  "trigger (database)": {
+    "qid": "Q835769",
+    "label": "database trigger",
+    "description": "event which is causing an action in a database"
+  },
+  "transaction (database)": {
+    "qid": "Q111311450",
+    "label": "S/MARt DB",
+    "description": "database collects information about scaffold/matrix attached regions and the nuclear matrix proteins that are supposed be involved in the interaction of these elements with the nuclear matrix."
+  },
+  "generative grammar": {
+    "qid": "Q36108",
+    "label": "generative grammar",
+    "description": "theory in linguistics"
+  },
+  "deterministic automaton": {
+    "qid": "Q5265707",
+    "label": "deterministic automaton",
+    "description": "concept of automata theory in which the outcome of a transition from one state to another is determined by the input"
+  },
+  "nondeterministic automaton": {
+    "qid": "Q617295",
+    "label": "nondeterministic finite automaton",
+    "description": "finite-state machine"
+  },
+  "moore automaton": {
+    "qid": "Q6544583",
+    "label": "Life-like cellular automaton",
+    "description": "cellular automaton based on Moore neighborhoods on a square grid with outer totalistic update rule"
+  },
+  "myhill-nerode theorem": {
+    "qid": "Q422187",
+    "label": "Myhill–Nerode theorem",
+    "description": "theorem"
+  },
+  "pushdown automaton": {
+    "qid": "Q751443",
+    "label": "pushdown automaton",
+    "description": "type of automaton"
+  },
+  "context-free grammar": {
+    "qid": "Q338047",
+    "label": "context-free grammar",
+    "description": "type of formal grammar"
+  },
+  "linear-bounded automaton": {
+    "qid": "Q1149323",
+    "label": "linear bounded automaton",
+    "description": "Turing machine, in which computation is restricted to the portion of the tape containing the input"
+  },
+  "turing machine": {
+    "qid": "Q163310",
+    "label": "Turing machine",
+    "description": "abstract computation model; mathematical model of computation that defines an abstract machine which manipulates symbols on a strip of tape according to a table of rules"
+  },
+  "context-sensitive language": {
+    "qid": "Q1430282",
+    "label": "context-sensitive language",
+    "description": "formal language that can be defined by a context-sensitive grammar (and equivalently by a noncontracting grammar). Context-sensitive is one of the four types of grammars in the Chomsky hierarchy"
+  },
+  "cocke-younger-kasami algorithm": {
+    "qid": "Q954821",
+    "label": "CYK algorithm",
+    "description": "parsing algorithm for context-free grammars"
+  },
+  "earley algorithm": {
+    "qid": "Q1277497",
+    "label": "Earley parser",
+    "description": "an algorithm for parsing strings that belong to a given context-free language"
+  },
+  "recursive language": {
+    "qid": "Q1455907",
+    "label": "recursive language",
+    "description": "recursive subset of the set of all possible finite sequences over the alphabet of the language"
+  },
+  "recursively enumerable language": {
+    "qid": "Q1073063",
+    "label": "recursively enumerable language",
+    "description": "a formal language that can be output (enumerated) by an algorithm (mathematical logic, computability theory)"
+  },
+  "undecidable problem": {
+    "qid": "Q3502995",
+    "label": "undecidable problem",
+    "description": "decision problem for which it is impossible to construct an algorithm that always leads to a correct yes-or-no answer"
+  },
+  "finite automaton": {
+    "qid": "Q1306211",
+    "label": "unambiguous finite automaton",
+    "description": "special kind of a nondeterministic finite automaton (NFA). Each deterministic finite automaton (DFA) is an UFA, but not vice versa. DFA, UFA, and NFA recognize exactly the same class of formal languages"
+  },
+  "software engineering": {
+    "qid": "Q80993",
+    "label": "software engineering",
+    "description": "application on systematic approaches to developing software"
+  },
+  "reverse engineering": {
+    "qid": "Q269608",
+    "label": "reverse engineering",
+    "description": "process by which a man-made object is deconstructed to reveal its designs, architecture, code or to extract knowledge from the object"
+  },
+  "structured analysis": {
+    "qid": "Q119727",
+    "label": "structured analysis",
+    "description": "method for analyzing and converting business requirements of a project into functional specifications for its conception, its implementation and its monitoring"
+  },
+  "data flow diagram": {
+    "qid": "Q747385",
+    "label": "data-flow diagram",
+    "description": "graphical representation of the \"flow\" of data through an information system"
+  },
+  "dynamics model": {
+    "qid": "Q7331913",
+    "label": "Ricker model",
+    "description": "discrete population dynamics model"
+  },
+  "real-time system": {
+    "qid": "Q3988",
+    "label": "real-time computing",
+    "description": "study of hardware and software systems that have a \"real-time constraint\""
+  },
+  "unified modeling language": {
+    "qid": "Q169411",
+    "label": "Unified Modeling Language",
+    "description": "software system design modeling tool"
+  },
+  "use case": {
+    "qid": "Q613417",
+    "label": "use case",
+    "description": "list of actions or event steps typically defining the interactions between a user role and a system to achieve a goal"
+  },
+  "class model": {
+    "qid": "Q1806878",
+    "label": "latent class model",
+    "description": "concept in statistics"
+  },
+  "object model": {
+    "qid": "Q1116105",
+    "label": "object model",
+    "description": "the properties of objects in general in a particular system, or the object-oriented interface through which a program can examine and manipulate"
+  },
+  "software life cycle": {
+    "qid": "Q2904257",
+    "label": "software development process",
+    "description": "process by which software is developed"
+  },
+  "agile methodology": {
+    "qid": "Q121435044",
+    "label": "agile methodology",
+    "description": "type of methodology"
+  },
+  "extreme programming": {
+    "qid": "Q209711",
+    "label": "extreme programming",
+    "description": "software development methodology which intends to improve software quality and responsiveness to changing customer requirements"
+  },
+  "requirements engineering": {
+    "qid": "Q376937",
+    "label": "requirements engineering",
+    "description": "process of defining, documenting, and maintaining requirements in the engineering design process"
+  },
+  "system context": {
+    "qid": "Q446366",
+    "label": "system context diagram",
+    "description": "engineering diagram displaying high level system-environment relationships"
+  },
+  "stakeholder": {
+    "qid": "Q852998",
+    "label": "stakeholder",
+    "description": "anyone who has a 'stake' in something, including the outcome of a process or work of an organisation or project. Stakeholders can support the work of organizations including government, trade unions, owners, investors, etc."
+  },
+  "requirements elicitation": {
+    "qid": "Q838667",
+    "label": "requirements elicitation",
+    "description": "practice of collecting the requirements of a system from users, customers and other stakeholders"
+  },
+  "requirements analysis": {
+    "qid": "Q187147",
+    "label": "requirements analysis",
+    "description": "system design process focusing on analysing, documenting, validating and managing system requirements"
+  },
+  "requirements specification": {
+    "qid": "Q1761598",
+    "label": "software requirements specification",
+    "description": "functional and non-functional requirements that a designed software needs to fulfil, may include a set of use cases"
+  },
+  "requirements management": {
+    "qid": "Q530038",
+    "label": "requirements management",
+    "description": "process of documenting, analyzing, tracing, prioritizing and agreeing on"
+  },
+  "capability maturity model integration": {
+    "qid": "Q428361",
+    "label": "Capability Maturity Model Integration",
+    "description": "evaluation"
+  },
+  "system architecture": {
+    "qid": "Q1099695",
+    "label": "System Architecture Evolution",
+    "description": "core network architecture of 3GPP's LTE wireless communication standard"
+  },
+  "architectural pattern": {
+    "qid": "Q635346",
+    "label": "architectural pattern",
+    "description": "a general, reusable solution to a commonly occurring problem in software engineering and architecture"
+  },
+  "code design": {
+    "qid": "Q5264356",
+    "label": "Design marker",
+    "description": "Technique of documenting design choices in source code"
+  },
+  "code smell": {
+    "qid": "Q2295111",
+    "label": "code smell",
+    "description": "symptom in the source code of a program that possibly indicates a deeper problem"
+  },
+  "refactoring": {
+    "qid": "Q116877",
+    "label": "software refactoring",
+    "description": "process of restructuring existing computer code without changing its external behavior"
+  },
+  "solid": {
+    "qid": "Q11438",
+    "label": "solid",
+    "description": "solid matter; matter which does not deform easily under pressure"
+  },
+  "grasp": {
+    "qid": "Q24771324",
+    "label": "Beta-grasp domain superfamily",
+    "description": "InterPro Domain"
+  },
+  "dry principle": {
+    "qid": "Q1242407",
+    "label": "don't repeat yourself",
+    "description": "software development principle with the goal of reducing repetitive software patterns, and replacing them with abstractions that use data normalization to avoid redundancy"
+  },
+  "kiss principle": {
+    "qid": "Q131560",
+    "label": "KISS",
+    "description": "acronym for \"Keep it simple, stupid\"; design principle"
+  },
+  "software testing": {
+    "qid": "Q188522",
+    "label": "software testing",
+    "description": "investigation conducted to provide information about the quality of a software product or service under test and enable the business to understand the risks of software implementation"
+  },
+  "domain model": {
+    "qid": "Q2262868",
+    "label": "domain model",
+    "description": "conceptual model of the domain in software engineering that incorporates both behaviour and data"
+  },
+  ".net framework": {
+    "qid": "Q5289",
+    "label": ".NET Framework",
+    "description": "software platform developed by Microsoft"
+  },
+  "c#": {
+    "qid": "Q2370",
+    "label": "C#",
+    "description": "multi-paradigm (object-oriented) programming language"
+  },
+  "generic programming": {
+    "qid": "Q1051282",
+    "label": "generic programming",
+    "description": "way of designing and writing programs where algorithms are written in terms of parametric types enabling easy reuse"
+  },
+  "anonymous function": {
+    "qid": "Q567612",
+    "label": "anonymous function",
+    "description": "function definition that is not bound to an identifier"
+  },
+  "linq": {
+    "qid": "Q3241665",
+    "label": "Linq",
+    "description": "2004 board game"
+  },
+  "asynchronous programming": {
+    "qid": "Q4036484",
+    "label": "Concurrency and Coordination Runtime",
+    "description": "asynchronous programming library"
+  },
+  "event (computing)": {
+    "qid": "Q3291944",
+    "label": "event",
+    "description": "computing operation that can be recognized and handled by software"
+  },
+  "entity framework": {
+    "qid": "Q851939",
+    "label": "Entity Framework",
+    "description": "object-relational mapping framework for ADO.NET"
+  },
+  "reactive programming": {
+    "qid": "Q4354073",
+    "label": "reactive programming",
+    "description": "a programming paradigm based on event-driven architecture for processing data changes in real-time"
+  },
+  "operator (mathematics)": {
+    "qid": "Q131030",
+    "label": "operator",
+    "description": "mapping from one vector space or module to another in mathematics"
+  },
+  "subject (philosophy)": {
+    "qid": "Q5891",
+    "label": "philosophy",
+    "description": "study of the truths and principles of being, schools of thought, knowledge, or conduct"
+  },
+  "wpf": {
+    "qid": "Q239084",
+    "label": "Windows Presentation Foundation",
+    "description": "graphical subsystem"
+  },
+  "uwp": {
+    "qid": "Q21600523",
+    "label": "Universal Windows Platform",
+    "description": "universal application platform created and developed by Microsoft for Microsoft Windows"
+  },
+  "unity (game engine)": {
+    "qid": "Q63966",
+    "label": "Unity",
+    "description": "cross-platform game engine"
+  },
+  "data transfer": {
+    "qid": "Q1195816",
+    "label": "transfer",
+    "description": "movement of computer data from one storage medium to another"
+  },
+  "network architecture": {
+    "qid": "Q639681",
+    "label": "network architecture",
+    "description": "design of a communications network"
+  },
+  "iso-osi model": {
+    "qid": "Q93312",
+    "label": "OSI model",
+    "description": "model with 7 layers to describe communication systems"
+  },
+  "signal transmission": {
+    "qid": "Q118093",
+    "label": "transmission",
+    "description": "process of sending and propagating a signal"
+  },
+  "transmission medium": {
+    "qid": "Q334265",
+    "label": "transmission medium",
+    "description": "conduit for signal propagation"
+  },
+  "local area network": {
+    "qid": "Q11381",
+    "label": "local area network",
+    "description": "computer network that connects devices over a limited area"
+  },
+  "storage area network": {
+    "qid": "Q237576",
+    "label": "storage area network",
+    "description": "network which provides access to consolidated, block level data storage"
+  },
+  "metropolitan area network": {
+    "qid": "Q182129",
+    "label": "metropolitan area network",
+    "description": "computer network that interconnects users with computer resources in a geographic area or region."
+  },
+  "data link layer": {
+    "qid": "Q194134",
+    "label": "data link layer",
+    "description": "second layer of the OSI networking model"
+  },
+  "ieee 802.3": {
+    "qid": "Q570951",
+    "label": "IEEE 802.3",
+    "description": "collection of standards for wired Ethernet"
+  },
+  "csma/cd": {
+    "qid": "Q1045106",
+    "label": "Carrier sense multiple access",
+    "description": "system allowing transmitters to take turns on a shared media"
+  },
+  "mac addressing": {
+    "qid": "Q20484",
+    "label": "MAC address",
+    "description": "unique identifier assigned to network interfaces for communications on the physical network segment"
+  },
+  "vlan": {
+    "qid": "Q16452",
+    "label": "VLAN",
+    "description": "network communications domain that is isolated at the data link layer"
+  },
+  "ieee 802.1q": {
+    "qid": "Q1535269",
+    "label": "IEEE 802.1Q",
+    "description": "IEEE networking standard supporting VLANs"
+  },
+  "spanning tree protocol": {
+    "qid": "Q852555",
+    "label": "Spanning Tree Protocol",
+    "description": "network protocol that builds a loop-free logical topology for Ethernet networks"
+  },
+  "arp": {
+    "qid": "Q977081",
+    "label": "Arp",
+    "description": "city in Smith County, Texas, United States"
+  },
+  "ethernet switch": {
+    "qid": "Q2033353",
+    "label": "Cisco Catalyst",
+    "description": "ethernet switch"
+  },
+  "fibre channel": {
+    "qid": "Q376827",
+    "label": "Fibre Channel",
+    "description": "computer storage networking technology"
+  },
+  "token ring": {
+    "qid": "Q207971",
+    "label": "token ring",
+    "description": "technology developed by IBM for local area networks"
+  },
+  "fddi": {
+    "qid": "Q181382",
+    "label": "Fiber Distributed Data Interface",
+    "description": "standard for data transmission in a local area network"
+  },
+  "llc": {
+    "qid": "Q149789",
+    "label": "limited liability company",
+    "description": "US form of a private limited company"
+  },
+  "snap": {
+    "qid": "Q27022329",
+    "label": "Snap Inc.",
+    "description": "American multinational technology company"
+  },
+  "internet protocol": {
+    "qid": "Q8795",
+    "label": "Internet Protocol",
+    "description": "communication protocol that allows connections between networks"
+  },
+  "ip protocol": {
+    "qid": "Q81414",
+    "label": "Internet protocol suite",
+    "description": "framework for communication protocols used in IP networking"
+  },
+  "ip datagram": {
+    "qid": "Q11163",
+    "label": "User Datagram Protocol",
+    "description": "principal protocol used for transmission of datagrams across an IP network"
+  },
+  "ip routing": {
+    "qid": "Q5973191",
+    "label": "IP forwarding",
+    "description": "process used to determine which path a packet or datagram can be sent"
+  },
+  "ip packet fragmentation": {
+    "qid": "Q1332338",
+    "label": "IP fragmentation",
+    "description": "division of datagrams to allow packets to pass through a link with a smaller MTU"
+  },
+  "ip encapsulation": {
+    "qid": "Q5973201",
+    "label": "IP in IP",
+    "description": "Internet protocol"
+  },
+  "icmp": {
+    "qid": "Q13162",
+    "label": "Internet Control Message Protocol",
+    "description": "core protocol of the Internet Protocol suite, mainly used on IPv4 networks to indicate error messages in network operations"
+  },
+  "ipv6 protocol": {
+    "qid": "Q11089",
+    "label": "IPv6 deployment",
+    "description": "degree of adoption of the IPv6 protocol on the Internet"
+  },
+  "tcp protocol": {
+    "qid": "Q8803",
+    "label": "Transmission Control Protocol",
+    "description": "principal protocol used to stream data across an IP network"
+  },
+  "udp protocol": {
+    "qid": "Q7850165",
+    "label": "Tsunami UDP Protocol",
+    "description": "UDP-based network file transfer protocol"
+  },
+  "ipx": {
+    "qid": "Q855158",
+    "label": "IPX",
+    "description": "protocol mainly used for Novell computer networking"
+  },
+  "rtp protocol": {
+    "qid": "Q321213",
+    "label": "Real-time Transport Protocol",
+    "description": "protocol for delivering audio and video over IP networks"
+  },
+  "multicast": {
+    "qid": "Q899288",
+    "label": "multicast",
+    "description": "computer networking technique for forwarding transmissions from one sender to multiple receivers"
+  },
+  "reverse path forwarding": {
+    "qid": "Q2421874",
+    "label": "Reverse-Path Forwarding",
+    "description": "Multicast routing technique to minimize loops and enhance security"
+  },
+  "igmp": {
+    "qid": "Q14149",
+    "label": "Internet Group Management Protocol",
+    "description": "Primary protocol for establishing multicast group memberships on IPv4 networks. ICMPv6 is used for IPv6 networks."
+  },
+  "pim protocol": {
+    "qid": "Q782752",
+    "label": "Protocol-Independent Multicast",
+    "description": "Multicast routing protocol"
+  },
+  "router": {
+    "qid": "Q5318",
+    "label": "router",
+    "description": "device that connects computer networks"
+  },
+  "access control list": {
+    "qid": "Q338966",
+    "label": "access-control list",
+    "description": "list associated with a computing system resource that specifies which users or groups are permitted to perform specified operations"
+  },
+  "dhcp": {
+    "qid": "Q11166",
+    "label": "Dynamic Host Configuration Protocol",
+    "description": "computer network protocol"
+  },
+  "snmp": {
+    "qid": "Q184230",
+    "label": "Simple Network Management Protocol",
+    "description": "series of computer network protocols for managing systems connected to a network"
+  },
+  "cidr": {
+    "qid": "Q646589",
+    "label": "Classless Inter-Domain Routing",
+    "description": "method for IP address allocation and routing"
+  },
+  "routing table": {
+    "qid": "Q290066",
+    "label": "routing table",
+    "description": "data table stored in a router or a networked computer; lists the routes (and sometimes distances) to particular network destinations"
+  },
+  "static routing": {
+    "qid": "Q1119410",
+    "label": "static routing",
+    "description": "use of fixed routes for routing in networks"
+  },
+  "dynamic routing protocol": {
+    "qid": "Q28455154",
+    "label": "Route redistribution",
+    "description": "dynamic routing protocol"
+  },
+  "rip": {
+    "qid": "Q207580",
+    "label": "Routing Information Protocol",
+    "description": "computer network protocol"
+  },
+  "igrp": {
+    "qid": "Q784844",
+    "label": "Interior Gateway Routing Protocol",
+    "description": "routing protocol"
+  },
+  "ospf": {
+    "qid": "Q220169",
+    "label": "Open Shortest Path First",
+    "description": "Internet protocol"
+  },
+  "is-is protocol": {
+    "qid": "Q53755957",
+    "label": "Git Wire Protocol",
+    "description": "communications protocol which is used by git revision control software"
+  },
+  "network address translation": {
+    "qid": "Q11182",
+    "label": "network address translation",
+    "description": "protocol facilitating connection of one IP address space to another"
+  },
+  "service level agreement": {
+    "qid": "Q869830",
+    "label": "service-level agreement",
+    "description": "official commitment between a service provider and a customer"
+  },
+  "hsrp": {
+    "qid": "Q1630757",
+    "label": "Hot Standby Router Protocol",
+    "description": "computer network protocol"
+  },
+  "vrrp": {
+    "qid": "Q1244243",
+    "label": "Virtual Router Redundancy Protocol",
+    "description": "an inter-router protocol for the configuration and management of redundancy for virtual routers"
+  },
+  "bgp protocol": {
+    "qid": "Q11155",
+    "label": "Border Gateway Protocol",
+    "description": "protocol for communicating routing information on the Internet"
+  },
+  "autonomous system": {
+    "qid": "Q749245",
+    "label": "autonomous system",
+    "description": "collection of connected Internet Protocol (IP) routing prefixes under the control of one or more network operators"
+  },
+  "multiprotocol label switching": {
+    "qid": "Q677023",
+    "label": "Multiprotocol Label Switching",
+    "description": "network routing scheme based on labels identifying paths"
+  },
+  "vpn": {
+    "qid": "Q170963",
+    "label": "virtual private network",
+    "description": "virtual network extending a single private network across a public network like the Internet, appearing to users as a private network"
+  },
+  "physical medium": {
+    "qid": "Q3382010",
+    "label": "physical medium attachment sublayer",
+    "description": "part of a communications system physical device (PHY)"
+  },
+  "coaxial cable": {
+    "qid": "Q183389",
+    "label": "coaxial cable",
+    "description": "type of cable"
+  },
+  "copper pair": {
+    "qid": "Q115102127",
+    "label": "Single Pair Ethernet",
+    "description": "Transmission of Ethernet via a pair of copper wires"
+  },
+  "fiber optic": {
+    "qid": "Q1529430",
+    "label": "fiber-optic communication",
+    "description": "method of transmitting information from one place to another by sending pulses of light through an optical fiber"
+  },
+  "infrared": {
+    "qid": "Q11388",
+    "label": "infrared radiation",
+    "description": "electromagnetic radiation with longer wavelengths than those of visible light"
+  },
+  "microwave": {
+    "qid": "Q127995",
+    "label": "microwave",
+    "description": "form of electromagnetic radiation"
+  },
+  "radio wave": {
+    "qid": "Q4262",
+    "label": "radio wave",
+    "description": "type of electromagnetic radiation"
+  },
+  "wireless network": {
+    "qid": "Q11375",
+    "label": "wireless network",
+    "description": "any network at least partly not connected by physical cables of any kind"
+  },
+  "wi-fi": {
+    "qid": "Q29643",
+    "label": "Wi-Fi",
+    "description": "family of wireless network protocols, based on IEEE's 802.11 standards"
+  },
+  "ieee 802.11": {
+    "qid": "Q193228",
+    "label": "IEEE 802.11",
+    "description": "set of media access control (MAC) and physical layer (PHY) specifications"
+  },
+  "ieee 802.15": {
+    "qid": "Q3267095",
+    "label": "IEEE 802.15",
+    "description": "set of IEEE standards for wireless personal area networks"
+  },
+  "wimax": {
+    "qid": "Q133973",
+    "label": "WiMAX",
+    "description": "wireless broadband standard"
+  },
+  "ieee 802.16": {
+    "qid": "Q1149757",
+    "label": "IEEE 802.16",
+    "description": "series of wireless broadband standards"
+  },
+  "zigbee": {
+    "qid": "Q199324",
+    "label": "Zigbee",
+    "description": "IEEE 802.15.4-based specification for a suite of high-level communication protocols"
+  },
+  "gsm": {
+    "qid": "Q106647060",
+    "label": "GSM",
+    "description": "2000 studio album by Milko Kalaidjiev"
+  },
+  "gprs": {
+    "qid": "Q79708",
+    "label": "General Packet Radio Service",
+    "description": "packet oriented mobile data service on 2G and 3G"
+  },
+  "edge": {
+    "qid": "Q18698690",
+    "label": "Microsoft Edge",
+    "description": "web browser developed by Microsoft"
+  },
+  "umts": {
+    "qid": "Q79686",
+    "label": "Universal Mobile Telecommunications System",
+    "description": "third generation mobile cellular system for networks"
+  },
+  "frame relay": {
+    "qid": "Q242506",
+    "label": "Frame Relay",
+    "description": "wide area network technology"
+  },
+  "atm": {
+    "qid": "Q381955",
+    "label": "ATM",
+    "description": "public transport company of Milan"
+  },
+  "dsl": {
+    "qid": "Q691358",
+    "label": "domain-specific language",
+    "description": "computer language specialized to a particular application domain"
+  },
+  "cryptology": {
+    "qid": "Q1430062",
+    "label": "cryptology",
+    "description": "science that deals with the encryption and decryption of information"
+  },
+  "cryptography": {
+    "qid": "Q8789",
+    "label": "cryptography",
+    "description": "practice and study of secure communication techniques"
+  },
+  "cryptanalysis": {
+    "qid": "Q897511",
+    "label": "cryptanalysis",
+    "description": "study of analyzing information systems in order to discover their hidden aspects"
+  },
+  "key cryptosystem": {
+    "qid": "Q4035603",
+    "label": "CEILIDH",
+    "description": "public key cryptosystem"
+  },
+  "rsa": {
+    "qid": "Q181551",
+    "label": "RSA",
+    "description": "algorithm for public-key cryptography"
+  },
+  "secure socket layer": {
+    "qid": "Q1193479",
+    "label": "Secure Sockets Layer",
+    "description": "obsolete cryptographic protocols for securing data in transit"
+  },
+  "x.509": {
+    "qid": "Q1065865",
+    "label": "X.509",
+    "description": "ITU-T recommendation"
+  },
+  "ssh": {
+    "qid": "Q170460",
+    "label": "Secure Shell",
+    "description": "cryptographic network protocol for secure data communication, remote shell services or command execution and other secure network services between two networked computers"
+  },
+  "sftp": {
+    "qid": "Q7444872",
+    "label": "sftp",
+    "description": "command-line program used as an SSH File Transfer Protocol client"
+  },
+  "https": {
+    "qid": "Q44484",
+    "label": "HTTPS",
+    "description": "extension of the HTTP communications protocol to support TLS encryption"
+  },
+  "intrusion detection system": {
+    "qid": "Q917189",
+    "label": "Host-based intrusion detection system",
+    "description": "intrusion detection system"
+  },
+  "point-to-point protocol": {
+    "qid": "Q215179",
+    "label": "Point-to-point protocol",
+    "description": "a simple data link layer protocol used between two devices"
+  },
+  "exterior gateway protocol": {
+    "qid": "Q1385050",
+    "label": "Exterior Gateway Protocol",
+    "description": "Internet protocol"
+  },
+  "interior gateway protocol": {
+    "qid": "Q431028",
+    "label": "interior gateway protocol",
+    "description": "class of routing protocols"
+  },
+  "vdsl": {
+    "qid": "Q823923",
+    "label": "VDSL",
+    "description": "digital subscriber line technologies"
+  },
+  "quality of service": {
+    "qid": "Q220501",
+    "label": "quality of service",
+    "description": "traffic prioritization and measure of network performance"
+  },
+  "translator (computer science)": {
+    "qid": "Q4462013",
+    "label": "translator",
+    "description": "computer program that translates from one programming language to another"
+  },
+  "interpreter": {
+    "qid": "Q183065",
+    "label": "interpreter",
+    "description": "program that executes source code without a separate compilation step"
+  },
+  "lexical analysis": {
+    "qid": "Q835922",
+    "label": "lexical analysis",
+    "description": "computing process of parsing a sequence of characters into a sequence of tokens"
+  },
+  "scanner (computer science)": {
+    "qid": "Q12504428",
+    "label": "fingerprint scanner",
+    "description": "electronic device used to capture a digital image of the fingerprint pattern"
+  },
+  "syntactic analysis": {
+    "qid": "Q126087832",
+    "label": "MITRE Syntactic Analysis Procedure",
+    "description": "MITRE Syntactic Analysis Procedure was a program developed in the 1960s for analyzing English phrase structures"
+  },
+  "semantic analysis": {
+    "qid": "Q1806883",
+    "label": "Latent semantic analysis",
+    "description": "technique in natural language processing"
+  },
+  "top-down parsing": {
+    "qid": "Q15419395",
+    "label": "top-down parsing",
+    "description": "parsing technique"
+  },
+  "ll grammar": {
+    "qid": "Q16249519",
+    "label": "LL grammar",
+    "description": "type of a context-free grammar"
+  },
+  "parser": {
+    "qid": "Q12758225",
+    "label": "parser",
+    "description": "software that interprets a string"
+  },
+  "bottom-up parsing": {
+    "qid": "Q894902",
+    "label": "bottom-up parsing",
+    "description": "parsing approach that starts from the leaf nodes of a tree and works in upward direction till it reaches the root node"
+  },
+  "lr grammar": {
+    "qid": "Q3113341",
+    "label": "LR-attributed grammar",
+    "description": "special type of attribute grammars allowing the attributes to be evaluated on LR parsing"
+  },
+  "slr parser": {
+    "qid": "Q2709511",
+    "label": "Simple LR parser",
+    "description": "type of LR parser with small parse tables and a relatively simple parser generator algorithm"
+  },
+  "lalr parser": {
+    "qid": "Q1204392",
+    "label": "LALR parser",
+    "description": "look-ahead left-to-right, rightmost derivation parser"
+  },
+  "operator precedence grammar": {
+    "qid": "Q3113343",
+    "label": "operator-precedence grammar",
+    "description": "type of grammar for formal languages"
+  },
+  "attribute grammar": {
+    "qid": "Q597455",
+    "label": "attribute grammar",
+    "description": "formal way to define attributes for the productions of a formal grammar, associating these attributes with values"
+  },
+  "code generation": {
+    "qid": "Q1061077",
+    "label": "code generation",
+    "description": "process by which a compiler's code generator converts some intermediate representation of source code into a form that can be readily executed by a machine"
+  },
+  "intermediate code": {
+    "qid": "Q951178",
+    "label": "three address code",
+    "description": "representation of intermediate code used by compilers"
+  },
+  "dataset": {
+    "qid": "Q1172284",
+    "label": "data set",
+    "description": "collection of data, publication type"
+  },
+  "data format": {
+    "qid": "Q494823",
+    "label": "data format",
+    "description": "specification"
+  },
+  "data import": {
+    "qid": "Q115645395",
+    "label": "data import into OpenStreetMap",
+    "description": "process of importing a particular dataset into OpenStreetMap"
+  },
+  "data integration": {
+    "qid": "Q386824",
+    "label": "data integration",
+    "description": "combining data from different sources and providing a unified view"
+  },
+  "database": {
+    "qid": "Q8513",
+    "label": "database",
+    "description": "organized collection of data in computing"
+  },
+  "multidimensional data": {
+    "qid": "Q17004569",
+    "label": "Bagplot",
+    "description": "Multidimensional data visualization"
+  },
+  "geometric data": {
+    "qid": "Q8042297",
+    "label": "eXtensible Model Data Format",
+    "description": "format for the geometric data storage of river cross-sections, 2D/3D structured and unstructured meshes, geometric paths through space, and associated time data"
+  },
+  "geographic data": {
+    "qid": "Q350758",
+    "label": "geographic data",
+    "description": "subclass of geodata as the base for geodata related to the geographic location"
+  },
+  "coordinate system": {
+    "qid": "Q11210",
+    "label": "coordinate system",
+    "description": "system for determining the position of a point"
+  },
+  "geospatial data": {
+    "qid": "Q121810372",
+    "label": "geospatial data",
+    "description": "data geospatially"
+  },
+  "time series": {
+    "qid": "Q186588",
+    "label": "time series",
+    "description": "set of data indexed in time order"
+  },
+  "log data": {
+    "qid": "Q949532",
+    "label": "logging",
+    "description": "chronological record of computer operations"
+  },
+  "data quality": {
+    "qid": "Q1757694",
+    "label": "data quality",
+    "description": "state of qualitative or quantitative pieces of information"
+  },
+  "classification": {
+    "qid": "Q5962346",
+    "label": "classification scheme",
+    "description": "system of descriptive information for an arrangement or division of objects into groups based on characteristics, which the objects have in common"
+  },
+  "naive bayes classifier": {
+    "qid": "Q812530",
+    "label": "naive Bayes classifier",
+    "description": "classification algorithm"
+  },
+  "k-nearest neighbors algorithm": {
+    "qid": "Q1071612",
+    "label": "k-nearest neighbors algorithm",
+    "description": "classification algorithm"
+  },
+  "logistic regression": {
+    "qid": "Q1132755",
+    "label": "logistic regression model",
+    "description": "statistical model"
+  },
+  "support vector machine": {
+    "qid": "Q282453",
+    "label": "support vector machine",
+    "description": "set of methods for supervised statistical learning"
+  },
+  "ensemble method": {
+    "qid": "Q799897",
+    "label": "bootstrap aggregating",
+    "description": "ensemble method within machine learning"
+  },
+  "random forest": {
+    "qid": "Q245748",
+    "label": "random forest",
+    "description": "statistical algorithm that is used to cluster points of data in functional groups"
+  },
+  "gradient boosting": {
+    "qid": "Q5591907",
+    "label": "gradient boosting",
+    "description": "machine learning technique"
+  },
+  "linear regression": {
+    "qid": "Q10861030",
+    "label": "linear regression",
+    "description": "statistical approach for modeling the relationship between a scalar dependent variable and one or more explanatory variables"
+  },
+  "polynomial regression": {
+    "qid": "Q45343",
+    "label": "polynomial regression",
+    "description": "statistics concept"
+  },
+  "cluster analysis": {
+    "qid": "Q622825",
+    "label": "cluster analysis",
+    "description": "task of grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar (in some sense or another) to each other than to those in other groups (clusters)"
+  },
+  "k-means clustering": {
+    "qid": "Q310401",
+    "label": "k-means clustering",
+    "description": "Vector quantization algorithm minimizing the sum of squared deviations"
+  },
+  "dbscan": {
+    "qid": "Q1114630",
+    "label": "DBSCAN",
+    "description": "data clustering algorithm"
+  },
+  "pattern mining": {
+    "qid": "Q120970650",
+    "label": "pattern mining",
+    "description": "area of research"
+  },
+  "principal component analysis": {
+    "qid": "Q2873",
+    "label": "principal component analysis",
+    "description": "conversion of a set of observations of possibly correlated variables into a set of values of linearly uncorrelated variables called principal components"
+  },
+  "latent semantic analysis": {
+    "qid": "Q1806883",
+    "label": "Latent semantic analysis",
+    "description": "technique in natural language processing"
+  },
+  "latent dirichlet allocation": {
+    "qid": "Q269236",
+    "label": "Latent Dirichlet allocation",
+    "description": "generative statistical model that allows sets of observations to be explained by unobserved groups that explain why some parts of the data are similar"
+  },
+  "multilayer perceptron": {
+    "qid": "Q2991667",
+    "label": "multilayer perceptron",
+    "description": "type of feedforward neural network with multiple fully-connected layers"
+  },
+  "convolutional neural network": {
+    "qid": "Q17084460",
+    "label": "convolutional neural network",
+    "description": "regularized type of feed-forward neural network that learns features by itself via filter (or kernel) optimization"
+  },
+  "generative adversarial network": {
+    "qid": "Q25104379",
+    "label": "generative adversarial network",
+    "description": "deep learning method in which two neural networks compete with each other in a game, learning to generate new data with the same statistics as the training set"
+  },
+  "recurrent neural network": {
+    "qid": "Q1457734",
+    "label": "recurrent neural network",
+    "description": "class of artificial neural network where connections between units form a directed graph along a temporal sequence"
+  },
+  "long short-term memory": {
+    "qid": "Q6673524",
+    "label": "long short-term memory",
+    "description": "artificial recurrent neural network architecture used in deep learning"
+  },
+  "autoencoder": {
+    "qid": "Q786435",
+    "label": "autoencoder",
+    "description": "neural network that learns efficient data encoding in an unsupervised manner"
+  },
+  "reinforcement learning": {
+    "qid": "Q830687",
+    "label": "reinforcement learning",
+    "description": "type of machine learning where an agent learns how to behave in an environment by performing actions and receiving rewards or penalties in return, aiming to maximize the cumulative reward over time"
+  },
+  "software model": {
+    "qid": "Q372345",
+    "label": "Belief–desire–intention software model",
+    "description": "software model"
+  },
+  "class diagram": {
+    "qid": "Q664166",
+    "label": "class diagram",
+    "description": "type of static structure diagram"
+  },
+  "object diagram": {
+    "qid": "Q1760719",
+    "label": "Object diagram",
+    "description": "diagram showing the structure of objects in a system"
+  },
+  "attribute": {
+    "qid": "Q1207505",
+    "label": "quality",
+    "description": "distinguishing feature"
+  },
+  "verification and validation": {
+    "qid": "Q2919644",
+    "label": "verification and validation",
+    "description": "independent procedures that are used together for checking that a product, service, or system meets requirements and specifications and that it fulfills its intended purpose"
+  },
+  "object constraint language": {
+    "qid": "Q1397689",
+    "label": "Object Constraint Language",
+    "description": "declarative language"
+  },
+  "state machine": {
+    "qid": "Q176452",
+    "label": "finite-state machine",
+    "description": "mathematical model of computation; abstract machine that can be in exactly one of a finite number of states at any given time"
+  },
+  "sysml": {
+    "qid": "Q2117885",
+    "label": "Systems Modeling Language",
+    "description": "general-purpose modeling language for systems engineering applications"
+  },
+  "software design": {
+    "qid": "Q857102",
+    "label": "software design",
+    "description": "process by which an agent creates a specification of a software artifact"
+  },
+  "design": {
+    "qid": "Q82604",
+    "label": "design",
+    "description": "creation of a plan or convention for the construction of an object or a system; process of creation; act of creativity and innovation"
+  },
+  "validation": {
+    "qid": "Q541014",
+    "label": "cross-validation",
+    "description": "statistical model validation technique"
+  },
+  "internet of things": {
+    "qid": "Q251212",
+    "label": "Internet of things",
+    "description": "Internet-like structure connecting everyday physical objects"
+  },
+  "wireless sensor": {
+    "qid": "Q336038",
+    "label": "wireless sensor network",
+    "description": "group of spatially dispersed and dedicated sensors for monitoring and recording"
+  },
+  "operating system": {
+    "qid": "Q9135",
+    "label": "operating system",
+    "description": "software that manages computer hardware resources"
+  },
+  "software": {
+    "qid": "Q7397",
+    "label": "software",
+    "description": "non-tangible executable component of a computer"
+  },
+  "architecture": {
+    "qid": "Q12271",
+    "label": "architecture",
+    "description": "process of planning, designing and construction"
+  },
+  "communication protocol": {
+    "qid": "Q132364",
+    "label": "communication protocol",
+    "description": "system for exchanging messages between computing systems"
+  },
+  "ipv6": {
+    "qid": "Q2551624",
+    "label": "IPv6",
+    "description": "version 6 of the Internet Protocol"
+  },
+  "cloud computing": {
+    "qid": "Q483639",
+    "label": "cloud computing",
+    "description": "form of Internet-based computing, whereby shared resources, software and information are provided to computers and other devices"
+  },
+  "big data": {
+    "qid": "Q858810",
+    "label": "big data",
+    "description": "information assets characterized by such a high volume, velocity, and variety to require specific technology and analytical methods for its transformation into value"
+  },
+  "security": {
+    "qid": "Q2526135",
+    "label": "security",
+    "description": "freedom from, or resilience against, potential harm caused by hostile forces, circumstances or disturbances"
+  },
+  "privacy": {
+    "qid": "Q188728",
+    "label": "privacy",
+    "description": "ability or right of an individual or group to seclude themselves, or information about themselves"
+  },
+  "complex system": {
+    "qid": "Q854457",
+    "label": "complex system",
+    "description": "system composed of many interacting components"
+  },
+  "discrete event simulation": {
+    "qid": "Q574814",
+    "label": "discrete event simulation",
+    "description": "type of simulation"
+  },
+  "cellular automaton": {
+    "qid": "Q189156",
+    "label": "cellular automaton",
+    "description": "discrete model studied in computability theory, mathematics, physics, complexity science, theoretical biology and microstructure modeling"
+  },
+  "agent-based modeling": {
+    "qid": "Q392811",
+    "label": "agent-based model",
+    "description": "type of computational models"
+  },
+  "model calibration": {
+    "qid": "Q95753510",
+    "label": "model calibration",
+    "description": "concept in quantitative sciences"
+  },
+  "model validation": {
+    "qid": "Q541014",
+    "label": "cross-validation",
+    "description": "statistical model validation technique"
+  },
+  "queuing system": {
+    "qid": "Q110626677",
+    "label": "Qiwii",
+    "description": "Indonesian Online Queuing System"
+  },
+  "molecular dynamics": {
+    "qid": "Q901663",
+    "label": "molecular dynamics simulation",
+    "description": "method of computer simulation of molecular interaction"
+  },
+  "web application": {
+    "qid": "Q189210",
+    "label": "web application",
+    "description": "application that uses a web browser as a client"
+  },
+  "client–server model": {
+    "qid": "Q146813",
+    "label": "client-server model",
+    "description": "distributed application structure in computing"
+  },
+  "http": {
+    "qid": "Q8777",
+    "label": "HTTP",
+    "description": "application protocol for distributed, collaborative, hypermedia information systems"
+  },
+  "http session": {
+    "qid": "Q191018",
+    "label": "Session Initiation Protocol",
+    "description": "voice-over-IP communications protocol"
+  },
+  "single-page application": {
+    "qid": "Q1990286",
+    "label": "single-page application",
+    "description": "web application based on a single web page and client-side logics"
+  },
+  "xmlhttprequest": {
+    "qid": "Q117049220",
+    "label": "xmlhttprequest",
+    "description": "JavaScript library"
+  },
+  "ajax": {
+    "qid": "Q81888",
+    "label": "AFC Ajax",
+    "description": "Dutch association football team"
+  },
+  "html5": {
+    "qid": "Q2053",
+    "label": "HTML5",
+    "description": "fifth and current version of the hypertext markup language"
+  },
+  "css3": {
+    "qid": "Q46441",
+    "label": "Cascading Style Sheets",
+    "description": "declarative language for styling web pages"
+  },
+  "javascript": {
+    "qid": "Q2005",
+    "label": "JavaScript",
+    "description": "high-level programming language"
+  },
+  "flexbox": {
+    "qid": "Q17049185",
+    "label": "CSS Flex Box Layout",
+    "description": "CSS3 web layout model"
+  },
+  "css grid layout": {
+    "qid": "Q42320210",
+    "label": "CSS grid layout",
+    "description": "CSS properties allowing to create complex responsive web design layouts"
+  },
+  "cascading style sheets": {
+    "qid": "Q46441",
+    "label": "Cascading Style Sheets",
+    "description": "declarative language for styling web pages"
+  },
+  "box model": {
+    "qid": "Q895501",
+    "label": "CSS box model",
+    "description": "web design concept"
+  },
+  "pseudo-class": {
+    "qid": "Q117050164",
+    "label": "postcss-dir-pseudo-class",
+    "description": "JavaScript library"
+  },
+  "ecmascript": {
+    "qid": "Q259138",
+    "label": "ECMAScript",
+    "description": "general-purpose programming language which JavaScript and other languages are based"
+  },
+  "typescript": {
+    "qid": "Q978185",
+    "label": "TypeScript",
+    "description": "programming language, superset of JavaScript that compiles to JavaScript"
+  },
+  "responsive web design": {
+    "qid": "Q420295",
+    "label": "responsive web design",
+    "description": "approach to web design for making web pages render well on a variety of devices"
+  },
+  "media query": {
+    "qid": "Q116951400",
+    "label": "postcss-media-query-parser",
+    "description": "JavaScript library"
+  },
+  "bootstrap": {
+    "qid": "Q893195",
+    "label": "Bootstrap",
+    "description": "web design front-end framework"
+  },
+  "angular": {
+    "qid": "Q28925578",
+    "label": "Angular",
+    "description": "web application framework"
+  },
+  "react": {
+    "qid": "Q19399674",
+    "label": "React",
+    "description": "JavaScript library for building user interfaces"
+  },
+  "vue.js": {
+    "qid": "Q24589705",
+    "label": "Vue.js",
+    "description": "JavaScript framework"
+  },
+  "mean stack": {
+    "qid": "Q16977938",
+    "label": "MEAN",
+    "description": "JavaScript software stack"
+  },
+  "node.js": {
+    "qid": "Q756100",
+    "label": "Node.js",
+    "description": "JavaScript runtime environment"
+  },
+  "express.js": {
+    "qid": "Q16878131",
+    "label": "Express.js",
+    "description": "JavaScript server-side/backend web framework for node.js"
+  },
+  "mongoose": {
+    "qid": "Q23121",
+    "label": "banded mongoose",
+    "description": "species of mongoose"
+  },
+  "crud": {
+    "qid": "Q132452028",
+    "label": "Crud",
+    "description": "American rock band"
+  },
+  "rxjs": {
+    "qid": "Q95961420",
+    "label": "rxjs",
+    "description": "Reactive Extensions for modern JavaScript"
+  },
+  "flux architecture": {
+    "qid": "Q213218",
+    "label": "FLASK",
+    "description": "the Flux Advanced Security Kernel, an operating system security architecture"
+  },
+  "redux": {
+    "qid": "Q28957057",
+    "label": "Redux",
+    "description": "javaScript state container software library"
+  },
+  "authorization": {
+    "qid": "Q788590",
+    "label": "authorization",
+    "description": "function of specifying access rights and privileges to resources, which is related to information security and computer security in general and to access control in particular"
+  },
+  "authentication": {
+    "qid": "Q212108",
+    "label": "authentication",
+    "description": "act of confirming the truth of an attribute of a datum or entity, often used as part of access control"
+  },
+  "kernel (operating system)": {
+    "qid": "Q9662",
+    "label": "kernel",
+    "description": "Core of a computer operating system"
+  },
+  "microkernel": {
+    "qid": "Q726378",
+    "label": "microkernel",
+    "description": "kernel that provides fewer services than a traditional kernel"
+  },
+  "resource (computer science)": {
+    "qid": "Q121339750",
+    "label": "Atika Alhajiyel",
+    "description": "Computer Science Student, Pen Resource University"
+  },
+  "multithreading": {
+    "qid": "Q1064412",
+    "label": "hardware multithreading",
+    "description": "ability of a central processing unit (CPU) or a single core in a multi-core processor to execute multiple processes or threads concurrently"
+  },
+  "process synchronization": {
+    "qid": "Q16977865",
+    "label": "Frame synchronization",
+    "description": "process of synchronizing display pixel scanning to a synchronization source"
+  },
+  "atomic instruction": {
+    "qid": "Q128562",
+    "label": "compare-and-swap",
+    "description": "atomic instruction used in multithreading"
+  },
+  "interleaving": {
+    "qid": "Q17092530",
+    "label": "interleaving",
+    "description": "technique for improving the speed of access to blocks on disk storage"
+  },
+  "peterson's algorithm": {
+    "qid": "Q903721",
+    "label": "Peterson's algorithm",
+    "description": "concurrent programming algorithm for mutual exclusion"
+  },
+  "lamport's algorithm": {
+    "qid": "Q2632524",
+    "label": "Lamport's bakery algorithm",
+    "description": "computer algorithm intended to improve the safety in the usage of shared resources among multiple threads"
+  },
+  "semaphore (programming)": {
+    "qid": "Q221682",
+    "label": "semaphore",
+    "description": "variable that is changed (e.g., incremented, decremented, toggled) depending on programmer-defined conditions, used to control access to a common resource by multiple processes in a concurrent system"
+  },
+  "posix": {
+    "qid": "Q14658",
+    "label": "POSIX",
+    "description": "family of IEEE standards for compatibility between operating systems"
+  },
+  "lock (computer science)": {
+    "qid": "Q1427251",
+    "label": "lock",
+    "description": "synchronization mechanism for enforcing limits on concurrent access to a resource"
+  },
+  "condition variable": {
+    "qid": "Q18382796",
+    "label": "boundary condition",
+    "description": "prescribed state of one or multiple variables of a system during its evolution"
+  },
+  "critical region": {
+    "qid": "Q322273",
+    "label": "critical region",
+    "description": "mathematical term"
+  },
+  "readers-writers problem": {
+    "qid": "Q1146845",
+    "label": "Readers-writers problem",
+    "description": "Computer science problem in concurrency"
+  },
+  "deadlock": {
+    "qid": "Q623276",
+    "label": "deadlock",
+    "description": "state in which members are blocking each other"
+  },
+  "deadlock prevention": {
+    "qid": "Q4060699",
+    "label": "Deadlock prevention algorithms",
+    "description": "technique used in computer science"
+  },
+  "deadlock avoidance": {
+    "qid": "Q386678",
+    "label": "banker's algorithm",
+    "description": "resource allocation and deadlock avoidance algorithm"
+  },
+  "banker's algorithm": {
+    "qid": "Q386678",
+    "label": "banker's algorithm",
+    "description": "resource allocation and deadlock avoidance algorithm"
+  },
+  "deadlock detection": {
+    "qid": "Q4148051",
+    "label": "wait-for graph",
+    "description": "directed graph used for deadlock detection"
+  },
+  "memory management": {
+    "qid": "Q2308807",
+    "label": "memory management",
+    "description": "computer resource management of memory, involving allocation and deallocation"
+  },
+  "memory allocation": {
+    "qid": "Q1001112",
+    "label": "Buddy memory allocation",
+    "description": "memory allocation algorithm"
+  },
+  "address translation": {
+    "qid": "Q11182",
+    "label": "network address translation",
+    "description": "protocol facilitating connection of one IP address space to another"
+  },
+  "paging": {
+    "qid": "Q656083",
+    "label": "paging",
+    "description": "memory management scheme by which a computer stores and retrieves data from secondary storage for use in main memory"
+  },
+  "segmentation": {
+    "qid": "Q363057",
+    "label": "market segmentation",
+    "description": "process of dividing a broad consumer market into sub-groups with shared characteristics"
+  },
+  "internal fragmentation": {
+    "qid": "Q20825793",
+    "label": "internal fragmentation",
+    "description": "waisting of memory within an allocated region"
+  },
+  "external fragmentation": {
+    "qid": "Q70747878",
+    "label": "external fragmentation",
+    "description": "interspersing of free and allocated memory"
+  },
+  "memory protection": {
+    "qid": "Q163585",
+    "label": "memory protection",
+    "description": "way to control memory access rights on a computer, and is a part of most modern instruction set architectures and operating systems"
+  },
+  "virtual memory": {
+    "qid": "Q189401",
+    "label": "virtual memory",
+    "description": "operating system level memory management technique"
+  },
+  "page fault": {
+    "qid": "Q1928607",
+    "label": "page fault",
+    "description": "when a running program accesses a memory page that is not currently mapped by the MMU into the virtual address space of a process"
+  },
+  "page replacement algorithm": {
+    "qid": "Q1330967",
+    "label": "page replacement algorithm",
+    "description": "algorithm in an OS that decides which memory pages to page out (swap out, write to disk) when a requested page is not in memory (page fault) and a free page cannot be used to satisfy the allocation (because there are too few or none)"
+  },
+  "linker (computing)": {
+    "qid": "Q523796",
+    "label": "linker",
+    "description": "computer system program which produces loadable and executable programs from object files or libraries, compiled and assembled separately"
+  },
+  "loader (computing)": {
+    "qid": "Q650550",
+    "label": "loader",
+    "description": "part of an operating system that is responsible for loading programs and libraries"
+  },
+  "static linking": {
+    "qid": "Q3276556",
+    "label": "static library",
+    "description": "set of routines, external functions and variables in computer science"
+  },
+  "dynamic linking": {
+    "qid": "Q132189682",
+    "label": "Dynamic library",
+    "description": "software library used via dynamic linking"
+  },
+  "directory (computing)": {
+    "qid": "Q201456",
+    "label": "directory",
+    "description": "in computing, a file system cataloging structure which contains references to other computer files, and possibly other directories"
+  },
+  "device driver": {
+    "qid": "Q1033951",
+    "label": "device driver",
+    "description": "computer program that operates or controls a particular type of device"
+  },
+  "image processing": {
+    "qid": "Q327008",
+    "label": "image processing",
+    "description": "form of signal processing for which the input is an image and the output is either an image or a set of characteristics or parameters related to the image"
+  },
+  "image analysis": {
+    "qid": "Q860755",
+    "label": "image analysis",
+    "description": "extraction of information from images via digital image processing techniques"
+  },
+  "business activity": {
+    "qid": "Q642541",
+    "label": "business activity monitoring",
+    "description": "enterprise solution providing real time information about the status and results of various operations, processes, and transactions"
+  },
+  "entrepreneurship": {
+    "qid": "Q3908516",
+    "label": "entrepreneurship",
+    "description": "creation or extraction of economic value"
+  },
+  "partnership": {
+    "qid": "Q728646",
+    "label": "partnership",
+    "description": "arrangement in which parties agree to cooperate to advance their mutual interests"
+  },
+  "joint-stock company": {
+    "qid": "Q134161",
+    "label": "joint-stock company",
+    "description": "business entity which is owned by shareholders"
+  },
+  "limited liability company": {
+    "qid": "Q149789",
+    "label": "limited liability company",
+    "description": "US form of a private limited company"
+  },
+  "business plan": {
+    "qid": "Q208034",
+    "label": "business plan",
+    "description": "formal written document containing business goals, the methods on how these goals can be attained, and the time frame within which these goals need to be achieved"
+  },
+  "taxation": {
+    "qid": "Q8161",
+    "label": "tax",
+    "description": "mandatory financial charge or other type of levy imposed on a taxpayer (an individual or legal entity) by a governmental organization to collectively fund government spending, public expenditures, or to regulate and reduce negative externalities"
+  },
+  "tax system": {
+    "qid": "Q1468865",
+    "label": "tax system",
+    "description": "method to collect taxes"
+  },
+  "value added tax": {
+    "qid": "Q128635",
+    "label": "value-added tax",
+    "description": "form of consumption tax"
+  },
+  "employment contract": {
+    "qid": "Q605519",
+    "label": "First Employment Contract",
+    "description": "employment contract"
+  },
+  "enterprise management": {
+    "qid": "Q455726",
+    "label": "Web-Based Enterprise Management",
+    "description": "systems managament standards"
+  },
+  "civil code": {
+    "qid": "Q165728",
+    "label": "Bürgerliches Gesetzbuch",
+    "description": "civil code of Germany"
+  },
+  "commercial law": {
+    "qid": "Q219186",
+    "label": "commercial law",
+    "description": "body of law that applies to persons and businesses engaged in commerce"
+  },
+  "occupational health and safety": {
+    "qid": "Q629029",
+    "label": "occupational health and safety",
+    "description": "area concerned with the safety, health and welfare of people at occupation"
+  },
+  "organizational structure": {
+    "qid": "Q759524",
+    "label": "organizational structure",
+    "description": "in an organisation, defines how activities such as task allocation and supervision are directed towards the achievement of its aims"
+  },
+  "information system": {
+    "qid": "Q121182",
+    "label": "information system",
+    "description": "combination of information, resources, activities and people that support tasks in an organization; group of components that interact to produce information"
+  },
+  "software development cycle": {
+    "qid": "Q2904257",
+    "label": "software development process",
+    "description": "process by which software is developed"
+  },
+  "formal specification": {
+    "qid": "Q1437424",
+    "label": "formal specification",
+    "description": "mathematically based techniques whose purpose are to help with the implementation of systems and software"
+  },
+  "software validation": {
+    "qid": "Q5159956",
+    "label": "conference room pilot",
+    "description": "in software validation"
+  },
+  "software implementation": {
+    "qid": "Q4684561",
+    "label": "software adoption",
+    "description": "software implementation"
+  },
+  "software maintenance": {
+    "qid": "Q940053",
+    "label": "software maintenance",
+    "description": "modification of a software product after delivery"
+  },
+  "economics": {
+    "qid": "Q8134",
+    "label": "economics",
+    "description": "social science that studies the production, distribution, and consumption of goods and services"
+  },
+  "management": {
+    "qid": "Q2920921",
+    "label": "management",
+    "description": "administration of an organization, including activities to set the strategy of an organization and coordinate employees to accomplish its objectives"
+  },
+  "marketing": {
+    "qid": "Q39809",
+    "label": "marketing",
+    "description": "study and process of promoting, distributing, and selling products or services to customers"
+  },
+  "copyright law": {
+    "qid": "Q67011165",
+    "label": "copyright law",
+    "description": "area of law"
+  },
+  "copyright": {
+    "qid": "Q1297822",
+    "label": "copyright",
+    "description": "legal concept in common law regulating rights related to original creative work"
+  },
+  "license agreement": {
+    "qid": "Q725920",
+    "label": "end-user license agreement",
+    "description": "contract between the licensor and purchaser of a piece of software"
+  },
+  "personal data protection": {
+    "qid": "Q61072436",
+    "label": "Personal Data Protection Authority",
+    "description": "Turkish Data Protection Authority"
+  },
+  "e-commerce": {
+    "qid": "Q484847",
+    "label": "e-commerce",
+    "description": "type of business industry usually conducted over the Internet"
+  },
+  "industrial property": {
+    "qid": "Q2750057",
+    "label": "industrial property",
+    "description": "intellectual property applied to industry"
+  },
+  "invention": {
+    "qid": "Q14208553",
+    "label": "invention",
+    "description": "unique or novel device, method, composition or process"
+  },
+  "trademark": {
+    "qid": "Q167270",
+    "label": "trademark",
+    "description": "trade identifier of products or services"
+  },
+  "theory of computation": {
+    "qid": "Q844718",
+    "label": "theory of computation",
+    "description": "subfield of computer science"
+  },
+  "recursive function": {
+    "qid": "Q284164",
+    "label": "μ-recursive function",
+    "description": "one of several equivalent definitions of a computable function"
+  },
+  "lambda calculus": {
+    "qid": "Q242028",
+    "label": "lambda calculus",
+    "description": "formal system in mathematical logic"
+  },
+  "church-rosser theorem": {
+    "qid": "Q1308502",
+    "label": "Church–Rosser theorem",
+    "description": "theorem that, when applying reduction rules to terms in some variants of the lambda calculus, the ordering in which the reductions are chosen does not make a difference to the eventual result"
+  },
+  "decision problem": {
+    "qid": "Q3262192",
+    "label": "decision problem",
+    "description": "yes/no problem in computer science"
+  },
+  "halting problem": {
+    "qid": "Q622849",
+    "label": "halting problem",
+    "description": "problem of determining whether a given program will finish running or continue forever"
+  },
+  "rice's theorem": {
+    "qid": "Q1893717",
+    "label": "Rice's theorem",
+    "description": "theorem in computability theory"
+  },
+  "gödel's incompleteness theorems": {
+    "qid": "Q200787",
+    "label": "Gödel's incompleteness theorems",
+    "description": "theorem that a wide class of logical systems cannot be both consistent and complete"
+  },
+  "software architecture": {
+    "qid": "Q846636",
+    "label": "software architecture",
+    "description": "high level structures of a software system"
+  },
+  "software configuration management": {
+    "qid": "Q613566",
+    "label": "software configuration management",
+    "description": "task of tracking and controlling changes in the software"
+  },
+  "thesis": {
+    "qid": "Q1266946",
+    "label": "thesis",
+    "description": "a scholarly work submitted as a requirement to obtain an academic degree; Use Q187685 for PhD thesis"
+  },
+  "presentation (communication)": {
+    "qid": "Q604733",
+    "label": "presentation",
+    "description": "process of presenting a topic to an audience"
+  },
+  "engineering": {
+    "qid": "Q11023",
+    "label": "engineering",
+    "description": "applied science"
+  },
+  "discussion": {
+    "qid": "Q168210",
+    "label": "Internet forum",
+    "description": "online discussion site"
+  },
+  "experiment": {
+    "qid": "Q101965",
+    "label": "experiment",
+    "description": "scientific procedure carried out to support, refute, or validate a hypothesis"
+  },
+  "implementation": {
+    "qid": "Q245962",
+    "label": "implementation",
+    "description": "realization of an application, or execution of a plan, idea, model, design, specification, standard, algorithm, or policy"
+  },
+  "geometric figure": {
+    "qid": "Q123410761",
+    "label": "geometric figure",
+    "description": "geometric object including shape and size"
+  },
+  "elementary functions": {
+    "qid": "Q25303953",
+    "label": "Liouvillian function",
+    "description": "elementary functions and their finitely iterated integrals"
+  },
+  "polynomial": {
+    "qid": "Q43260",
+    "label": "polynomial",
+    "description": "mathematical expression consisting of variables and coefficients"
+  },
+  "polynomial root": {
+    "qid": "Q20113351",
+    "label": "polynomial root",
+    "description": "value of the argument of a polynomial at which the polynomial evaluates to zero"
+  },
+  "complex number": {
+    "qid": "Q11567",
+    "label": "complex number",
+    "description": "number that can be put in the form a + bi, where a and b are real numbers and i is called the imaginary unit"
+  },
+  "set algebra": {
+    "qid": "Q205464",
+    "label": "algebraic structure",
+    "description": "set equipped with one or more finitary operations defined on it"
+  },
+  "relational algebra": {
+    "qid": "Q840540",
+    "label": "relational algebra",
+    "description": "family of algebras used for modelling the data stored in relational databases, and defining queries on it"
+  },
+  "c (programming language)": {
+    "qid": "Q15777",
+    "label": "C",
+    "description": "general-purpose programming language"
+  },
+  "compilation": {
+    "qid": "Q1614239",
+    "label": "compilation",
+    "description": "book or document composed of materials gathered from other books or documents"
+  },
+  "linking (computing)": {
+    "qid": "Q5157630",
+    "label": "Computing",
+    "description": "journal"
+  },
+  "set theory": {
+    "qid": "Q12482",
+    "label": "set theory",
+    "description": "branch of mathematics that studies sets, which are collections of objects"
+  },
+  "matrix (mathematics)": {
+    "qid": "Q44337",
+    "label": "matrix",
+    "description": "rectangular array of numbers, symbols, or expressions, arranged in rows and columns"
+  },
+  "graph (mathematics)": {
+    "qid": "Q141488",
+    "label": "graph",
+    "description": "mathematical structure made of vertices connected in pairs by edges"
+  },
+  "logarithm": {
+    "qid": "Q11197",
+    "label": "logarithm",
+    "description": "inverse of the exponential function, which maps products to sums"
+  },
+  "discrete mathematics": {
+    "qid": "Q121416",
+    "label": "discrete mathematics",
+    "description": "study of discrete mathematical structures"
+  },
+  "mathematical analysis": {
+    "qid": "Q7754",
+    "label": "mathematical analysis",
+    "description": "branch of mathematics"
+  },
+  "classical physics": {
+    "qid": "Q81745",
+    "label": "classical physics",
+    "description": "theories of physics that predate modern, more complete, or more widely applicable theories"
+  },
+  "algebra": {
+    "qid": "Q3968",
+    "label": "algebra",
+    "description": "part of mathematics in which letters and other symbols are used to represent numbers and quantities in formulae and equation"
+  },
+  "declarative programming": {
+    "qid": "Q531152",
+    "label": "declarative programming",
+    "description": "programming paradigm that expresses the logic of a computation without describing its control flow"
+  },
+  "python programming language": {
+    "qid": "Q28865",
+    "label": "Python",
+    "description": "general-purpose programming language"
+  },
+  "programming language": {
+    "qid": "Q9143",
+    "label": "programming language",
+    "description": "language for communicating instructions to a machine"
+  },
+  "translation (computer science)": {
+    "qid": "Q7553",
+    "label": "translation",
+    "description": "transfer of the meaning of something in one language into another"
+  },
+  "programming process": {
+    "qid": "Q28448452",
+    "label": "PQL",
+    "description": "special-purpose programming"
+  },
+  "parsing": {
+    "qid": "Q194152",
+    "label": "parsing",
+    "description": "process of analyzing a string of symbols, either in natural language, computer languages or data structures, conforming to the rules of a formal grammar"
+  },
+  "automaton": {
+    "qid": "Q787116",
+    "label": "automaton",
+    "description": "self-operating machine"
+  },
+  "database system": {
+    "qid": "Q176165",
+    "label": "database management system",
+    "description": "software for running databases; computer-software application that interacts with end-users, other applications, and the database itself to capture and analyze data; allows the definition, creation, querying, update, and administration of databases"
+  },
+  "python programming": {
+    "qid": "Q37082486",
+    "label": "Python Programming",
+    "description": "Wikiversity course on the python programming language"
+  },
+  "systems analysis": {
+    "qid": "Q679871",
+    "label": "systems analysis",
+    "description": "problem-solving technique that breaks down a system into its component pieces"
+  },
+  "use case model": {
+    "qid": "Q613423",
+    "label": "Use Case Diagram",
+    "description": "UML use case diagram"
+  },
+  "software analysis": {
+    "qid": "Q7554239",
+    "label": "software analytics",
+    "description": "analysis of software systems including source code, software metrics, development processes aimed at describing, monitoring, predicting, and improving efficiency and effectivity of software engineering"
+  },
+  "programming skill": {
+    "qid": "Q113112338",
+    "label": "programming skill",
+    "description": "ability to program computers"
+  },
+  "software development model": {
+    "qid": "Q28528057",
+    "label": "cathedral software development model",
+    "description": "type of free software development model in which source code is available with each software release, but code developed between releases is restricted to an exclusive group of software developers"
+  }
+}

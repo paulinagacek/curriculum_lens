@@ -1,0 +1,19 @@
+Your task is to extract a list of core educational concepts that are taught in the provided course. 
+These should reflect the key theoretical foundations that are essential to understand the course content.
+
+These concepts should bee general or structured enough to appear in academic curricula, Wikidata, or educational taxonomies.
+
+## Guidelines:
+
+- Extract only meaningful educational concepts: **theories, frameworks, models, algorithms, methods, formal systems, programming languages**, or structured academic topics.
+- Use **canonical academic phrasing**, normalized to standard terms.
+  - Example: "LLM" → "large language model"
+  - Example: "attributive grammar" → "attribute grammar"
+- If a term requires disambiguation, include a **qualifier** (e.g., "translator (computer science)").
+- Always use **singular form** for concepts (e.g., "finite automaton", not "finite automata").
+- Exclude:
+  - Overly broad umbrella areas (e.g., "robotics", "mathematics", "computer science") unless formalized.
+  - Specific named examples within already mentioned concept (e.g., exclude "singleton pattern", but include "design pattern").
+
+## Output format:
+Return a **semicolon-separated list** of canonical educational concepts only. Do not include any explanations or commentary.

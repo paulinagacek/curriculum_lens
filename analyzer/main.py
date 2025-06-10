@@ -1,13 +1,7 @@
-import pandas as pd
-from concept_extractionv2 import EducationalConceptExtractor
+from concept_extraction import EducationalConceptExtractor
 
 CURRICULUM_CSV = "/data/en_Informatyka_i_Systemy_Inteligentne_curriculum.csv"
-WIKIDATA_CONCEPTS_CSV = "/data/wikidata_concepts.csv"
 
 if __name__ == "__main__":
     print("Analysis in progres...")
-
     extractor = EducationalConceptExtractor(CURRICULUM_CSV)
-    extractor.extract_covered_concepts()
-    matched_df = extractor.match_covered_concepts_to_wikidata()
-    print(matched_df.head())

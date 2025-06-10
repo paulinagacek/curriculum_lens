@@ -1,0 +1,7 @@
+## Your example to analyze:
+Course Title: <course_name>
+Program content description: 
+"""
+<course_content>
+"""
+Output:

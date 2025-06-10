@@ -2,6 +2,11 @@
 
 # Curriculum lens
 
+### Words embeddings
+
+Wikipedia emdeddings (English, Polish TODO)
+https://fasttext.cc/docs/en/pretrained-vectors.html
+
 
 ### How to run :running:
 To run the application, use the following Docker Compose command:

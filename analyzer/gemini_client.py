@@ -4,7 +4,6 @@ from enum import Enum
 from dataclasses import dataclass
 from google import genai
 import os
-import json
 
 
 @dataclass

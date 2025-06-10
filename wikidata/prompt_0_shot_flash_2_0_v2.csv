@@ -1,0 +1,78 @@
+idx,course_name,program_content,educational_concepts,prompt_0_shot_flash_2_0_v2
+1,Final Project,Preparation of the diploma thesis,thesis preparation,"diploma thesis
+"
+2,Diploma Seminar,"In the first part of the course, the lecturers present the basic principles of preparation of engineering work and presentation for a thesis defense. In the rest of the course, students prepare presentations, which aim to discuss the purpose, scope and current progress of their engineering works. The course aims to prepare students for the thesis defense.",thesis preparation;public speaking skills;scientific communication,"thesis defense; engineering; presentation
+"
+3,Web application technologies,"History of the web, network foundations and protocols used for web application development
+Design of websites: HTML, CSS, responsive design, basics of typography
+Client-side interaction: JavaScript and related frameworks
+Server-side development: building and deploying web apps using Flask and other technologies, designing REST APIs for communication with front-end",web application development;history of the world wide web;network protocol;html;css;web design;responsive web design;typography;javascript;web framework;server-side scripting;flask (web framework);rest api,"World Wide Web; Web application; Network protocol; Website design; HTML; CSS; Responsive web design; Typography; JavaScript; Web framework; Server-side; Web application development; Flask (web framework); REST API
+"
+4,Introduction to Artificial Intelligence,"Discussion and explanation of the subject/course syllabus during the first class. Discussion of teaching content and supporting materials (literature, websites). Introduction: history, systems, methods, areas of application. AI definitions. Architecture of intelligent systems. Knowledge base systems (KBS). The concept of an intelligent agent. 
+Methods of representing and processing symbolic knowledge. Logic in AI. Examples of problems. Classification of models, methods and tools. State space search algorithms. Heuristic search methods. Prolog and logic programming as AI tools. 
+Programming with constraints. Rule systems, expert systems and business rules. Decision support systems. Planning. Automatic generation of plans. Tutored and unsupervised machine learning. Semantic web and ontologies. Probabilistic methods. The Bayesian rule and networks. Other selected AI issues. Summary. Development directions.",artificial intelligence;intelligent agent;knowledge-based system (kbs);knowledge representation;state space search algorithm;heuristic search method;ontological reasoning;logic programming;prolog;constraint programming;rule-based system;expert system;decision support system;unsupervised machine learning;supervised machine learning;semantic web;ontology;probabilistic method;bayesian network;bayes' theorem,"Artificial intelligence; Intelligent system; Knowledge base; Intelligent agent; Symbolic knowledge; Logic in artificial intelligence; State space search; Search algorithm; Heuristic search; Prolog; Logic programming; Constraint programming; Rule-based system; Expert system; Business rule; Decision support system; Planning; Automated planning; Machine learning; Semantic web; Ontology; Probabilistic method; Bayesian inference; Bayesian network
+"
+5,Formal Languages and Compilers,"Project in formal languages and compilers: Student implements a larger translator, compiler or interpreter.
+Labs in formal languages and compilers: Programming assignments: (1) lexical analyzer (scanner) (3) grammar specification and parser (2) abstract syntax tree (4) type checker and semantic analyser (5) code interpreter or generator
+Lectures on formal languages and compilers: (1) Introduction: alphabet, string, language, grammar (2) Regular expression, finite automata (3) Transformations of finite automata (4) Introduction to translation (5) Lexical analysis, scanner, flex/PLY (6) Grammars, context-free grammars (7) Push-down automata (8) Syntax analysis (9) LL parsing (10) LR parsing, bison, PLY (11) Semantic analysis, type-checking, attributive grammars (12) Intermediate code generation, stack frames (13) Code optimization, program analysis (14) Assemby code, target code generation
+Labs in formal languages and compilers: Programming assignments: (1) lexical analyzer (scanner) (3) grammar specification and parser (2) abstract syntax tree (4) type checker and semantic analyser (5) code interpreter or generator (6) code optimizer",formal language;compiler;interpreter;lexical analysis;scanner (lexical analysis);parser;regular expression;finite automaton;grammar;context-free grammar;pushdown automaton;syntax analysis;ll parsing;lr parsing;semantic analysis (program);type checking;stack frame;attribute grammar;code generation;code optimization;program analysis;assembly code;abstract syntax tree,"Formal language; Compiler; Interpreter (computing); Translator (computer science); Lexical analysis; Scanner (lexical analysis); Grammar (formal languages); Parser; Abstract syntax tree; Type checker; Semantic analysis; Code generator; Alphabet (formal languages); String (computer science); Regular expression; Finite automaton; Translation (computer science); Flex (lexical analyser generator); PLY (software); Context-free grammar; Pushdown automaton; Syntax analysis; LL parser; LR parser; Bison (parser generator); Attributive grammar; Intermediate representation; Stack frame; Code optimization; Program analysis; Assembly language; Target code; Code optimizer
+"
+6,Databases II,"* Relational database systems (short revision). * Database normalization and denormalization, impact on database performance. * NoSQL database systems: storage, processing, distribution, ACID and CAP. * GIS and spatial data. * Database systems for data warehouses, multidimensional data model, star schema. snowflake schema, OLAP cube operations. * Extract, Transform and Load (ETL) * Optimization of database performance. * Database systems security.
+Implementation of a database system.Gaining experience with database tools and programming.",relational database;database normalization;database denormalization;nosql database;acid properties;cap theorem;gis;spatial data;data warehouse;multidimensional data model;star schema;snowflake schema;olap;etl;database security;database tuning,"relational database; database normalization; denormalization; NoSQL database; ACID; CAP theorem; geographic information system; spatial data; data warehouse; multidimensional data model; star schema; snowflake schema; OLAP cube; extract, transform, load; database performance; database security
+"
+7,Fundamentals of Data Science,"Laboratory exercises illustrating selected problems of data analysis: 1. Outlier detection 2. Data dimensionality reduction. 3. Cluster analysis. 4. Classification. 5. Recommender systems and text mining.
+Individual projects aimed at familiarizing with realworld data science problems.
+1. Introduction to Data Science - history and methodological background.
+2. Typical workflow of data analysis.
+3. Data preprocessing - data reduction, cleaning, handling missing elements.
+4. Unsupervised learning - outlier detection and
+cluster analysis.
+5. Classification and regression.
+6. Recommender systems and text mining.
+7. Big Data - brief overview of issues and
+computational methods",outlier detection;big data;text mining;recommender system;unsupervised learning;dimensionality reduction;cluster analysis;classification;regression,"Outlier detection; Data dimensionality reduction; Cluster analysis; Classification; Recommender system; Text mining; Data science; Data analysis; Data preprocessing; Data reduction; Data cleaning; Missing data; Unsupervised learning; Regression analysis; Big data
+"
+8,Introduction to the Semantic Web and Knowledge Graphs,1. Main concepts of the Semantic Web and knowledge graphs 2. Modeling metadata 3. Querying metadata 4. Modeling knowledge with taxonomies and ontologies 5. Basics of ontology engineering 6. Ontological reasoning 7. Applications of the Semantic Web and knowledge graphs,semantic web;knowledge graph;metadata;querying;taxonomy;ontology;ontology engineering;ontological reasoning,"Semantic Web; knowledge graph; metadata modeling; metadata query; taxonomy; ontology; ontology engineering; ontological reasoning
+"
+9,Human-Computer Interaction,"Psychological aspects of Human-Computer Interaction.
+1. Designing experiments in the field.
+2. Apparatures including wearables in emotion recognition.
+3. Individual differences 
+Human-Robot Interaction.
+1. Role of popculture in robotics.
+2. Designing robots.
+Entertainment.
+1. Virtual Reality.
+2. Games.",human-computer interaction;experiment design;emotion recognition;human-robot interaction;robotics;computer game;virtual reality,"Human-computer interaction; Experiment design; Wearable computer; Emotion recognition; Individual differences; Human-robot interaction; Robotics; Virtual reality; Game
+"
+10,Python Language,"Python in a nutshell: Student knows Python language syntax Student knows basic data srtuctures and control flow tools. Lists, tuples and strings: Student knows the most commonly used data structures: lists and tuples. Student knows string methods. Dictionaries: Student knows what they are and how to use dictionaries. Functions: Student knows how to define functions, pass arguments and return value. Student knows variable scope rules. Lambda expressions: Student knows anonymous functions. Built-in functions: Student knows basic built-in functions. Generators and generator expressions: Student knows what they are and how to construct and use generators. Student knows what they are and how to use generators expressions. Files: Student knows how to read and write files. Modules: Student knows what they are and how to use modules. Classes: Student knows how to construct class. Student knows inheritance in particular multiple Inheritance",python;control flow;data structure;cpython;iterator;exception handling;class (programming);inheritance (programming);multiple inheritance;python module;lambda expressions;anonymous function;string;dictionary;python tuple;python list;generator;function;variable scope;file (programming),"Python syntax; data structure; list; tuple; string (computer science); string method; dictionary; function (computer science); argument (computer science); return value; variable scope; lambda expression; built-in function; generator (computer science); generator expression; file (computer science); module (computer science); class (computer science); inheritance (object-oriented programming); multiple inheritance
+"
+11,Modelling of Physical Systems,"Methodical aspects of numerical modeling:
+- Dynamic and static models, stationary and non-stationary models, models with
+lumped and distributed parameters.
+- Design a variety of computational grids.
+- Defining the boundary and initial conditions.
+- The simplifications used in the modeling (reduced dimensions, neglecting
+insignificant factors, etc.)
+- Stages of numerical modeling. Physical model. Computational model. A
+mathematical model. Calibration and scaling of the model. The calculation and
+verification of the results.
+- Selection of the numerical algorithm for solving the phenomenon (numerical
+stability, the stability criteria)
+- Forward and inverse modeling (optimization)
+Applications and limitations of methods:
+- Finite differences,
+- Finite Element
+- Monte Carlo
+- Lump parameter modelling
+Modelling of physical processes:
+- Distribution of stress, deformation
+- Transport processes (heat, diffusion, advection, convection, etc.)
+- Energy balance
+Modelling of environmental components:
+- atmosphere
+- soil-atmosphere interface
+- rivers and lakes
+- oceans
+- groundwater systems",numerical modeling;numerical algorithm;physical model;forward modelling;inverse modelling,"dynamic model; static model; stationary model; non-stationary model; lumped system model; distributed parameter system; computational grid; boundary condition; initial condition; physical model; computational model; mathematical model; model calibration; model scaling; numerical algorithm; numerical stability; stability criterion; forward modeling; inverse modeling; finite difference method; finite element method; Monte Carlo method; lumped element model; stress; deformation; heat transfer; diffusion; advection; convection; energy balance; atmosphere; soil-atmosphere interface; river; lake; ocean; groundwater
+"

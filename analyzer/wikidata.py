@@ -30,12 +30,13 @@ class WikidataEntity:
 
 class WikidataMatcher:
     def __init__(
-        self, similarity_threshold=0.5, cache_file: str = "/data/wikidata_cache.json"
+        self, cache_file: str = "/data/wikidata_cache.json"
     ):
         self.cache_file = cache_file
         self.cache = self.load_cache()
         self.max_nr_of_trials = 3
-        self.similarity_threshold = similarity_threshold
+        self.query_similarity_threshold = 0.5
+        self.course_similarity_threshold = 0.1
         self.embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
 
     def load_cache(self):
@@ -103,6 +104,7 @@ class WikidataMatcher:
                 return []
             
             filtered_entities = self._filter_entities(entities)
+            print(f"Filtered: {filtered_entities}")
 
             if not filtered_entities:
                 print(f"No valid Wikidata entities after filtering for query '{query}'.")
@@ -117,7 +119,7 @@ class WikidataMatcher:
         course_embedding = self.embedding_model.encode(f"{course_name}")
 
         scored = []
-        for entity in candidates:
+        for idx, entity in enumerate(candidates):
             text = (
                 f"{entity.label}: {entity.description}"
                 if entity.description
@@ -131,14 +133,14 @@ class WikidataMatcher:
             course_similarity = cosine_similarity([course_embedding], [candidate_embedding])[0][
                 0
             ]
-            if query_similarity >= self.similarity_threshold or course_similarity >= self.similarity_threshold:
-                scored.append((entity, query_similarity, course_similarity))
+            if query_similarity >= self.query_similarity_threshold or course_similarity >= self.course_similarity_threshold:
+                scored.append((entity, query_similarity, course_similarity, idx))
         print(scored)
         # Sort descending by similarity
-        scored.sort(key=lambda x: x[1], reverse=True)
+        scored.sort(key=lambda x: x[3])
         if len(scored) == 0: return None
 
-        best_match, best_query_score, best_course_score = scored[0]
+        best_match, best_query_score, best_course_score, idx = scored[0]
         print(
             f"Best match for '{query}' = '{best_match.label}' (score: {best_query_score:.2f})"
         )
@@ -157,7 +159,7 @@ class WikidataMatcher:
             VALUES ?item {{ {ids_formatted} }} 
             FILTER NOT EXISTS {{
                 ?item wdt:P31 ?type .
-                FILTER (?type IN (wd:Q7725634, wd:Q18918145, wd:Q13442814, wd:Q1368848))
+                FILTER (?type IN (wd:Q7725634, wd:Q18918145, wd:Q13442814, wd:Q1368848, wd:Q3331189, wd:Q5633421))
             }}
             SERVICE wikibase:label {{ bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }}
         }}

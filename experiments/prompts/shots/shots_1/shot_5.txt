@@ -1,0 +1,14 @@
+### Example 5:
+Course Title: Design Patterns
+Program content description:
+"""
+1. Project patterns. Motivations for using design patterns. Structure of the design pattern. Catalog of design patterns.
+2. Creation design patterns. Builder, abstract factory, manufacturing method, prototype, singleton.
+3. Structural design patterns Adapter, decorator, facade, composite, bridge, agent, pollen.
+4. Functional design patterns. Interpreter, iterator, chain of responsibility, mediator, template method, observer, visitors, memento, command, state, strategy.
+5. Data layer design patterns.
+6. Middleware design patterns.
+"""
+Output:
+design pattern
+

@@ -1,0 +1,85 @@
+course_name,concept,wikidata_qid,wikidata_label,wikidata_description,wikidata_url
+Linear Algebra and Analytic Geometry,geometric figure,Q123410761,geometric figure,geometric object including shape and size,https://www.wikidata.org/wiki/Q123410761
+Linear Algebra and Analytic Geometry,elementary functions,Q25303953,Liouvillian function,elementary functions and their finitely iterated integrals,https://www.wikidata.org/wiki/Q25303953
+Linear Algebra and Analytic Geometry,polynomial,Q43260,polynomial,mathematical expression consisting of variables and coefficients,https://www.wikidata.org/wiki/Q43260
+Linear Algebra and Analytic Geometry,polynomial root,Q20113351,polynomial root,value of the argument of a polynomial at which the polynomial evaluates to zero,https://www.wikidata.org/wiki/Q20113351
+Linear Algebra and Analytic Geometry,complex number,Q11567,complex number,"number that can be put in the form a + bi, where a and b are real numbers and i is called the imaginary unit",https://www.wikidata.org/wiki/Q11567
+Logic for IT specialists,set algebra,Q205464,algebraic structure,set equipped with one or more finitary operations defined on it,https://www.wikidata.org/wiki/Q205464
+Logic for IT specialists,relational algebra,Q840540,relational algebra,"family of algebras used for modelling the data stored in relational databases, and defining queries on it",https://www.wikidata.org/wiki/Q840540
+Logic for IT specialists,graph theory,Q131476,graph theory,"study of graphs, which are mathematical structures used to model pairwise relations between objects",https://www.wikidata.org/wiki/Q131476
+Introduction to Unix Systems,programming basics,,,,
+Physics 1,differential calculus,Q149999,differential calculus,subfield of calculus,https://www.wikidata.org/wiki/Q149999
+Discrete mathematics,function (mathematics),Q11348,function,association of a single output to each input,https://www.wikidata.org/wiki/Q11348
+Discrete mathematics,relation (mathematics),Q203066,relation,property that assigns truth values to k-tuples of individuals,https://www.wikidata.org/wiki/Q203066
+Programming Basics 2,c (programming language),Q15777,C,general-purpose programming language,https://www.wikidata.org/wiki/Q15777
+Programming Basics 2,syntax,Q37437,syntax,linguistic field that studies the inner structure of sentences,https://www.wikidata.org/wiki/Q37437
+Programming Basics 2,semantics,Q39645,semantics,"study of meaning of linguistic forms (words, phrases, etc.)",https://www.wikidata.org/wiki/Q39645
+Programming Basics 2,variable (programming),Q25203375,control variable,regulates the flow of control of a program,https://www.wikidata.org/wiki/Q25203375
+Programming Basics 2,function (mathematics),Q11348,function,association of a single output to each input,https://www.wikidata.org/wiki/Q11348
+Programming Basics 2,compilation,Q1614239,compilation,book or document composed of materials gathered from other books or documents,https://www.wikidata.org/wiki/Q1614239
+Programming Basics 2,linking (computing),Q5157630,Computing,journal,https://www.wikidata.org/wiki/Q5157630
+Programming Basics 2,pointer (computer programming),Q118155,pointer,type which stores memory addresses in a computer program,https://www.wikidata.org/wiki/Q118155
+Programming Basics 2,data type,Q190087,data type,classification of data in computer science,https://www.wikidata.org/wiki/Q190087
+Programming Basics 2,structure (computer science),Q175263,data structure,particular way of storing and organizing data in a computer,https://www.wikidata.org/wiki/Q175263
+Algorithms and data structures,logic,Q8078,logic,study of correct reasoning,https://www.wikidata.org/wiki/Q8078
+Algorithms and data structures,set theory,Q12482,set theory,"branch of mathematics that studies sets, which are collections of objects",https://www.wikidata.org/wiki/Q12482
+Algorithms and data structures,matrix (mathematics),Q44337,matrix,"rectangular array of numbers, symbols, or expressions, arranged in rows and columns",https://www.wikidata.org/wiki/Q44337
+Algorithms and data structures,graph (mathematics),Q141488,graph,mathematical structure made of vertices connected in pairs by edges,https://www.wikidata.org/wiki/Q141488
+Algorithms and data structures,logarithm,Q11197,logarithm,"inverse of the exponential function, which maps products to sums",https://www.wikidata.org/wiki/Q11197
+Operational research,matrix calculus,Q29167,matrix calculus,specialized notation for multivariable calculus,https://www.wikidata.org/wiki/Q29167
+Operational research,discrete mathematics,Q121416,discrete mathematics,study of discrete mathematical structures,https://www.wikidata.org/wiki/Q121416
+Operational research,mathematical analysis,Q7754,mathematical analysis,branch of mathematics,https://www.wikidata.org/wiki/Q7754
+Elements of modern physics,classical physics,Q81745,classical physics,"theories of physics that predate modern, more complete, or more widely applicable theories",https://www.wikidata.org/wiki/Q81745
+Elements of modern physics,mathematical analysis,Q7754,mathematical analysis,branch of mathematics,https://www.wikidata.org/wiki/Q7754
+Elements of modern physics,probability theory,Q5862903,probability theory,branch of mathematics concerning probability,https://www.wikidata.org/wiki/Q5862903
+Advanced programming 1,object-oriented programming,Q79872,object-oriented programming,programming paradigm based on the concept of objects,https://www.wikidata.org/wiki/Q79872
+Advanced programming 1,programming,Q80006,computer programming,the process of designing and building an executable computer program to accomplish a specific computing result or to perform a specific task,https://www.wikidata.org/wiki/Q80006
+Fundamentals of artificial intelligence,logic,Q8078,logic,study of correct reasoning,https://www.wikidata.org/wiki/Q8078
+Fundamentals of artificial intelligence,algebra,Q3968,algebra,part of mathematics in which letters and other symbols are used to represent numbers and quantities in formulae and equation,https://www.wikidata.org/wiki/Q3968
+Fundamentals of artificial intelligence,graph theory,Q131476,graph theory,"study of graphs, which are mathematical structures used to model pairwise relations between objects",https://www.wikidata.org/wiki/Q131476
+Fundamentals of artificial intelligence,declarative programming,Q531152,declarative programming,programming paradigm that expresses the logic of a computation without describing its control flow,https://www.wikidata.org/wiki/Q531152
+Fundamentals of artificial intelligence,python programming language,Q28865,Python,general-purpose programming language,https://www.wikidata.org/wiki/Q28865
+Fundamentals of artificial intelligence,programming,Q80006,computer programming,the process of designing and building an executable computer program to accomplish a specific computing result or to perform a specific task,https://www.wikidata.org/wiki/Q80006
+Databases,set algebra,Q205464,algebraic structure,set equipped with one or more finitary operations defined on it,https://www.wikidata.org/wiki/Q205464
+Databases,relational algebra,Q840540,relational algebra,"family of algebras used for modelling the data stored in relational databases, and defining queries on it",https://www.wikidata.org/wiki/Q840540
+Databases,logic,Q8078,logic,study of correct reasoning,https://www.wikidata.org/wiki/Q8078
+Databases,operating system,Q9135,operating system,software that manages computer hardware resources,https://www.wikidata.org/wiki/Q9135
+Formal linguistics and automata,programming language,Q9143,programming language,language for communicating instructions to a machine,https://www.wikidata.org/wiki/Q9143
+Formal linguistics and automata,compilation,Q1614239,compilation,book or document composed of materials gathered from other books or documents,https://www.wikidata.org/wiki/Q1614239
+Formal linguistics and automata,translation (computer science),Q7553,translation,transfer of the meaning of something in one language into another,https://www.wikidata.org/wiki/Q7553
+Formal linguistics and automata,logic,Q8078,logic,study of correct reasoning,https://www.wikidata.org/wiki/Q8078
+Formal linguistics and automata,set theory,Q12482,set theory,"branch of mathematics that studies sets, which are collections of objects",https://www.wikidata.org/wiki/Q12482
+Formal linguistics and automata,relation (mathematics),Q203066,relation,property that assigns truth values to k-tuples of individuals,https://www.wikidata.org/wiki/Q203066
+Formal linguistics and automata,computational complexity,Q5157286,computational complexity,measure of the amount of resources needed to run an algorithm or solve a computational problem,https://www.wikidata.org/wiki/Q5157286
+Software Engineering,programming paradigm,Q188267,programming paradigm,category of programming languages according to what methodology of designing and implementing programs their features support,https://www.wikidata.org/wiki/Q188267
+Software Engineering,programming process,Q28448452,PQL,special-purpose programming,https://www.wikidata.org/wiki/Q28448452
+Advanced programming 2,object-oriented programming,Q79872,object-oriented programming,programming paradigm based on the concept of objects,https://www.wikidata.org/wiki/Q79872
+Compilation Theory and Compilers,generative grammar,Q36108,generative grammar,theory in linguistics,https://www.wikidata.org/wiki/Q36108
+Compilation Theory and Compilers,parsing,Q194152,parsing,"process of analyzing a string of symbols, either in natural language, computer languages or data structures, conforming to the rules of a formal grammar",https://www.wikidata.org/wiki/Q194152
+Compilation Theory and Compilers,automaton,Q787116,automaton,self-operating machine,https://www.wikidata.org/wiki/Q787116
+Compilation Theory and Compilers,tree (data structure),Q223655,tree,abstract data type,https://www.wikidata.org/wiki/Q223655
+Compilation Theory and Compilers,graph (data structure),Q3045702,e-graph,graph data structure,https://www.wikidata.org/wiki/Q3045702
+Compilation Theory and Compilers,logic,Q8078,logic,study of correct reasoning,https://www.wikidata.org/wiki/Q8078
+Data Engineering,programming,Q80006,computer programming,the process of designing and building an executable computer program to accomplish a specific computing result or to perform a specific task,https://www.wikidata.org/wiki/Q80006
+Data Engineering,database system,Q176165,database management system,"software for running databases; computer-software application that interacts with end-users, other applications, and the database itself to capture and analyze data; allows the definition, creation, querying, update, and administration of databases",https://www.wikidata.org/wiki/Q176165
+Machine learning,probability theory,Q5862903,probability theory,branch of mathematics concerning probability,https://www.wikidata.org/wiki/Q5862903
+Machine learning,statistics,Q12483,statistics,"study of the collection, analysis, interpretation, and presentation of data",https://www.wikidata.org/wiki/Q12483
+Machine learning,linear algebra,Q82571,linear algebra,branch of mathematics that studies vector spaces and linear transformations,https://www.wikidata.org/wiki/Q82571
+Machine learning,python programming,Q37082486,Python Programming,Wikiversity course on the python programming language,https://www.wikidata.org/wiki/Q37082486
+Software development models,programming paradigm,Q188267,programming paradigm,category of programming languages according to what methodology of designing and implementing programs their features support,https://www.wikidata.org/wiki/Q188267
+Software development models,requirements engineering,Q376937,requirements engineering,"process of defining, documenting, and maintaining requirements in the engineering design process",https://www.wikidata.org/wiki/Q376937
+Software development models,systems analysis,Q679871,systems analysis,problem-solving technique that breaks down a system into its component pieces,https://www.wikidata.org/wiki/Q679871
+Software development models,use case model,Q613423,Use Case Diagram,UML use case diagram,https://www.wikidata.org/wiki/Q613423
+Design studio 1,software analysis,Q7554239,software analytics,"analysis of software systems including source code, software metrics, development processes aimed at describing, monitoring, predicting, and improving efficiency and effectivity of software engineering",https://www.wikidata.org/wiki/Q7554239
+Design studio 1,software design,Q857102,software design,process by which an agent creates a specification of a software artifact,https://www.wikidata.org/wiki/Q857102
+Design studio 1,programming skill,Q113112338,programming skill,ability to program computers,https://www.wikidata.org/wiki/Q113112338
+Internet of Things and Intelligent Embedded Systems,computer network,Q1301371,computer network,network that allows computers to share resources and communicate with each other,https://www.wikidata.org/wiki/Q1301371
+Theory of Computation,logic,Q8078,logic,study of correct reasoning,https://www.wikidata.org/wiki/Q8078
+Theory of Computation,set theory,Q12482,set theory,"branch of mathematics that studies sets, which are collections of objects",https://www.wikidata.org/wiki/Q12482
+Software Engineering Team Project,software analysis,Q7554239,software analytics,"analysis of software systems including source code, software metrics, development processes aimed at describing, monitoring, predicting, and improving efficiency and effectivity of software engineering",https://www.wikidata.org/wiki/Q7554239
+Software Engineering Team Project,software design,Q857102,software design,process by which an agent creates a specification of a software artifact,https://www.wikidata.org/wiki/Q857102
+Software Engineering Team Project,software development model,Q28528057,cathedral software development model,"type of free software development model in which source code is available with each software release, but code developed between releases is restricted to an exclusive group of software developers",https://www.wikidata.org/wiki/Q28528057
+Software Engineering Team Project,programming skill,Q113112338,programming skill,ability to program computers,https://www.wikidata.org/wiki/Q113112338
+Design Studio 2,software analysis,Q7554239,software analytics,"analysis of software systems including source code, software metrics, development processes aimed at describing, monitoring, predicting, and improving efficiency and effectivity of software engineering",https://www.wikidata.org/wiki/Q7554239
+Design Studio 2,software design,Q857102,software design,process by which an agent creates a specification of a software artifact,https://www.wikidata.org/wiki/Q857102
+Design Studio 2,programming skill,Q113112338,programming skill,ability to program computers,https://www.wikidata.org/wiki/Q113112338
